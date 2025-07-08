@@ -1,8 +1,8 @@
 # :star: List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Last updated 2025-07-07 03:33:17
+Last updated 2025-07-08 03:30:21
 
-829 stars in 46 languages
+837 stars in 46 languages
 
 ## Table of Contents
 
@@ -59,7 +59,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-12-10 23:49:11
 
-  **Stars**: 7204 stars
+  **Stars**: 7205 stars
 
   **Starred On**: 2025-06-28
 
@@ -69,7 +69,7 @@ Last updated 2025-07-07 03:33:17
 
 * [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches): Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
 
-  **Latest Update**: 2025-07-06 10:09:33
+  **Latest Update**: 2025-07-08 01:28:35
 
   **Stars**: 712 stars
 
@@ -83,13 +83,13 @@ Last updated 2025-07-07 03:33:17
 
 * [radareorg/radare2](https://github.com/radareorg/radare2): UNIX-like reverse engineering framework and command-line toolset
 
-  **Latest Update**: 2025-07-06 22:21:05
+  **Latest Update**: 2025-07-07 21:29:36
 
-  **Stars**: 21916 stars
+  **Stars**: 21922 stars
 
   **Starred On**: 2016-05-09
 
-  **Forks**: 3085 forks
+  **Forks**: 3086 forks
 
   **Topics**: [radare2](https://github.com/topics/radare2),
   [c](https://github.com/topics/c),
@@ -116,7 +116,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-10 01:23:57
 
-  **Stars**: 8311 stars
+  **Stars**: 8313 stars
 
   **Starred On**: 2016-05-14
 
@@ -145,7 +145,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 11:21:22
 
-  **Stars**: 8128 stars
+  **Stars**: 8130 stars
 
   **Starred On**: 2016-05-14
 
@@ -186,7 +186,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2019-12-19 21:57:23
 
-  **Stars**: 2138 stars
+  **Stars**: 2139 stars
 
   **Starred On**: 2017-04-04
 
@@ -211,13 +211,13 @@ Last updated 2025-07-07 03:33:17
 
 * [systemd/systemd](https://github.com/systemd/systemd): The systemd System and Service Manager
 
-  **Latest Update**: 2025-07-07 02:28:24
+  **Latest Update**: 2025-07-08 01:33:33
 
-  **Stars**: 14341 stars
+  **Stars**: 14348 stars
 
   **Starred On**: 2017-12-08
 
-  **Forks**: 4035 forks
+  **Forks**: 4036 forks
 
   **Topics**: [systemd](https://github.com/topics/systemd),
   [c](https://github.com/topics/c),
@@ -230,7 +230,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-02-01 13:37:13
 
-  **Stars**: 10481 stars
+  **Stars**: 10483 stars
 
   **Starred On**: 2018-01-21
 
@@ -248,17 +248,17 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-03 11:10:05
 
-  **Stars**: 21535 stars
+  **Stars**: 21539 stars
 
   **Starred On**: 2020-12-21
 
-  **Forks**: 3977 forks
+  **Forks**: 3980 forks
 
 * [Syllo/nvtop](https://github.com/Syllo/nvtop): GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 
   **Latest Update**: 2025-06-28 13:30:10
 
-  **Stars**: 9295 stars
+  **Stars**: 9300 stars
 
   **Starred On**: 2020-12-28
 
@@ -308,7 +308,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-06 08:48:59
 
-  **Stars**: 12790 stars
+  **Stars**: 12789 stars
 
   **Starred On**: 2025-06-28
 
@@ -323,23 +323,23 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-04 16:25:29
 
-  **Stars**: 32121 stars
+  **Stars**: 32136 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1645 forks
+  **Forks**: 1644 forks
 
   **Topics**: [jq](https://github.com/topics/jq)
 
 * [curl/curl](https://github.com/curl/curl): A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 
-  **Latest Update**: 2025-07-06 23:45:13
+  **Latest Update**: 2025-07-07 17:26:19
 
-  **Stars**: 38248 stars
+  **Stars**: 38253 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 6763 forks
+  **Forks**: 6762 forks
 
   **Topics**: [http](https://github.com/topics/http),
   [https](https://github.com/topics/https),
@@ -364,9 +364,9 @@ Last updated 2025-07-07 03:33:17
 
 * [citusdata/citus](https://github.com/citusdata/citus): Distributed PostgreSQL as an extension
 
-  **Latest Update**: 2025-07-04 08:16:55
+  **Latest Update**: 2025-07-07 13:53:18
 
-  **Stars**: 11554 stars
+  **Stars**: 11557 stars
 
   **Starred On**: 2025-06-28
 
@@ -387,9 +387,9 @@ Last updated 2025-07-07 03:33:17
 
 * [facebook/zstd](https://github.com/facebook/zstd): Zstandard - Fast real-time compression algorithm
 
-  **Latest Update**: 2025-06-30 06:19:58
+  **Latest Update**: 2025-07-07 06:37:53
 
-  **Stars**: 25217 stars
+  **Stars**: 25228 stars
 
   **Starred On**: 2025-06-28
 
@@ -397,13 +397,13 @@ Last updated 2025-07-07 03:33:17
 
 * [netdata/netdata](https://github.com/netdata/netdata): The fastest path to AI-powered full stack observability, even for lean teams.
 
-  **Latest Update**: 2025-07-07 00:25:59
+  **Latest Update**: 2025-07-08 00:43:05
 
-  **Stars**: 74988 stars
+  **Stars**: 74996 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 6082 forks
+  **Forks**: 6085 forks
 
   **Topics**: [monitoring](https://github.com/topics/monitoring),
   [docker](https://github.com/topics/docker),
@@ -430,7 +430,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-01 23:39:07
 
-  **Stars**: 19497 stars
+  **Stars**: 19500 stars
 
   **Starred On**: 2025-06-28
 
@@ -459,13 +459,13 @@ Last updated 2025-07-07 03:33:17
 
 * [timescale/timescaledb](https://github.com/timescale/timescaledb): A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
-  **Latest Update**: 2025-07-06 18:44:11
+  **Latest Update**: 2025-07-07 16:16:20
 
-  **Stars**: 19463 stars
+  **Stars**: 19472 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 952 forks
+  **Forks**: 951 forks
 
   **Topics**: [time-series-database](https://github.com/topics/time-series-database),
   [postgresql](https://github.com/topics/postgresql),
@@ -484,7 +484,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-04 11:52:31
 
-  **Stars**: 8892 stars
+  **Stars**: 8895 stars
 
   **Starred On**: 2025-06-28
 
@@ -496,7 +496,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-08 14:42:27
 
-  **Stars**: 10463 stars
+  **Stars**: 10465 stars
 
   **Starred On**: 2025-06-28
 
@@ -512,7 +512,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2023-07-28 13:24:26
 
-  **Stars**: 4663 stars
+  **Stars**: 4664 stars
 
   **Starred On**: 2025-06-28
 
@@ -525,13 +525,13 @@ Last updated 2025-07-07 03:33:17
 
 * [valkey-io/valkey](https://github.com/valkey-io/valkey): A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 
-  **Latest Update**: 2025-07-06 21:40:08
+  **Latest Update**: 2025-07-07 18:40:35
 
-  **Stars**: 22175 stars
+  **Stars**: 22186 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 938 forks
+  **Forks**: 940 forks
 
   **Topics**: [cache](https://github.com/topics/cache),
   [database](https://github.com/topics/database),
@@ -546,7 +546,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-01 18:13:30
 
-  **Stars**: 16417 stars
+  **Stars**: 16432 stars
 
   **Starred On**: 2025-06-28
 
@@ -557,13 +557,13 @@ Last updated 2025-07-07 03:33:17
 
 * [git/git](https://github.com/git/git): Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (<https://gitgitgadget.github.io/>). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 
-  **Latest Update**: 2025-07-02 20:27:18
+  **Latest Update**: 2025-07-07 23:08:35
 
-  **Stars**: 55534 stars
+  **Stars**: 55554 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 26382 forks
+  **Forks**: 26385 forks
 
   **Topics**: [c](https://github.com/topics/c),
   [shell](https://github.com/topics/shell),
@@ -573,7 +573,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 22:09:08
 
-  **Stars**: 31179 stars
+  **Stars**: 31188 stars
 
   **Starred On**: 2025-06-28
 
@@ -592,11 +592,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-04 17:50:02
 
-  **Stars**: 15093 stars
+  **Stars**: 15124 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 405 forks
+  **Forks**: 406 forks
 
   **Topics**: [sqlite](https://github.com/topics/sqlite),
   [database](https://github.com/topics/database),
@@ -608,11 +608,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-02 11:03:43
 
-  **Stars**: 38016 stars
+  **Stars**: 38027 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2219 forks
+  **Forks**: 2220 forks
 
 * [acg/w3m](https://github.com/acg/w3m): a text-based web browser
 
@@ -628,7 +628,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-04-27 06:46:45
 
-  **Stars**: 428 stars
+  **Stars**: 429 stars
 
   **Starred On**: 2025-06-28
 
@@ -638,7 +638,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-11-17 00:20:51
 
-  **Stars**: 1218 stars
+  **Stars**: 1219 stars
 
   **Starred On**: 2025-06-28
 
@@ -682,7 +682,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-10 13:33:57
 
-  **Stars**: 9242 stars
+  **Stars**: 9253 stars
 
   **Starred On**: 2025-06-28
 
@@ -720,11 +720,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 21:10:45
 
-  **Stars**: 197088 stars
+  **Stars**: 197169 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 56830 forks
+  **Forks**: 56851 forks
 
 * [cronie-crond/cronie](https://github.com/cronie-crond/cronie): Cronie cron daemon project
 
@@ -740,7 +740,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 10:58:26
 
-  **Stars**: 5029 stars
+  **Stars**: 5032 stars
 
   **Starred On**: 2025-06-28
 
@@ -764,7 +764,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-06-13 16:40:00
 
-  **Stars**: 2670 stars
+  **Stars**: 2672 stars
 
   **Starred On**: 2025-06-28
 
@@ -783,13 +783,13 @@ Last updated 2025-07-07 03:33:17
 
 * [PipeWire/pipewire](https://github.com/PipeWire/pipewire): Mirror of the PipeWire repository (see <https://gitlab.freedesktop.org/pipewire/pipewire/>)
 
-  **Latest Update**: 2025-07-03 19:07:56
+  **Latest Update**: 2025-07-07 10:42:21
 
-  **Stars**: 1945 stars
+  **Stars**: 1947 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 143 forks
+  **Forks**: 144 forks
 
   **Topics**: [multimedia](https://github.com/topics/multimedia),
   [audio](https://github.com/topics/audio),
@@ -799,7 +799,7 @@ Last updated 2025-07-07 03:33:17
 
 * [bluez/bluez](https://github.com/bluez/bluez): Main BlueZ tree
 
-  **Latest Update**: 2025-07-03 19:24:02
+  **Latest Update**: 2025-07-07 19:59:01
 
   **Stars**: 878 stars
 
@@ -815,13 +815,13 @@ Last updated 2025-07-07 03:33:17
 
 * [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick): ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.
 
-  **Latest Update**: 2025-07-06 17:40:35
+  **Latest Update**: 2025-07-08 01:51:09
 
-  **Stars**: 13920 stars
+  **Stars**: 13925 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1464 forks
+  **Forks**: 1465 forks
 
   **Topics**: [imagemagick](https://github.com/topics/imagemagick),
   [image-conversion](https://github.com/topics/image-conversion),
@@ -836,7 +836,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-01 20:21:49
 
-  **Stars**: 7055 stars
+  **Stars**: 7056 stars
 
   **Starred On**: 2025-06-28
 
@@ -846,7 +846,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-25 13:22:35
 
-  **Stars**: 4527 stars
+  **Stars**: 4529 stars
 
   **Starred On**: 2025-06-29
 
@@ -856,21 +856,21 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-05 23:09:32
 
-  **Stars**: 24626 stars
+  **Stars**: 24627 stars
 
   **Starred On**: 2025-06-30
 
-  **Forks**: 3137 forks
+  **Forks**: 3139 forks
 
 * [obsproject/obs-studio](https://github.com/obsproject/obs-studio): OBS Studio - Free and open source software for live streaming and screen recording
 
-  **Latest Update**: 2025-07-05 00:43:26
+  **Latest Update**: 2025-07-08 00:45:10
 
-  **Stars**: 65401 stars
+  **Stars**: 65420 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 8527 forks
+  **Forks**: 8529 forks
 
   **Topics**: [c](https://github.com/topics/c),
   [c-plus-plus](https://github.com/topics/c-plus-plus),
@@ -886,13 +886,13 @@ Last updated 2025-07-07 03:33:17
 
 * [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg): Mirror of <https://git.ffmpeg.org/ffmpeg.git>
 
-  **Latest Update**: 2025-07-07 00:10:05
+  **Latest Update**: 2025-07-07 22:20:04
 
-  **Stars**: 51086 stars
+  **Stars**: 51098 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 12783 forks
+  **Forks**: 12789 forks
 
   **Topics**: [ffmpeg](https://github.com/topics/ffmpeg),
   [video](https://github.com/topics/video),
@@ -918,7 +918,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-03 23:58:50
 
-  **Stars**: 1832 stars
+  **Stars**: 1833 stars
 
   **Starred On**: 2025-06-28
 
@@ -929,13 +929,13 @@ Last updated 2025-07-07 03:33:17
 
 * [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture): Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 9
 
-  **Latest Update**: 2025-07-03 20:01:44
+  **Latest Update**: 2025-07-07 16:40:55
 
-  **Stars**: 17201 stars
+  **Stars**: 17205 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2943 forks
+  **Forks**: 2942 forks
 
   **Topics**: [clean-architecture](https://github.com/topics/clean-architecture),
   [architecture](https://github.com/topics/architecture),
@@ -947,9 +947,9 @@ Last updated 2025-07-07 03:33:17
 
 * [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA): Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, \*BSD and Mac OS X.
 
-  **Latest Update**: 2025-06-30 17:19:21
+  **Latest Update**: 2025-07-07 17:33:59
 
-  **Stars**: 15700 stars
+  **Stars**: 15705 stars
 
   **Starred On**: 2025-06-28
 
@@ -973,13 +973,13 @@ Last updated 2025-07-07 03:33:17
 
 * [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): The Free Software Media System - Server Backend & API
 
-  **Latest Update**: 2025-07-05 09:08:39
+  **Latest Update**: 2025-07-08 00:10:50
 
-  **Stars**: 41174 stars
+  **Stars**: 41201 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 3680 forks
+  **Forks**: 3681 forks
 
   **Topics**: [jellyfin](https://github.com/topics/jellyfin),
   [csharp](https://github.com/topics/csharp),
@@ -989,7 +989,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-02 08:51:52
 
-  **Stars**: 9882 stars
+  **Stars**: 9890 stars
 
   **Starred On**: 2025-07-02
 
@@ -1006,17 +1006,17 @@ Last updated 2025-07-07 03:33:17
 
 ## C++
 
-43 repos
+42 repos
 
 * [godotengine/godot](https://github.com/godotengine/godot): Godot Engine – Multi-platform 2D and 3D game engine
 
-  **Latest Update**: 2025-07-04 17:41:39
+  **Latest Update**: 2025-07-07 15:14:02
 
-  **Stars**: 98660 stars
+  **Stars**: 98700 stars
 
   **Starred On**: 2016-05-09
 
-  **Forks**: 22739 forks
+  **Forks**: 22745 forks
 
   **Topics**: [game-engine](https://github.com/topics/game-engine),
   [godot](https://github.com/topics/godot),
@@ -1074,11 +1074,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-26 19:02:48
 
-  **Stars**: 9337 stars
+  **Stars**: 9338 stars
 
   **Starred On**: 2016-06-20
 
-  **Forks**: 1165 forks
+  **Forks**: 1164 forks
 
 * [gzc/CLRS](https://github.com/gzc/CLRS): :notebook:Solutions to Introduction to Algorithms
 
@@ -1088,7 +1088,7 @@ Last updated 2025-07-07 03:33:17
 
   **Starred On**: 2016-06-21
 
-  **Forks**: 2749 forks
+  **Forks**: 2748 forks
 
 * [keystone-engine/keystone](https://github.com/keystone-engine/keystone): Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bindings
 
@@ -1146,7 +1146,7 @@ Last updated 2025-07-07 03:33:17
 
 * [Icinga/icinga2](https://github.com/Icinga/icinga2): The core of our monitoring platform with a powerful configuration language and REST API.
 
-  **Latest Update**: 2025-07-04 15:01:30
+  **Latest Update**: 2025-07-07 14:57:40
 
   **Stars**: 2105 stars
 
@@ -1217,13 +1217,13 @@ Last updated 2025-07-07 03:33:17
 
   **Starred On**: 2025-02-05
 
-  **Forks**: 52 forks
+  **Forks**: 53 forks
 
 * [tstack/lnav](https://github.com/tstack/lnav): Log file navigator
 
   **Latest Update**: 2025-06-19 04:47:08
 
-  **Stars**: 8888 stars
+  **Stars**: 8891 stars
 
   **Starred On**: 2025-06-28
 
@@ -1247,7 +1247,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-02 17:08:55
 
-  **Stars**: 12078 stars
+  **Stars**: 12079 stars
 
   **Starred On**: 2025-06-28
 
@@ -1257,21 +1257,21 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-03-07 10:44:54
 
-  **Stars**: 8042 stars
+  **Stars**: 8043 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 744 forks
+  **Forks**: 743 forks
 
 * [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos): World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
 
   **Latest Update**: 2024-10-05 22:20:46
 
-  **Stars**: 13674 stars
+  **Stars**: 13677 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 3680 forks
+  **Forks**: 3679 forks
 
   **Topics**: [opengenus](https://github.com/topics/opengenus),
   [algorithm](https://github.com/topics/algorithm),
@@ -1291,13 +1291,13 @@ Last updated 2025-07-07 03:33:17
 
 * [typesense/typesense](https://github.com/typesense/typesense): Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 
-  **Latest Update**: 2025-07-04 13:07:50
+  **Latest Update**: 2025-07-08 02:00:45
 
-  **Stars**: 23753 stars
+  **Stars**: 23765 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 785 forks
+  **Forks**: 786 forks
 
   **Topics**: [search-engine](https://github.com/topics/search-engine),
   [search](https://github.com/topics/search),
@@ -1322,9 +1322,9 @@ Last updated 2025-07-07 03:33:17
 
 * [duckdb/duckdb](https://github.com/duckdb/duckdb): DuckDB is an analytical in-process SQL database management system
 
-  **Latest Update**: 2025-07-05 21:24:47
+  **Latest Update**: 2025-07-07 12:40:29
 
-  **Stars**: 30769 stars
+  **Stars**: 30794 stars
 
   **Starred On**: 2025-06-28
 
@@ -1338,9 +1338,9 @@ Last updated 2025-07-07 03:33:17
 
 * [ml-explore/mlx](https://github.com/ml-explore/mlx): MLX: An array framework for Apple silicon
 
-  **Latest Update**: 2025-07-05 19:43:50
+  **Latest Update**: 2025-07-08 03:00:43
 
-  **Stars**: 21342 stars
+  **Stars**: 21351 stars
 
   **Starred On**: 2025-06-28
 
@@ -1350,9 +1350,9 @@ Last updated 2025-07-07 03:33:17
 
 * [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
 
-  **Latest Update**: 2025-07-06 21:27:36
+  **Latest Update**: 2025-07-07 13:39:06
 
-  **Stars**: 10710 stars
+  **Stars**: 10711 stars
 
   **Starred On**: 2025-06-28
 
@@ -1376,9 +1376,9 @@ Last updated 2025-07-07 03:33:17
 
 * [mongodb/mongo](https://github.com/mongodb/mongo): The MongoDB Database
 
-  **Latest Update**: 2025-07-04 21:37:07
+  **Latest Update**: 2025-07-08 00:12:51
 
-  **Stars**: 27288 stars
+  **Stars**: 27293 stars
 
   **Starred On**: 2025-06-28
 
@@ -1393,11 +1393,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 20:04:26
 
-  **Stars**: 67988 stars
+  **Stars**: 68009 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 10005 forks
+  **Forks**: 10008 forks
 
   **Topics**: [tesseract](https://github.com/topics/tesseract),
   [tesseract-ocr](https://github.com/topics/tesseract-ocr),
@@ -1409,13 +1409,13 @@ Last updated 2025-07-07 03:33:17
 
 * [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse): ClickHouse® is a real-time analytics database management system
 
-  **Latest Update**: 2025-07-07 03:00:35
+  **Latest Update**: 2025-07-08 01:40:59
 
-  **Stars**: 41558 stars
+  **Stars**: 41583 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 7446 forks
+  **Forks**: 7448 forks
 
   **Topics**: [dbms](https://github.com/topics/dbms),
   [olap](https://github.com/topics/olap),
@@ -1439,7 +1439,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-05 13:38:56
 
-  **Stars**: 27114 stars
+  **Stars**: 27119 stars
 
   **Starred On**: 2025-06-28
 
@@ -1457,13 +1457,13 @@ Last updated 2025-07-07 03:33:17
 
 * [ethereum/solidity](https://github.com/ethereum/solidity): Solidity, the Smart Contract Programming Language
 
-  **Latest Update**: 2025-07-04 20:06:45
+  **Latest Update**: 2025-07-07 19:25:18
 
-  **Stars**: 24574 stars
+  **Stars**: 24585 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 6118 forks
+  **Forks**: 6119 forks
 
   **Topics**: [cpp](https://github.com/topics/cpp),
   [ethereum](https://github.com/topics/ethereum),
@@ -1476,9 +1476,9 @@ Last updated 2025-07-07 03:33:17
 
 * [envoyproxy/envoy](https://github.com/envoyproxy/envoy): Cloud-native high-performance edge/middle/service proxy
 
-  **Latest Update**: 2025-07-06 22:05:35
+  **Latest Update**: 2025-07-07 20:30:21
 
-  **Stars**: 26230 stars
+  **Stars**: 26233 stars
 
   **Starred On**: 2025-06-28
 
@@ -1495,7 +1495,7 @@ Last updated 2025-07-07 03:33:17
 
 * [falcosecurity/falco](https://github.com/falcosecurity/falco): Cloud Native Runtime Security
 
-  **Latest Update**: 2025-07-02 15:22:31
+  **Latest Update**: 2025-07-07 06:41:18
 
   **Stars**: 8046 stars
 
@@ -1549,7 +1549,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-02-13 17:02:42
 
-  **Stars**: 16066 stars
+  **Stars**: 16068 stars
 
   **Starred On**: 2025-06-28
 
@@ -1570,7 +1570,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-09 03:36:03
 
-  **Stars**: 18601 stars
+  **Stars**: 18604 stars
 
   **Starred On**: 2025-06-28
 
@@ -1591,9 +1591,9 @@ Last updated 2025-07-07 03:33:17
 
 * [cocos/cocos-engine](https://github.com/cocos/cocos-engine): Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.
 
-  **Latest Update**: 2025-07-01 08:55:17
+  **Latest Update**: 2025-07-08 02:09:23
 
-  **Stars**: 8805 stars
+  **Stars**: 8806 stars
 
   **Starred On**: 2025-06-28
 
@@ -1616,7 +1616,7 @@ Last updated 2025-07-07 03:33:17
 
 * [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2): An open source re-implementation of RollerCoaster Tycoon 2 🎢
 
-  **Latest Update**: 2025-07-06 04:11:23
+  **Latest Update**: 2025-07-07 04:11:18
 
   **Stars**: 14439 stars
 
@@ -1649,23 +1649,23 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-08-17 03:00:37
 
-  **Stars**: 2778 stars
+  **Stars**: 2779 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 535 forks
+  **Forks**: 536 forks
 
   **Archived On**: 2024-09-09
 
 * [zen-browser/desktop](https://github.com/zen-browser/desktop): Welcome to a calmer internet
 
-  **Latest Update**: 2025-07-05 21:00:21
+  **Latest Update**: 2025-07-07 18:53:21
 
-  **Stars**: 33915 stars
+  **Stars**: 34008 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 950 forks
+  **Forks**: 954 forks
 
   **Topics**: [firefox](https://github.com/topics/firefox),
   [firefox-based](https://github.com/topics/firefox-based),
@@ -1674,13 +1674,13 @@ Last updated 2025-07-07 03:33:17
 
 * [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland): Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 
-  **Latest Update**: 2025-07-05 11:19:04
+  **Latest Update**: 2025-07-07 21:44:35
 
-  **Stars**: 26720 stars
+  **Stars**: 26751 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1139 forks
+  **Forks**: 1141 forks
 
   **Topics**: [wayland](https://github.com/topics/wayland),
   [wayland-compositor](https://github.com/topics/wayland-compositor),
@@ -1691,17 +1691,17 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-28 19:44:09
 
-  **Stars**: 1157 stars
+  **Stars**: 1159 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 95 forks
+  **Forks**: 96 forks
 
 * [Plutoberth/SonyHeadphonesClient](https://github.com/Plutoberth/SonyHeadphonesClient): A {Windows, macOS, Linux} client recreating the functionality of the Sony Headphones app
 
   **Latest Update**: 2024-12-27 13:21:47
 
-  **Stars**: 1240 stars
+  **Stars**: 1241 stars
 
   **Starred On**: 2025-06-28
 
@@ -1721,47 +1721,17 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-04 11:03:47
 
-  **Stars**: 25623 stars
+  **Stars**: 25637 stars
 
   **Starred On**: 2025-06-28
 
   **Forks**: 765 forks
 
-* [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede): Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
-
-  **Latest Update**: 2025-06-30 16:50:06
-
-  **Stars**: 10466 stars
-
-  **Starred On**: 2025-06-29
-
-  **Forks**: 655 forks
-
-  **Topics**: [bittorrent-client](https://github.com/topics/bittorrent-client),
-  [download-manager](https://github.com/topics/download-manager),
-  [download-videos](https://github.com/topics/download-videos),
-  [bt](https://github.com/topics/bt),
-  [magnet](https://github.com/topics/magnet),
-  [libtorrent](https://github.com/topics/libtorrent),
-  [http-client](https://github.com/topics/http-client),
-  [ftp-client](https://github.com/topics/ftp-client),
-  [download](https://github.com/topics/download),
-  [video-downloader](https://github.com/topics/video-downloader),
-  [stream-downloader](https://github.com/topics/stream-downloader),
-  [torrent](https://github.com/topics/torrent),
-  [qbittorrent](https://github.com/topics/qbittorrent),
-  [transmission](https://github.com/topics/transmission),
-  [webdav-client](https://github.com/topics/webdav-client),
-  [ssh-client](https://github.com/topics/ssh-client),
-  [m3u8](https://github.com/topics/m3u8),
-  [remote-download](https://github.com/topics/remote-download),
-  [qt](https://github.com/topics/qt)
-
 * [goldendict/goldendict](https://github.com/goldendict/goldendict): A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.
 
   **Latest Update**: 2025-05-21 09:01:08
 
-  **Stars**: 6248 stars
+  **Stars**: 6250 stars
 
   **Starred On**: 2025-07-02
 
@@ -1804,11 +1774,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-13 04:38:52
 
-  **Stars**: 58539 stars
+  **Stars**: 58559 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 3758 forks
+  **Forks**: 3761 forks
 
   **Topics**: [fonts](https://github.com/topics/fonts),
   [patched-fonts](https://github.com/topics/patched-fonts),
@@ -1828,7 +1798,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2023-04-22 00:45:54
 
-  **Stars**: 2520 stars
+  **Stars**: 2521 stars
 
   **Starred On**: 2025-06-28
 
@@ -1848,7 +1818,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-27 16:28:35
 
-  **Stars**: 49829 stars
+  **Stars**: 49828 stars
 
   **Starred On**: 2025-06-28
 
@@ -1864,7 +1834,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-03-15 06:48:59
 
-  **Stars**: 15060 stars
+  **Stars**: 15061 stars
 
   **Starred On**: 2025-06-28
 
@@ -1887,7 +1857,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-12-01 10:45:56
 
-  **Stars**: 2699 stars
+  **Stars**: 2700 stars
 
   **Starred On**: 2025-07-02
 
@@ -1903,13 +1873,13 @@ Last updated 2025-07-07 03:33:17
 
 * [metabase/metabase](https://github.com/metabase/metabase): The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar\_chart:
 
-  **Latest Update**: 2025-07-07 02:05:34
+  **Latest Update**: 2025-07-08 03:15:58
 
-  **Stars**: 42646 stars
+  **Stars**: 42664 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 5692 forks
+  **Forks**: 5696 forks
 
   **Topics**: [analytics](https://github.com/topics/analytics),
   [businessintelligence](https://github.com/topics/businessintelligence),
@@ -1934,11 +1904,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-16 14:49:21
 
-  **Stars**: 79332 stars
+  **Stars**: 79344 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 3150 forks
+  **Forks**: 3151 forks
 
   **Topics**: [programming-ligatures](https://github.com/topics/programming-ligatures),
   [font](https://github.com/topics/font),
@@ -1946,13 +1916,13 @@ Last updated 2025-07-07 03:33:17
 
 * [logseq/logseq](https://github.com/logseq/logseq): A privacy-first, open-source platform for knowledge management and collaboration. Download link:  <http://github.com/logseq/logseq/releases>. roadmap: <http://trello.com/b/8txSM12G/roadmap>
 
-  **Latest Update**: 2025-07-06 05:54:24
+  **Latest Update**: 2025-07-08 02:38:29
 
-  **Stars**: 37378 stars
+  **Stars**: 37396 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2213 forks
+  **Forks**: 2214 forks
 
   **Topics**: [knowledge-base](https://github.com/topics/knowledge-base),
   [graph](https://github.com/topics/graph),
@@ -1968,13 +1938,13 @@ Last updated 2025-07-07 03:33:17
 
 * [penpot/penpot](https://github.com/penpot/penpot): Penpot: The open-source design tool for design and code collaboration
 
-  **Latest Update**: 2025-07-04 14:45:05
+  **Latest Update**: 2025-07-07 17:04:04
 
-  **Stars**: 38899 stars
+  **Stars**: 38931 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2042 forks
+  **Forks**: 2045 forks
 
   **Topics**: [ux-design](https://github.com/topics/ux-design),
   [ux-experience](https://github.com/topics/ux-experience),
@@ -2002,7 +1972,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-04 07:52:57
 
-  **Stars**: 5876 stars
+  **Stars**: 5880 stars
 
   **Starred On**: 2025-06-29
 
@@ -2028,11 +1998,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-26 19:15:13
 
-  **Stars**: 17533 stars
+  **Stars**: 17536 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1960 forks
+  **Forks**: 1961 forks
 
   **Topics**: [invidious](https://github.com/topics/invidious),
   [watch](https://github.com/topics/watch),
@@ -2049,11 +2019,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-03 01:49:30
 
-  **Stars**: 64276 stars
+  **Stars**: 64294 stars
 
   **Starred On**: 2024-11-13
 
-  **Forks**: 4417 forks
+  **Forks**: 4418 forks
 
   **Topics**: [content-management](https://github.com/topics/content-management),
   [content-services](https://github.com/topics/content-services),
@@ -2076,7 +2046,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-03-04 06:58:23
 
-  **Stars**: 1963 stars
+  **Stars**: 1965 stars
 
   **Starred On**: 2023-05-19
 
@@ -2088,11 +2058,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-04-15 21:52:42
 
-  **Stars**: 103238 stars
+  **Stars**: 103285 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 10479 forks
+  **Forks**: 10487 forks
 
   **Topics**: [nodejs](https://github.com/topics/nodejs),
   [javascript](https://github.com/topics/javascript),
@@ -2135,7 +2105,7 @@ Last updated 2025-07-07 03:33:17
 
 * [firezone/firezone](https://github.com/firezone/firezone): Enterprise-ready zero-trust access platform built on WireGuard®.
 
-  **Latest Update**: 2025-07-06 22:15:27
+  **Latest Update**: 2025-07-07 22:56:32
 
   **Stars**: 7376 stars
 
@@ -2166,13 +2136,13 @@ Last updated 2025-07-07 03:33:17
 
 * [plausible/analytics](https://github.com/plausible/analytics): Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
-  **Latest Update**: 2025-07-04 13:00:18
+  **Latest Update**: 2025-07-07 17:39:47
 
-  **Stars**: 22822 stars
+  **Stars**: 22831 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1241 forks
+  **Forks**: 1239 forks
 
   **Topics**: [analytics](https://github.com/topics/analytics),
   [privacy](https://github.com/topics/privacy),
@@ -2199,13 +2169,13 @@ Last updated 2025-07-07 03:33:17
 
 * [moby/moby](https://github.com/moby/moby): The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
-  **Latest Update**: 2025-07-05 15:16:41
+  **Latest Update**: 2025-07-07 19:27:04
 
-  **Stars**: 70044 stars
+  **Stars**: 70051 stars
 
   **Starred On**: 2016-05-09
 
-  **Forks**: 18776 forks
+  **Forks**: 18777 forks
 
   **Topics**: [docker](https://github.com/topics/docker),
   [containers](https://github.com/topics/containers),
@@ -2277,13 +2247,13 @@ Last updated 2025-07-07 03:33:17
 
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 
-  **Latest Update**: 2025-07-06 19:07:36
+  **Latest Update**: 2025-07-07 10:08:36
 
-  **Stars**: 51384 stars
+  **Stars**: 51398 stars
 
   **Starred On**: 2016-09-20
 
-  **Forks**: 4596 forks
+  **Forks**: 4598 forks
 
   **Topics**: [golang](https://github.com/topics/golang),
   [go](https://github.com/topics/go),
@@ -2337,17 +2307,17 @@ Last updated 2025-07-07 03:33:17
 
   **Starred On**: 2020-01-09
 
-  **Forks**: 373 forks
+  **Forks**: 372 forks
 
 * [gohugoio/hugo](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 
-  **Latest Update**: 2025-07-05 16:11:28
+  **Latest Update**: 2025-07-07 16:41:45
 
-  **Stars**: 82028 stars
+  **Stars**: 82060 stars
 
   **Starred On**: 2020-01-12
 
-  **Forks**: 7929 forks
+  **Forks**: 7932 forks
 
   **Topics**: [go](https://github.com/topics/go),
   [hugo](https://github.com/topics/hugo),
@@ -2359,9 +2329,9 @@ Last updated 2025-07-07 03:33:17
 
 * [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog): 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 
-  **Latest Update**: 2025-07-03 18:45:59
+  **Latest Update**: 2025-07-07 16:44:16
 
-  **Stars**: 8516 stars
+  **Stars**: 8519 stars
 
   **Starred On**: 2020-12-29
 
@@ -2385,7 +2355,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-09-04 08:49:04
 
-  **Stars**: 3384 stars
+  **Stars**: 3386 stars
 
   **Starred On**: 2023-12-19
 
@@ -2395,7 +2365,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-10 10:44:39
 
-  **Stars**: 1958 stars
+  **Stars**: 1959 stars
 
   **Starred On**: 2024-05-20
 
@@ -2440,9 +2410,9 @@ Last updated 2025-07-07 03:33:17
 
 * [derailed/k9s](https://github.com/derailed/k9s): 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 
-  **Latest Update**: 2025-07-05 17:02:12
+  **Latest Update**: 2025-07-08 01:48:42
 
-  **Stars**: 30304 stars
+  **Stars**: 30318 stars
 
   **Starred On**: 2024-11-13
 
@@ -2459,13 +2429,13 @@ Last updated 2025-07-07 03:33:17
 
 * [siderolabs/talos](https://github.com/siderolabs/talos): Talos Linux is a modern Linux distribution built for Kubernetes.
 
-  **Latest Update**: 2025-07-03 14:44:04
+  **Latest Update**: 2025-07-07 19:25:52
 
-  **Stars**: 8284 stars
+  **Stars**: 8288 stars
 
   **Starred On**: 2024-11-13
 
-  **Forks**: 685 forks
+  **Forks**: 684 forks
 
   **Topics**: [linux](https://github.com/topics/linux),
   [linux-distribution](https://github.com/topics/linux-distribution),
@@ -2485,7 +2455,7 @@ Last updated 2025-07-07 03:33:17
 
   **Starred On**: 2024-11-13
 
-  **Forks**: 339 forks
+  **Forks**: 338 forks
 
   **Topics**: [datastructures](https://github.com/topics/datastructures),
   [algorithms](https://github.com/topics/algorithms),
@@ -2498,13 +2468,13 @@ Last updated 2025-07-07 03:33:17
 
 * [fleetdm/fleet](https://github.com/fleetdm/fleet): Open device management
 
-  **Latest Update**: 2025-07-07 00:51:31
+  **Latest Update**: 2025-07-07 23:22:20
 
-  **Stars**: 5191 stars
+  **Stars**: 5193 stars
 
   **Starred On**: 2025-05-19
 
-  **Forks**: 608 forks
+  **Forks**: 610 forks
 
   **Topics**: [osquery](https://github.com/topics/osquery),
   [gitops](https://github.com/topics/gitops),
@@ -2527,13 +2497,13 @@ Last updated 2025-07-07 03:33:17
 
 * [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 
-  **Latest Update**: 2025-07-06 00:20:42
+  **Latest Update**: 2025-07-08 00:20:16
 
-  **Stars**: 145744 stars
+  **Stars**: 145843 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 12311 forks
+  **Forks**: 12315 forks
 
   **Topics**: [llama](https://github.com/topics/llama),
   [llm](https://github.com/topics/llm),
@@ -2554,13 +2524,13 @@ Last updated 2025-07-07 03:33:17
 
 * [ory/kratos](https://github.com/ory/kratos): Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.
 
-  **Latest Update**: 2025-07-03 09:40:20
+  **Latest Update**: 2025-07-07 17:15:01
 
-  **Stars**: 12057 stars
+  **Stars**: 12065 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1019 forks
+  **Forks**: 1020 forks
 
   **Topics**: [identity](https://github.com/topics/identity),
   [identity-management](https://github.com/topics/identity-management),
@@ -2576,9 +2546,9 @@ Last updated 2025-07-07 03:33:17
 
 * [ory/keto](https://github.com/ory/keto): The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
 
-  **Latest Update**: 2025-07-04 11:49:47
+  **Latest Update**: 2025-07-07 17:21:09
 
-  **Stars**: 5057 stars
+  **Stars**: 5058 stars
 
   **Starred On**: 2025-06-28
 
@@ -2588,9 +2558,9 @@ Last updated 2025-07-07 03:33:17
 
 * [ory/hydra](https://github.com/ory/hydra): The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security.
 
-  **Latest Update**: 2025-07-04 12:00:43
+  **Latest Update**: 2025-07-07 17:30:38
 
-  **Stars**: 16323 stars
+  **Stars**: 16327 stars
 
   **Starred On**: 2025-06-28
 
@@ -2619,9 +2589,9 @@ Last updated 2025-07-07 03:33:17
 
 * [ory/oathkeeper](https://github.com/ory/oathkeeper): A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 
-  **Latest Update**: 2025-07-04 11:49:40
+  **Latest Update**: 2025-07-07 17:15:33
 
-  **Stars**: 3386 stars
+  **Stars**: 3387 stars
 
   **Starred On**: 2025-06-28
 
@@ -2638,13 +2608,13 @@ Last updated 2025-07-07 03:33:17
 
 * [gravitational/teleport](https://github.com/gravitational/teleport): The easiest, and most secure way to access and protect all of your infrastructure.
 
-  **Latest Update**: 2025-07-06 22:17:11
+  **Latest Update**: 2025-07-08 02:26:34
 
-  **Stars**: 18744 stars
+  **Stars**: 18755 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1872 forks
+  **Forks**: 1874 forks
 
   **Topics**: [ssh](https://github.com/topics/ssh),
   [go](https://github.com/topics/go),
@@ -2671,11 +2641,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-29 09:42:03
 
-  **Stars**: 146831 stars
+  **Stars**: 146891 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 12389 forks
+  **Forks**: 12391 forks
 
   **Topics**: [golang](https://github.com/topics/golang),
   [golang-library](https://github.com/topics/golang-library),
@@ -2686,13 +2656,13 @@ Last updated 2025-07-07 03:33:17
 
 * [prometheus/prometheus](https://github.com/prometheus/prometheus): The Prometheus monitoring system and time series database.
 
-  **Latest Update**: 2025-07-06 22:00:51
+  **Latest Update**: 2025-07-07 21:52:41
 
-  **Stars**: 59334 stars
+  **Stars**: 59347 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 9639 forks
+  **Forks**: 9643 forks
 
   **Topics**: [monitoring](https://github.com/topics/monitoring),
   [metrics](https://github.com/topics/metrics),
@@ -2704,13 +2674,13 @@ Last updated 2025-07-07 03:33:17
 
 * [pingcap/tidb](https://github.com/pingcap/tidb): TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 
-  **Latest Update**: 2025-07-07 02:39:57
+  **Latest Update**: 2025-07-08 03:18:48
 
-  **Stars**: 38683 stars
+  **Stars**: 38686 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 5968 forks
+  **Forks**: 5969 forks
 
   **Topics**: [distributed-database](https://github.com/topics/distributed-database),
   [distributed-transactions](https://github.com/topics/distributed-transactions),
@@ -2728,9 +2698,9 @@ Last updated 2025-07-07 03:33:17
 
 * [gofiber/fiber](https://github.com/gofiber/fiber): ⚡️ Express inspired web framework written in Go
 
-  **Latest Update**: 2025-07-04 03:49:56
+  **Latest Update**: 2025-07-07 12:51:58
 
-  **Stars**: 37058 stars
+  **Stars**: 37069 stars
 
   **Starred On**: 2025-06-28
 
@@ -2756,11 +2726,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-03-24 21:27:34
 
-  **Stars**: 17074 stars
+  **Stars**: 17078 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2717 forks
+  **Forks**: 2718 forks
 
   **Topics**: [algorithms](https://github.com/topics/algorithms),
   [algorithms-implemented](https://github.com/topics/algorithms-implemented),
@@ -2776,13 +2746,13 @@ Last updated 2025-07-07 03:33:17
 
 * [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea): A powerful little TUI framework 🏗
 
-  **Latest Update**: 2025-07-03 21:10:49
+  **Latest Update**: 2025-07-07 20:50:14
 
-  **Stars**: 32941 stars
+  **Stars**: 32975 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 930 forks
+  **Forks**: 931 forks
 
   **Topics**: [cli](https://github.com/topics/cli),
   [framework](https://github.com/topics/framework),
@@ -2795,13 +2765,13 @@ Last updated 2025-07-07 03:33:17
 
 * [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach): CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 
-  **Latest Update**: 2025-07-07 01:37:03
+  **Latest Update**: 2025-07-08 03:11:31
 
-  **Stars**: 31050 stars
+  **Stars**: 31054 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 3929 forks
+  **Forks**: 3931 forks
 
   **Topics**: [go](https://github.com/topics/go),
   [database](https://github.com/topics/database),
@@ -2812,13 +2782,13 @@ Last updated 2025-07-07 03:33:17
 
 * [grafana/k6](https://github.com/grafana/k6): A modern load testing tool, using Go and JavaScript
 
-  **Latest Update**: 2025-07-04 14:25:44
+  **Latest Update**: 2025-07-07 15:26:06
 
-  **Stars**: 28189 stars
+  **Stars**: 28201 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1376 forks
+  **Forks**: 1377 forks
 
   **Topics**: [golang](https://github.com/topics/golang),
   [load-testing](https://github.com/topics/load-testing),
@@ -2831,13 +2801,13 @@ Last updated 2025-07-07 03:33:17
 
 * [aquasecurity/trivy](https://github.com/aquasecurity/trivy): Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
-  **Latest Update**: 2025-07-04 08:54:51
+  **Latest Update**: 2025-07-07 18:41:07
 
-  **Stars**: 27374 stars
+  **Stars**: 27386 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2613 forks
+  **Forks**: 2614 forks
 
   **Topics**: [security](https://github.com/topics/security),
   [security-tools](https://github.com/topics/security-tools),
@@ -2857,13 +2827,13 @@ Last updated 2025-07-07 03:33:17
 
 * [grafana/loki](https://github.com/grafana/loki): Like Prometheus, but for logs.
 
-  **Latest Update**: 2025-07-06 12:50:51
+  **Latest Update**: 2025-07-08 00:40:12
 
-  **Stars**: 25919 stars
+  **Stars**: 25923 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 3712 forks
+  **Forks**: 3711 forks
 
   **Topics**: [loki](https://github.com/topics/loki),
   [grafana](https://github.com/topics/grafana),
@@ -2874,9 +2844,9 @@ Last updated 2025-07-07 03:33:17
 
 * [goharbor/harbor](https://github.com/goharbor/harbor): An open source trusted cloud native registry project that stores, signs, and scans content.
 
-  **Latest Update**: 2025-07-03 10:23:18
+  **Latest Update**: 2025-07-07 13:18:43
 
-  **Stars**: 25891 stars
+  **Stars**: 25895 stars
 
   **Starred On**: 2025-06-28
 
@@ -2897,13 +2867,13 @@ Last updated 2025-07-07 03:33:17
 
 * [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei): Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
 
-  **Latest Update**: 2025-07-04 14:51:09
+  **Latest Update**: 2025-07-07 18:14:00
 
-  **Stars**: 23873 stars
+  **Stars**: 23883 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2794 forks
+  **Forks**: 2797 forks
 
   **Topics**: [cve-scanner](https://github.com/topics/cve-scanner),
   [subdomain-takeover](https://github.com/topics/subdomain-takeover),
@@ -2919,9 +2889,9 @@ Last updated 2025-07-07 03:33:17
 
 * [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger): CNCF Jaeger, a Distributed Tracing Platform
 
-  **Latest Update**: 2025-07-06 19:09:11
+  **Latest Update**: 2025-07-07 22:25:58
 
-  **Stars**: 21556 stars
+  **Stars**: 21563 stars
 
   **Starred On**: 2025-06-28
 
@@ -2939,7 +2909,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-19 05:53:09
 
-  **Stars**: 21897 stars
+  **Stars**: 21901 stars
 
   **Starred On**: 2025-06-28
 
@@ -2960,13 +2930,13 @@ Last updated 2025-07-07 03:33:17
 
 * [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks): Find secrets with Gitleaks 🔑
 
-  **Latest Update**: 2025-07-01 20:59:34
+  **Latest Update**: 2025-07-08 01:11:05
 
-  **Stars**: 21378 stars
+  **Stars**: 21395 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1672 forks
+  **Forks**: 1673 forks
 
   **Topics**: [security](https://github.com/topics/security),
   [security-tools](https://github.com/topics/security-tools),
@@ -2990,13 +2960,13 @@ Last updated 2025-07-07 03:33:17
 
 * [argoproj/argo-cd](https://github.com/argoproj/argo-cd): Declarative Continuous Deployment for Kubernetes
 
-  **Latest Update**: 2025-07-06 18:59:31
+  **Latest Update**: 2025-07-08 03:13:52
 
-  **Stars**: 19999 stars
+  **Stars**: 20006 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 6151 forks
+  **Forks**: 6153 forks
 
   **Topics**: [argo](https://github.com/topics/argo),
   [kubernetes](https://github.com/topics/kubernetes),
@@ -3017,13 +2987,13 @@ Last updated 2025-07-07 03:33:17
 
 * [containerd/containerd](https://github.com/containerd/containerd): An open and reliable container runtime
 
-  **Latest Update**: 2025-07-06 21:06:56
+  **Latest Update**: 2025-07-08 03:04:59
 
-  **Stars**: 18910 stars
+  **Stars**: 18916 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 3602 forks
+  **Forks**: 3604 forks
 
   **Topics**: [containerd](https://github.com/topics/containerd),
   [oci](https://github.com/topics/oci),
@@ -3038,11 +3008,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-30 11:38:31
 
-  **Stars**: 18330 stars
+  **Stars**: 18339 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 417 forks
+  **Forks**: 418 forks
 
   **Topics**: [markdown](https://github.com/topics/markdown),
   [cli](https://github.com/topics/cli),
@@ -3051,13 +3021,13 @@ Last updated 2025-07-07 03:33:17
 
 * [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy
 
-  **Latest Update**: 2025-07-04 08:59:36
+  **Latest Update**: 2025-07-07 21:11:07
 
-  **Stars**: 55442 stars
+  **Stars**: 55445 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 5392 forks
+  **Forks**: 5391 forks
 
   **Topics**: [microservice](https://github.com/topics/microservice),
   [docker](https://github.com/topics/docker),
@@ -3078,11 +3048,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-01 16:00:18
 
-  **Stars**: 53582 stars
+  **Stars**: 53615 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 5995 forks
+  **Forks**: 5996 forks
 
   **Topics**: [go](https://github.com/topics/go),
   [storage](https://github.com/topics/storage),
@@ -3099,9 +3069,9 @@ Last updated 2025-07-07 03:33:17
 
 * [wagoodman/dive](https://github.com/wagoodman/dive): A tool for exploring each layer in a docker image
 
-  **Latest Update**: 2025-06-30 20:38:24
+  **Latest Update**: 2025-07-07 21:30:35
 
-  **Stars**: 51320 stars
+  **Stars**: 51334 stars
 
   **Starred On**: 2025-06-28
 
@@ -3116,9 +3086,9 @@ Last updated 2025-07-07 03:33:17
 
 * [etcd-io/etcd](https://github.com/etcd-io/etcd): Distributed reliable key-value store for the most critical data of a distributed system
 
-  **Latest Update**: 2025-07-06 20:53:11
+  **Latest Update**: 2025-07-08 00:38:34
 
-  **Stars**: 49776 stars
+  **Stars**: 49788 stars
 
   **Starred On**: 2025-06-28
 
@@ -3139,21 +3109,21 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-12-22 10:43:30
 
-  **Stars**: 45108 stars
+  **Stars**: 45125 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1431 forks
+  **Forks**: 1432 forks
 
 * [istio/istio](https://github.com/istio/istio): Connect, secure, control, and observe services.
 
-  **Latest Update**: 2025-07-07 02:43:28
+  **Latest Update**: 2025-07-08 02:54:30
 
-  **Stars**: 37028 stars
+  **Stars**: 37030 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 8009 forks
+  **Forks**: 8011 forks
 
   **Topics**: [microservices](https://github.com/topics/microservices),
   [service-mesh](https://github.com/topics/service-mesh),
@@ -3174,9 +3144,9 @@ Last updated 2025-07-07 03:33:17
 
 * [docker/compose](https://github.com/docker/compose): Define and run multi-container applications with Docker
 
-  **Latest Update**: 2025-07-04 10:41:37
+  **Latest Update**: 2025-07-07 14:43:42
 
-  **Stars**: 35760 stars
+  **Stars**: 35762 stars
 
   **Starred On**: 2025-06-28
 
@@ -3190,13 +3160,13 @@ Last updated 2025-07-07 03:33:17
 
 * [hashicorp/consul](https://github.com/hashicorp/consul): Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 
-  **Latest Update**: 2025-07-04 14:16:49
+  **Latest Update**: 2025-07-07 16:25:15
 
-  **Stars**: 29100 stars
+  **Stars**: 29101 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 4487 forks
+  **Forks**: 4488 forks
 
   **Topics**: [consul](https://github.com/topics/consul),
   [service-mesh](https://github.com/topics/service-mesh),
@@ -3208,13 +3178,13 @@ Last updated 2025-07-07 03:33:17
 
 * [helm/helm](https://github.com/helm/helm): The Kubernetes Package Manager
 
-  **Latest Update**: 2025-07-06 18:39:38
+  **Latest Update**: 2025-07-07 21:28:31
 
-  **Stars**: 28107 stars
+  **Stars**: 28111 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 7270 forks
+  **Forks**: 7269 forks
 
   **Topics**: [cncf](https://github.com/topics/cncf),
   [chart](https://github.com/topics/chart),
@@ -3224,9 +3194,9 @@ Last updated 2025-07-07 03:33:17
 
 * [opentofu/opentofu](https://github.com/opentofu/opentofu): OpenTofu lets you declaratively manage your cloud infrastructure.
 
-  **Latest Update**: 2025-07-04 15:43:45
+  **Latest Update**: 2025-07-08 00:04:15
 
-  **Stars**: 25890 stars
+  **Stars**: 25894 stars
 
   **Starred On**: 2025-06-28
 
@@ -3236,7 +3206,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-04-22 10:19:08
 
-  **Stars**: 25756 stars
+  **Stars**: 25758 stars
 
   **Starred On**: 2025-06-28
 
@@ -3259,13 +3229,13 @@ Last updated 2025-07-07 03:33:17
 
 * [dapr/dapr](https://github.com/dapr/dapr): Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
 
-  **Latest Update**: 2025-07-04 12:58:15
+  **Latest Update**: 2025-07-07 21:31:38
 
-  **Stars**: 24893 stars
+  **Stars**: 24911 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1975 forks
+  **Forks**: 1979 forks
 
   **Topics**: [microservices](https://github.com/topics/microservices),
   [microservice](https://github.com/topics/microservice),
@@ -3279,13 +3249,13 @@ Last updated 2025-07-07 03:33:17
 
 * [cilium/cilium](https://github.com/cilium/cilium): eBPF-based Networking, Security, and Observability
 
-  **Latest Update**: 2025-07-06 04:24:19
+  **Latest Update**: 2025-07-08 02:01:37
 
-  **Stars**: 21952 stars
+  **Stars**: 21956 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 3294 forks
+  **Forks**: 3295 forks
 
   **Topics**: [containers](https://github.com/topics/containers),
   [bpf](https://github.com/topics/bpf),
@@ -3323,13 +3293,13 @@ Last updated 2025-07-07 03:33:17
 
 * [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog): Find, verify, and analyze leaked credentials
 
-  **Latest Update**: 2025-07-04 09:14:59
+  **Latest Update**: 2025-07-07 23:37:58
 
-  **Stars**: 19795 stars
+  **Stars**: 19809 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1898 forks
+  **Forks**: 1901 forks
 
   **Topics**: [secret](https://github.com/topics/secret),
   [trufflehog](https://github.com/topics/trufflehog),
@@ -3347,13 +3317,13 @@ Last updated 2025-07-07 03:33:17
 
 * [getsops/sops](https://github.com/getsops/sops): Simple and flexible tool for managing secrets
 
-  **Latest Update**: 2025-07-05 05:44:51
+  **Latest Update**: 2025-07-07 11:32:48
 
-  **Stars**: 18859 stars
+  **Stars**: 18870 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 944 forks
+  **Forks**: 945 forks
 
   **Topics**: [security](https://github.com/topics/security),
   [secret-distribution](https://github.com/topics/secret-distribution),
@@ -3369,7 +3339,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-16 15:46:19
 
-  **Stars**: 18107 stars
+  **Stars**: 18108 stars
 
   **Starred On**: 2025-06-28
 
@@ -3377,13 +3347,13 @@ Last updated 2025-07-07 03:33:17
 
 * [google/gvisor](https://github.com/google/gvisor): Application Kernel for Containers
 
-  **Latest Update**: 2025-07-02 21:29:01
+  **Latest Update**: 2025-07-08 03:05:35
 
-  **Stars**: 16672 stars
+  **Stars**: 16679 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1395 forks
+  **Forks**: 1397 forks
 
   **Topics**: [sandbox](https://github.com/topics/sandbox),
   [containers](https://github.com/topics/containers),
@@ -3411,9 +3381,9 @@ Last updated 2025-07-07 03:33:17
 
 * [k0sproject/k0s](https://github.com/k0sproject/k0s): k0s - The Zero Friction Kubernetes
 
-  **Latest Update**: 2025-07-04 13:31:55
+  **Latest Update**: 2025-07-07 15:20:16
 
-  **Stars**: 5164 stars
+  **Stars**: 5168 stars
 
   **Starred On**: 2025-06-28
 
@@ -3423,9 +3393,9 @@ Last updated 2025-07-07 03:33:17
 
 * [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows): Workflow Engine for Kubernetes
 
-  **Latest Update**: 2025-07-04 08:25:49
+  **Latest Update**: 2025-07-08 00:22:47
 
-  **Stars**: 15803 stars
+  **Stars**: 15806 stars
 
   **Starred On**: 2025-06-28
 
@@ -3462,9 +3432,9 @@ Last updated 2025-07-07 03:33:17
 
 * [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics): VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 
-  **Latest Update**: 2025-07-07 02:36:38
+  **Latest Update**: 2025-07-08 03:00:32
 
-  **Stars**: 14465 stars
+  **Stars**: 14471 stars
 
   **Starred On**: 2025-06-28
 
@@ -3490,7 +3460,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-01 11:23:25
 
-  **Stars**: 14279 stars
+  **Stars**: 14287 stars
 
   **Starred On**: 2025-06-28
 
@@ -3505,9 +3475,9 @@ Last updated 2025-07-07 03:33:17
 
 * [bytebase/bytebase](https://github.com/bytebase/bytebase): World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 
-  **Latest Update**: 2025-07-06 05:17:13
+  **Latest Update**: 2025-07-07 09:33:43
 
-  **Stars**: 12701 stars
+  **Stars**: 12704 stars
 
   **Starred On**: 2025-06-28
 
@@ -3536,7 +3506,7 @@ Last updated 2025-07-07 03:33:17
 
 * [thanos-io/thanos](https://github.com/thanos-io/thanos): Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 
-  **Latest Update**: 2025-07-06 10:03:26
+  **Latest Update**: 2025-07-07 15:57:43
 
   **Stars**: 13607 stars
 
@@ -3561,13 +3531,13 @@ Last updated 2025-07-07 03:33:17
 
 * [coredns/coredns](https://github.com/coredns/coredns): CoreDNS is a DNS server that chains plugins
 
-  **Latest Update**: 2025-07-05 15:17:31
+  **Latest Update**: 2025-07-07 16:22:03
 
-  **Stars**: 13142 stars
+  **Stars**: 13146 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2258 forks
+  **Forks**: 2257 forks
 
   **Topics**: [dns-server](https://github.com/topics/dns-server),
   [go](https://github.com/topics/go),
@@ -3578,9 +3548,9 @@ Last updated 2025-07-07 03:33:17
 
 * [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager): Automatically provision and manage TLS certificates in Kubernetes
 
-  **Latest Update**: 2025-07-05 08:29:22
+  **Latest Update**: 2025-07-07 14:07:59
 
-  **Stars**: 12937 stars
+  **Stars**: 12940 stars
 
   **Starred On**: 2025-06-28
 
@@ -3595,9 +3565,9 @@ Last updated 2025-07-07 03:33:17
 
 * [rook/rook](https://github.com/rook/rook): Storage Orchestration for Kubernetes
 
-  **Latest Update**: 2025-07-03 15:42:00
+  **Latest Update**: 2025-07-07 22:51:06
 
-  **Stars**: 12936 stars
+  **Stars**: 12938 stars
 
   **Starred On**: 2025-06-28
 
@@ -3614,9 +3584,9 @@ Last updated 2025-07-07 03:33:17
 
 * [prometheus/node\_exporter](https://github.com/prometheus/node_exporter): Exporter for machine metrics
 
-  **Latest Update**: 2025-07-04 08:04:37
+  **Latest Update**: 2025-07-07 13:17:12
 
-  **Stars**: 12242 stars
+  **Stars**: 12248 stars
 
   **Starred On**: 2025-06-28
 
@@ -3634,13 +3604,13 @@ Last updated 2025-07-07 03:33:17
 
 * [infracost/infracost](https://github.com/infracost/infracost): Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 
-  **Latest Update**: 2025-07-06 21:41:46
+  **Latest Update**: 2025-07-07 12:08:36
 
-  **Stars**: 11621 stars
+  **Stars**: 11625 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 610 forks
+  **Forks**: 611 forks
 
   **Topics**: [terraform](https://github.com/topics/terraform),
   [cost-estimation](https://github.com/topics/cost-estimation),
@@ -3662,7 +3632,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-28 07:24:29
 
-  **Stars**: 11546 stars
+  **Stars**: 11549 stars
 
   **Starred On**: 2025-06-28
 
@@ -3673,7 +3643,7 @@ Last updated 2025-07-07 03:33:17
 
 * [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark): The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes
 
-  **Latest Update**: 2025-07-01 21:16:31
+  **Latest Update**: 2025-07-07 10:32:13
 
   **Stars**: 11415 stars
 
@@ -3704,9 +3674,9 @@ Last updated 2025-07-07 03:33:17
 
 * [linkerd/linkerd2](https://github.com/linkerd/linkerd2): Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 
-  **Latest Update**: 2025-07-07 03:28:24
+  **Latest Update**: 2025-07-07 14:52:40
 
-  **Stars**: 11009 stars
+  **Stars**: 11013 stars
 
   **Starred On**: 2025-06-28
 
@@ -3721,13 +3691,13 @@ Last updated 2025-07-07 03:33:17
 
 * [kubescape/kubescape](https://github.com/kubescape/kubescape): Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 
-  **Latest Update**: 2025-06-30 07:09:09
+  **Latest Update**: 2025-07-07 05:11:17
 
-  **Stars**: 10862 stars
+  **Stars**: 10863 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 866 forks
+  **Forks**: 867 forks
 
   **Topics**: [kubernetes](https://github.com/topics/kubernetes),
   [security](https://github.com/topics/security),
@@ -3739,9 +3709,9 @@ Last updated 2025-07-07 03:33:17
 
 * [crossplane/crossplane](https://github.com/crossplane/crossplane): The Cloud Native Control Plane
 
-  **Latest Update**: 2025-07-03 08:16:40
+  **Latest Update**: 2025-07-08 02:42:38
 
-  **Stars**: 10484 stars
+  **Stars**: 10486 stars
 
   **Starred On**: 2025-06-28
 
@@ -3763,11 +3733,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 09:37:39
 
-  **Stars**: 10404 stars
+  **Stars**: 10407 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1434 forks
+  **Forks**: 1436 forks
 
   **Topics**: [opa](https://github.com/topics/opa),
   [policy](https://github.com/topics/policy),
@@ -3782,13 +3752,13 @@ Last updated 2025-07-07 03:33:17
 
 * [coder/coder](https://github.com/coder/coder): Provision remote development environments via Terraform
 
-  **Latest Update**: 2025-07-07 03:26:56
+  **Latest Update**: 2025-07-08 02:38:05
 
-  **Stars**: 10324 stars
+  **Stars**: 10338 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 934 forks
+  **Forks**: 935 forks
 
   **Topics**: [remote-development](https://github.com/topics/remote-development),
   [development-environment](https://github.com/topics/development-environment),
@@ -3802,13 +3772,13 @@ Last updated 2025-07-07 03:33:17
 
 * [jetify-com/devbox](https://github.com/jetify-com/devbox): Instant, easy, and predictable development environments
 
-  **Latest Update**: 2025-07-03 22:48:32
+  **Latest Update**: 2025-07-07 21:16:09
 
-  **Stars**: 10082 stars
+  **Stars**: 10087 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 252 forks
+  **Forks**: 253 forks
 
   **Topics**: [devbox](https://github.com/topics/devbox),
   [development-environment](https://github.com/topics/development-environment),
@@ -3824,9 +3794,9 @@ Last updated 2025-07-07 03:33:17
 
 * [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 
-  **Latest Update**: 2025-07-03 04:29:18
+  **Latest Update**: 2025-07-07 04:44:53
 
-  **Stars**: 9981 stars
+  **Stars**: 9982 stars
 
   **Starred On**: 2025-06-28
 
@@ -3840,9 +3810,9 @@ Last updated 2025-07-07 03:33:17
 
 * [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator): Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 
-  **Latest Update**: 2025-07-06 05:28:31
+  **Latest Update**: 2025-07-07 15:07:31
 
-  **Stars**: 9534 stars
+  **Stars**: 9535 stars
 
   **Starred On**: 2025-06-28
 
@@ -3861,7 +3831,7 @@ Last updated 2025-07-07 03:33:17
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1446 forks
+  **Forks**: 1448 forks
 
   **Topics**: [kubernetes](https://github.com/topics/kubernetes),
   [disaster-recovery](https://github.com/topics/disaster-recovery),
@@ -3871,9 +3841,9 @@ Last updated 2025-07-07 03:33:17
 
 * [kedacore/keda](https://github.com/kedacore/keda):  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 
-  **Latest Update**: 2025-07-01 14:20:48
+  **Latest Update**: 2025-07-07 20:26:03
 
-  **Stars**: 9223 stars
+  **Stars**: 9226 stars
 
   **Starred On**: 2025-06-28
 
@@ -3888,13 +3858,13 @@ Last updated 2025-07-07 03:33:17
 
 * [stakater/Reloader](https://github.com/stakater/Reloader): A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – \[✩Star] if you're using it!
 
-  **Latest Update**: 2025-07-04 11:03:49
+  **Latest Update**: 2025-07-07 15:27:04
 
-  **Stars**: 8736 stars
+  **Stars**: 8739 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 573 forks
+  **Forks**: 574 forks
 
   **Topics**: [kubernetes](https://github.com/topics/kubernetes),
   [openshift](https://github.com/topics/openshift),
@@ -3912,7 +3882,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-25 14:38:47
 
-  **Stars**: 8359 stars
+  **Stars**: 8364 stars
 
   **Starred On**: 2025-06-28
 
@@ -3928,7 +3898,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 07:17:50
 
-  **Stars**: 7615 stars
+  **Stars**: 7616 stars
 
   **Starred On**: 2025-06-28
 
@@ -3946,13 +3916,13 @@ Last updated 2025-07-07 03:33:17
 
 * [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench): Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 
-  **Latest Update**: 2025-07-03 07:51:55
+  **Latest Update**: 2025-07-07 10:28:26
 
-  **Stars**: 7566 stars
+  **Stars**: 7567 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1279 forks
+  **Forks**: 1280 forks
 
   **Topics**: [kube-bench](https://github.com/topics/kube-bench),
   [cis-security](https://github.com/topics/cis-security),
@@ -3965,13 +3935,13 @@ Last updated 2025-07-07 03:33:17
 
 * [usememos/memos](https://github.com/usememos/memos): A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 
-  **Latest Update**: 2025-07-07 00:59:53
+  **Latest Update**: 2025-07-07 14:44:22
 
-  **Stars**: 42378 stars
+  **Stars**: 42494 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 3015 forks
+  **Forks**: 3023 forks
 
   **Topics**: [react](https://github.com/topics/react),
   [go](https://github.com/topics/go),
@@ -3989,7 +3959,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-04-25 20:14:27
 
-  **Stars**: 16942 stars
+  **Stars**: 16948 stars
 
   **Starred On**: 2025-06-28
 
@@ -4017,13 +3987,13 @@ Last updated 2025-07-07 03:33:17
 
 * [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome): Network-wide ads & trackers blocking DNS server
 
-  **Latest Update**: 2025-07-03 18:02:05
+  **Latest Update**: 2025-07-07 13:56:15
 
-  **Stars**: 29070 stars
+  **Stars**: 29091 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2062 forks
+  **Forks**: 2063 forks
 
   **Topics**: [dns](https://github.com/topics/dns),
   [adblock](https://github.com/topics/adblock),
@@ -4038,13 +4008,13 @@ Last updated 2025-07-07 03:33:17
 
 * [milvus-io/milvus](https://github.com/milvus-io/milvus): Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 
-  **Latest Update**: 2025-07-07 02:06:46
+  **Latest Update**: 2025-07-08 02:46:47
 
-  **Stars**: 35811 stars
+  **Stars**: 35828 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 3278 forks
+  **Forks**: 3279 forks
 
   **Topics**: [anns](https://github.com/topics/anns),
   [nearest-neighbor-search](https://github.com/topics/nearest-neighbor-search),
@@ -4067,13 +4037,13 @@ Last updated 2025-07-07 03:33:17
 
 * [getlago/lago](https://github.com/getlago/lago): Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 
-  **Latest Update**: 2025-06-26 09:57:15
+  **Latest Update**: 2025-07-07 15:31:05
 
-  **Stars**: 7856 stars
+  **Stars**: 7868 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 398 forks
+  **Forks**: 399 forks
 
   **Topics**: [billing](https://github.com/topics/billing),
   [fintech](https://github.com/topics/fintech),
@@ -4096,13 +4066,13 @@ Last updated 2025-07-07 03:33:17
 
 * [zitadel/zitadel](https://github.com/zitadel/zitadel): ZITADEL - Identity infrastructure, simplified for you.
 
-  **Latest Update**: 2025-07-07 02:43:22
+  **Latest Update**: 2025-07-07 18:47:48
 
-  **Stars**: 11027 stars
+  **Stars**: 11039 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 748 forks
+  **Forks**: 749 forks
 
   **Topics**: [saml](https://github.com/topics/saml),
   [authentication](https://github.com/topics/authentication),
@@ -4123,9 +4093,9 @@ Last updated 2025-07-07 03:33:17
 
 * [casdoor/casdoor](https://github.com/casdoor/casdoor): An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos
 
-  **Latest Update**: 2025-07-05 14:58:28
+  **Latest Update**: 2025-07-07 10:06:20
 
-  **Stars**: 11840 stars
+  **Stars**: 11845 stars
 
   **Starred On**: 2025-06-28
 
@@ -4154,13 +4124,13 @@ Last updated 2025-07-07 03:33:17
 
 * [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes): Production-Grade Container Scheduling and Management
 
-  **Latest Update**: 2025-07-07 02:59:25
+  **Latest Update**: 2025-07-08 03:13:26
 
-  **Stars**: 116174 stars
+  **Stars**: 116192 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 40892 forks
+  **Forks**: 40898 forks
 
   **Topics**: [kubernetes](https://github.com/topics/kubernetes),
   [go](https://github.com/topics/go),
@@ -4171,7 +4141,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-09-02 11:52:13
 
-  **Stars**: 10185 stars
+  **Stars**: 10183 stars
 
   **Starred On**: 2025-06-28
 
@@ -4187,13 +4157,13 @@ Last updated 2025-07-07 03:33:17
 
 * [hashicorp/terraform](https://github.com/hashicorp/terraform): Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
-  **Latest Update**: 2025-07-05 12:51:59
+  **Latest Update**: 2025-07-07 20:20:17
 
-  **Stars**: 45527 stars
+  **Stars**: 45530 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 9916 forks
+  **Forks**: 9918 forks
 
   **Topics**: [graph](https://github.com/topics/graph),
   [infrastructure-as-code](https://github.com/topics/infrastructure-as-code),
@@ -4205,11 +4175,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-05 18:06:26
 
-  **Stars**: 5866 stars
+  **Stars**: 5869 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 629 forks
+  **Forks**: 630 forks
 
   **Topics**: [kubernetes](https://github.com/topics/kubernetes),
   [opencost](https://github.com/topics/opencost),
@@ -4228,7 +4198,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-03 03:14:11
 
-  **Stars**: 14604 stars
+  **Stars**: 14610 stars
 
   **Starred On**: 2025-06-28
 
@@ -4274,7 +4244,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-03 03:21:37
 
-  **Stars**: 7168 stars
+  **Stars**: 7171 stars
 
   **Starred On**: 2025-06-28
 
@@ -4299,7 +4269,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-29 22:52:30
 
-  **Stars**: 6670 stars
+  **Stars**: 6673 stars
 
   **Starred On**: 2025-06-28
 
@@ -4311,9 +4281,9 @@ Last updated 2025-07-07 03:33:17
 
 * [kyverno/kyverno](https://github.com/kyverno/kyverno): Cloud Native Policy Management
 
-  **Latest Update**: 2025-07-05 00:28:52
+  **Latest Update**: 2025-07-07 08:24:45
 
-  **Stars**: 6490 stars
+  **Stars**: 6492 stars
 
   **Starred On**: 2025-06-28
 
@@ -4326,7 +4296,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-30 13:28:33
 
-  **Stars**: 1721 stars
+  **Stars**: 1722 stars
 
   **Starred On**: 2025-06-28
 
@@ -4338,13 +4308,13 @@ Last updated 2025-07-07 03:33:17
 
 * [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx): Ingress NGINX Controller for Kubernetes
 
-  **Latest Update**: 2025-07-01 06:10:33
+  **Latest Update**: 2025-07-07 21:28:21
 
-  **Stars**: 18716 stars
+  **Stars**: 18724 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 8401 forks
+  **Forks**: 8403 forks
 
   **Topics**: [ingress-controller](https://github.com/topics/ingress-controller),
   [kubernetes](https://github.com/topics/kubernetes),
@@ -4352,9 +4322,9 @@ Last updated 2025-07-07 03:33:17
 
 * [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai): AI powered Kubernetes Assistant
 
-  **Latest Update**: 2025-07-05 01:25:45
+  **Latest Update**: 2025-07-07 21:09:40
 
-  **Stars**: 6376 stars
+  **Stars**: 6381 stars
 
   **Starred On**: 2025-06-28
 
@@ -4432,13 +4402,13 @@ Last updated 2025-07-07 03:33:17
 
 * [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt): Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 
-  **Latest Update**: 2025-07-06 19:48:50
+  **Latest Update**: 2025-07-08 01:58:51
 
-  **Stars**: 6180 stars
+  **Stars**: 6181 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1469 forks
+  **Forks**: 1470 forks
 
   **Topics**: [kubernetes](https://github.com/topics/kubernetes),
   [libvirt](https://github.com/topics/libvirt),
@@ -4448,9 +4418,9 @@ Last updated 2025-07-07 03:33:17
 
 * [terraform-linters/tflint](https://github.com/terraform-linters/tflint): A Pluggable Terraform Linter
 
-  **Latest Update**: 2025-06-27 17:07:11
+  **Latest Update**: 2025-07-07 21:36:43
 
-  **Stars**: 5340 stars
+  **Stars**: 5341 stars
 
   **Starred On**: 2025-06-28
 
@@ -4461,13 +4431,13 @@ Last updated 2025-07-07 03:33:17
 
 * [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets): External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 
-  **Latest Update**: 2025-07-03 15:07:40
+  **Latest Update**: 2025-07-07 15:22:29
 
-  **Stars**: 5172 stars
+  **Stars**: 5175 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 991 forks
+  **Forks**: 992 forks
 
   **Topics**: [external-secrets](https://github.com/topics/external-secrets),
   [kubernetes](https://github.com/topics/kubernetes),
@@ -4477,7 +4447,7 @@ Last updated 2025-07-07 03:33:17
 
 * [devtron-labs/devtron](https://github.com/devtron-labs/devtron): The only Kubernetes dashboard you need
 
-  **Latest Update**: 2025-07-06 14:14:48
+  **Latest Update**: 2025-07-07 13:25:26
 
   **Stars**: 5041 stars
 
@@ -4559,11 +4529,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-12 09:17:55
 
-  **Stars**: 2669 stars
+  **Stars**: 2671 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 144 forks
+  **Forks**: 145 forks
 
   **Topics**: [kubernetes](https://github.com/topics/kubernetes),
   [validation](https://github.com/topics/validation),
@@ -4571,9 +4541,9 @@ Last updated 2025-07-07 03:33:17
 
 * [wtfutil/wtf](https://github.com/wtfutil/wtf): The personal information dashboard for your terminal
 
-  **Latest Update**: 2025-07-04 23:09:09
+  **Latest Update**: 2025-07-08 01:30:19
 
-  **Stars**: 16167 stars
+  **Stars**: 16170 stars
 
   **Starred On**: 2025-06-28
 
@@ -4592,13 +4562,13 @@ Last updated 2025-07-07 03:33:17
 
 * [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser): Release engineering, simplified
 
-  **Latest Update**: 2025-07-05 00:53:30
+  **Latest Update**: 2025-07-08 02:37:36
 
-  **Stars**: 14809 stars
+  **Stars**: 14814 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 996 forks
+  **Forks**: 997 forks
 
   **Topics**: [release-automation](https://github.com/topics/release-automation),
   [package](https://github.com/topics/package),
@@ -4611,7 +4581,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-07-30 09:50:14
 
-  **Stars**: 13484 stars
+  **Stars**: 13485 stars
 
   **Starred On**: 2025-06-28
 
@@ -4636,11 +4606,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 19:04:36
 
-  **Stars**: 73344 stars
+  **Stars**: 73388 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 4650 forks
+  **Forks**: 4653 forks
 
   **Topics**: [synchronization](https://github.com/topics/synchronization),
   [go](https://github.com/topics/go),
@@ -4651,7 +4621,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-22 03:07:01
 
-  **Stars**: 1345 stars
+  **Stars**: 1346 stars
 
   **Starred On**: 2025-06-28
 
@@ -4659,13 +4629,13 @@ Last updated 2025-07-07 03:33:17
 
 * [tailscale/tailscale](https://github.com/tailscale/tailscale): The easiest, most secure way to use WireGuard and 2FA.
 
-  **Latest Update**: 2025-07-06 23:40:58
+  **Latest Update**: 2025-07-08 02:46:22
 
-  **Stars**: 23537 stars
+  **Stars**: 23556 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1890 forks
+  **Forks**: 1891 forks
 
   **Topics**: [wireguard](https://github.com/topics/wireguard),
   [oauth](https://github.com/topics/oauth),
@@ -4676,9 +4646,9 @@ Last updated 2025-07-07 03:33:17
 
 * [lima-vm/lima](https://github.com/lima-vm/lima): Linux virtual machines, with a focus on running containers
 
-  **Latest Update**: 2025-07-04 19:08:38
+  **Latest Update**: 2025-07-08 02:38:05
 
-  **Stars**: 17655 stars
+  **Stars**: 17663 stars
 
   **Starred On**: 2025-06-28
 
@@ -4691,9 +4661,9 @@ Last updated 2025-07-07 03:33:17
 
 * [golang/go](https://github.com/golang/go): The Go programming language
 
-  **Latest Update**: 2025-07-05 01:23:38
+  **Latest Update**: 2025-07-08 01:37:56
 
-  **Stars**: 128749 stars
+  **Stars**: 128764 stars
 
   **Starred On**: 2025-06-28
 
@@ -4708,7 +4678,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-13 00:49:03
 
-  **Stars**: 13685 stars
+  **Stars**: 13689 stars
 
   **Starred On**: 2025-06-28
 
@@ -4732,7 +4702,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 15:05:46
 
-  **Stars**: 71547 stars
+  **Stars**: 71583 stars
 
   **Starred On**: 2025-06-28
 
@@ -4751,9 +4721,9 @@ Last updated 2025-07-07 03:33:17
 
 * [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
 
-  **Latest Update**: 2025-07-06 14:19:16
+  **Latest Update**: 2025-07-07 11:48:12
 
-  **Stars**: 61650 stars
+  **Stars**: 61703 stars
 
   **Starred On**: 2025-06-28
 
@@ -4767,11 +4737,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-03 05:59:05
 
-  **Stars**: 3075 stars
+  **Stars**: 3076 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 967 forks
+  **Forks**: 968 forks
 
   **Topics**: [k8s-sig-cli](https://github.com/topics/k8s-sig-cli),
   [k8s-staging](https://github.com/topics/k8s-staging)
@@ -4780,7 +4750,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-08-13 13:37:46
 
-  **Stars**: 54172 stars
+  **Stars**: 54186 stars
 
   **Starred On**: 2025-06-28
 
@@ -4801,9 +4771,9 @@ Last updated 2025-07-07 03:33:17
 
 * [twpayne/chezmoi](https://github.com/twpayne/chezmoi): Manage your dotfiles across multiple diverse machines, securely.
 
-  **Latest Update**: 2025-07-06 22:54:37
+  **Latest Update**: 2025-07-07 13:44:10
 
-  **Stars**: 15371 stars
+  **Stars**: 15385 stars
 
   **Starred On**: 2025-06-28
 
@@ -4824,7 +4794,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-15 18:42:25
 
-  **Stars**: 19179 stars
+  **Stars**: 19184 stars
 
   **Starred On**: 2025-06-28
 
@@ -4835,7 +4805,7 @@ Last updated 2025-07-07 03:33:17
 
 * [noborus/ov](https://github.com/noborus/ov): 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 
-  **Latest Update**: 2025-07-02 22:51:34
+  **Latest Update**: 2025-07-07 23:44:47
 
   **Stars**: 1641 stars
 
@@ -4862,7 +4832,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-03 14:16:23
 
-  **Stars**: 759 stars
+  **Stars**: 760 stars
 
   **Starred On**: 2025-06-28
 
@@ -4877,7 +4847,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-28 19:59:55
 
-  **Stars**: 987 stars
+  **Stars**: 988 stars
 
   **Starred On**: 2025-06-28
 
@@ -4909,7 +4879,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-04 01:13:13
 
-  **Stars**: 3981 stars
+  **Stars**: 3984 stars
 
   **Starred On**: 2025-06-28
 
@@ -4917,7 +4887,7 @@ Last updated 2025-07-07 03:33:17
 
 * [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci): diff for Docker and OCI container images
 
-  **Latest Update**: 2025-07-01 07:05:56
+  **Latest Update**: 2025-07-07 21:21:48
 
   **Stars**: 447 stars
 
@@ -4929,7 +4899,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-02 21:59:28
 
-  **Stars**: 468 stars
+  **Stars**: 469 stars
 
   **Starred On**: 2025-06-28
 
@@ -4943,7 +4913,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-11-11 09:52:22
 
-  **Stars**: 1581 stars
+  **Stars**: 1580 stars
 
   **Starred On**: 2025-06-28
 
@@ -4951,9 +4921,9 @@ Last updated 2025-07-07 03:33:17
 
 * [fluxcd/flux2](https://github.com/fluxcd/flux2): Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 
-  **Latest Update**: 2025-07-01 04:31:15
+  **Latest Update**: 2025-07-07 15:14:37
 
-  **Stars**: 7237 stars
+  **Stars**: 7241 stars
 
   **Starred On**: 2025-06-28
 
@@ -4968,9 +4938,9 @@ Last updated 2025-07-07 03:33:17
 
 * [superfly/flyctl](https://github.com/superfly/flyctl): Command line tools for fly.io services
 
-  **Latest Update**: 2025-07-05 23:48:14
+  **Latest Update**: 2025-07-08 00:58:39
 
-  **Stars**: 1539 stars
+  **Stars**: 1540 stars
 
   **Starred On**: 2025-06-28
 
@@ -4980,13 +4950,13 @@ Last updated 2025-07-07 03:33:17
 
 * [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt): Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 
-  **Latest Update**: 2025-07-07 02:37:00
+  **Latest Update**: 2025-07-07 20:56:25
 
-  **Stars**: 8776 stars
+  **Stars**: 8777 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1061 forks
+  **Forks**: 1060 forks
 
   **Topics**: [terraform](https://github.com/topics/terraform),
   [devops](https://github.com/topics/devops),
@@ -4999,11 +4969,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-01 02:04:49
 
-  **Stars**: 13800 stars
+  **Stars**: 13803 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1771 forks
+  **Forks**: 1772 forks
 
   **Topics**: [cloud](https://github.com/topics/cloud),
   [terraform](https://github.com/topics/terraform),
@@ -5020,7 +4990,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-16 06:45:03
 
-  **Stars**: 4498 stars
+  **Stars**: 4501 stars
 
   **Starred On**: 2025-06-28
 
@@ -5045,13 +5015,13 @@ Last updated 2025-07-07 03:33:17
 
 * [turbot/steampipe](https://github.com/turbot/steampipe): Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 
-  **Latest Update**: 2025-07-07 02:48:43
+  **Latest Update**: 2025-07-07 18:19:05
 
-  **Stars**: 7382 stars
+  **Stars**: 7383 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 300 forks
+  **Forks**: 301 forks
 
   **Topics**: [steampipe](https://github.com/topics/steampipe),
   [postgresql](https://github.com/topics/postgresql),
@@ -5078,7 +5048,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-28 00:38:28
 
-  **Stars**: 8665 stars
+  **Stars**: 8671 stars
 
   **Starred On**: 2025-06-28
 
@@ -5105,7 +5075,7 @@ Last updated 2025-07-07 03:33:17
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 72 forks
+  **Forks**: 73 forks
 
   **Topics**: [go](https://github.com/topics/go),
   [golang](https://github.com/topics/golang),
@@ -5121,7 +5091,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-01 05:46:21
 
-  **Stars**: 29220 stars
+  **Stars**: 29231 stars
 
   **Starred On**: 2025-06-28
 
@@ -5142,7 +5112,7 @@ Last updated 2025-07-07 03:33:17
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2003 forks
+  **Forks**: 2004 forks
 
   **Topics**: [go](https://github.com/topics/go),
   [dns](https://github.com/topics/dns),
@@ -5162,7 +5132,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-04-30 06:15:11
 
-  **Stars**: 9475 stars
+  **Stars**: 9477 stars
 
   **Starred On**: 2025-06-28
 
@@ -5199,9 +5169,9 @@ Last updated 2025-07-07 03:33:17
 
 * [natesales/q](https://github.com/natesales/q): A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 
-  **Latest Update**: 2025-06-20 07:37:04
+  **Latest Update**: 2025-07-07 05:28:00
 
-  **Stars**: 1981 stars
+  **Stars**: 1982 stars
 
   **Starred On**: 2025-06-28
 
@@ -5218,7 +5188,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-02-21 08:07:45
 
-  **Stars**: 666 stars
+  **Stars**: 667 stars
 
   **Starred On**: 2025-06-28
 
@@ -5231,13 +5201,13 @@ Last updated 2025-07-07 03:33:17
 
 * [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go): The official Go library for the Cloudflare API
 
-  **Latest Update**: 2025-07-03 00:08:56
+  **Latest Update**: 2025-07-08 00:39:42
 
   **Stars**: 1709 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 661 forks
+  **Forks**: 660 forks
 
   **Topics**: [api](https://github.com/topics/api),
   [cloudflare](https://github.com/topics/cloudflare),
@@ -5247,9 +5217,9 @@ Last updated 2025-07-07 03:33:17
 
 * [monasticacademy/httptap](https://github.com/monasticacademy/httptap): View HTTP/HTTPS requests made by any Linux program
 
-  **Latest Update**: 2025-04-17 14:25:09
+  **Latest Update**: 2025-07-07 21:33:54
 
-  **Stars**: 4025 stars
+  **Stars**: 4026 stars
 
   **Starred On**: 2025-06-28
 
@@ -5266,7 +5236,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-27 19:37:58
 
-  **Stars**: 2907 stars
+  **Stars**: 2908 stars
 
   **Starred On**: 2025-06-28
 
@@ -5312,7 +5282,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-26 07:05:22
 
-  **Stars**: 2104 stars
+  **Stars**: 2105 stars
 
   **Starred On**: 2025-06-28
 
@@ -5337,7 +5307,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-02 20:46:54
 
-  **Stars**: 3918 stars
+  **Stars**: 3919 stars
 
   **Starred On**: 2025-06-28
 
@@ -5363,7 +5333,7 @@ Last updated 2025-07-07 03:33:17
 
 * [stripe/stripe-cli](https://github.com/stripe/stripe-cli): A command-line tool for Stripe
 
-  **Latest Update**: 2025-07-02 21:23:46
+  **Latest Update**: 2025-07-07 16:02:32
 
   **Stars**: 1730 stars
 
@@ -5375,7 +5345,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-02 17:52:05
 
-  **Stars**: 3305 stars
+  **Stars**: 3309 stars
 
   **Starred On**: 2025-06-28
 
@@ -5393,7 +5363,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-07 02:36:39
 
-  **Stars**: 4591 stars
+  **Stars**: 4593 stars
 
   **Starred On**: 2025-06-28
 
@@ -5409,7 +5379,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-13 12:50:28
 
-  **Stars**: 1137 stars
+  **Stars**: 1138 stars
 
   **Starred On**: 2025-06-28
 
@@ -5472,13 +5442,13 @@ Last updated 2025-07-07 03:33:17
 
 * [cli/cli](https://github.com/cli/cli): GitHub’s official command line tool
 
-  **Latest Update**: 2025-07-06 05:17:59
+  **Latest Update**: 2025-07-08 02:01:49
 
-  **Stars**: 39740 stars
+  **Stars**: 39756 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 6730 forks
+  **Forks**: 6738 forks
 
   **Topics**: [github-api-v4](https://github.com/topics/github-api-v4),
   [cli](https://github.com/topics/cli),
@@ -5489,7 +5459,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-03 12:55:27
 
-  **Stars**: 6239 stars
+  **Stars**: 6240 stars
 
   **Starred On**: 2025-06-30
 
@@ -5548,7 +5518,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-27 12:33:32
 
-  **Stars**: 4036 stars
+  **Stars**: 4039 stars
 
   **Starred On**: 2025-06-30
 
@@ -5565,7 +5535,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-01 11:44:35
 
-  **Stars**: 17785 stars
+  **Stars**: 17789 stars
 
   **Starred On**: 2025-07-02
 
@@ -5594,13 +5564,13 @@ Last updated 2025-07-07 03:33:17
 
 * [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST
 
-  **Latest Update**: 2025-07-06 20:08:22
+  **Latest Update**: 2025-07-07 20:36:11
 
-  **Stars**: 24803 stars
+  **Stars**: 24850 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 976 forks
+  **Forks**: 978 forks
 
   **Topics**: [rest-api](https://github.com/topics/rest-api),
   [pubsub](https://github.com/topics/pubsub),
@@ -5614,11 +5584,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-10 08:02:35
 
-  **Stars**: 25965 stars
+  **Stars**: 25997 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 981 forks
+  **Forks**: 982 forks
 
   **Topics**: [dashboard](https://github.com/topics/dashboard),
   [homepage](https://github.com/topics/homepage),
@@ -5639,11 +5609,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-03 05:17:21
 
-  **Stars**: 95918 stars
+  **Stars**: 95957 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 14189 forks
+  **Forks**: 14195 forks
 
   **Topics**: [proxy](https://github.com/topics/proxy),
   [reverse-proxy](https://github.com/topics/reverse-proxy),
@@ -5660,7 +5630,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-31 12:36:04
 
-  **Stars**: 41048 stars
+  **Stars**: 41057 stars
 
   **Starred On**: 2025-07-02
 
@@ -5685,13 +5655,13 @@ Last updated 2025-07-07 03:33:17
 
 * [hashicorp/vault](https://github.com/hashicorp/vault): A tool for secrets management, encryption as a service, and privileged access management
 
-  **Latest Update**: 2025-07-06 23:35:36
+  **Latest Update**: 2025-07-08 00:41:12
 
-  **Stars**: 32721 stars
+  **Stars**: 32724 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 4395 forks
+  **Forks**: 4394 forks
 
   **Topics**: [vault](https://github.com/topics/vault),
   [go](https://github.com/topics/go),
@@ -5701,7 +5671,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-25 13:08:11
 
-  **Stars**: 32138 stars
+  **Stars**: 32140 stars
 
   **Starred On**: 2025-07-02
 
@@ -5714,11 +5684,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-14 02:48:12
 
-  **Stars**: 23313 stars
+  **Stars**: 23316 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 1742 forks
+  **Forks**: 1743 forks
 
   **Topics**: [golang-library](https://github.com/topics/golang-library),
   [command-line](https://github.com/topics/command-line),
@@ -5730,13 +5700,13 @@ Last updated 2025-07-07 03:33:17
 
 * [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs): SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
 
-  **Latest Update**: 2025-07-07 03:09:20
+  **Latest Update**: 2025-07-08 01:55:25
 
-  **Stars**: 25081 stars
+  **Stars**: 25092 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 2427 forks
+  **Forks**: 2428 forks
 
   **Topics**: [distributed-storage](https://github.com/topics/distributed-storage),
   [distributed-systems](https://github.com/topics/distributed-systems),
@@ -5760,7 +5730,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-20 17:57:41
 
-  **Stars**: 25354 stars
+  **Stars**: 25357 stars
 
   **Starred On**: 2025-07-02
 
@@ -5774,7 +5744,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-02 16:00:36
 
-  **Stars**: 23320 stars
+  **Stars**: 23327 stars
 
   **Starred On**: 2025-07-02
 
@@ -5787,13 +5757,13 @@ Last updated 2025-07-07 03:33:17
 
 * [influxdata/telegraf](https://github.com/influxdata/telegraf): Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 
-  **Latest Update**: 2025-07-04 00:49:56
+  **Latest Update**: 2025-07-08 02:09:59
 
-  **Stars**: 15726 stars
+  **Stars**: 15731 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 5655 forks
+  **Forks**: 5656 forks
 
   **Topics**: [telegraf](https://github.com/topics/telegraf),
   [monitoring](https://github.com/topics/monitoring),
@@ -5814,9 +5784,9 @@ Last updated 2025-07-07 03:33:17
 
 * [direnv/direnv](https://github.com/direnv/direnv): unclutter your .profile
 
-  **Latest Update**: 2025-07-02 10:16:53
+  **Latest Update**: 2025-07-07 08:57:44
 
-  **Stars**: 13720 stars
+  **Stars**: 13722 stars
 
   **Starred On**: 2025-07-02
 
@@ -5836,7 +5806,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-07-29 06:38:08
 
-  **Stars**: 12883 stars
+  **Stars**: 12885 stars
 
   **Starred On**: 2025-07-02
 
@@ -5855,7 +5825,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-01 13:46:28
 
-  **Stars**: 23827 stars
+  **Stars**: 23834 stars
 
   **Starred On**: 2025-07-02
 
@@ -5883,7 +5853,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-30 07:11:55
 
-  **Stars**: 12103 stars
+  **Stars**: 12114 stars
 
   **Starred On**: 2025-07-02
 
@@ -5902,9 +5872,9 @@ Last updated 2025-07-07 03:33:17
 
 * [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk): Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 
-  **Latest Update**: 2025-07-05 00:37:50
+  **Latest Update**: 2025-07-08 00:13:21
 
-  **Stars**: 10217 stars
+  **Stars**: 10218 stars
 
   **Starred On**: 2025-07-02
 
@@ -5925,7 +5895,7 @@ Last updated 2025-07-07 03:33:17
 
 * [runatlantis/atlantis](https://github.com/runatlantis/atlantis): Terraform Pull Request Automation
 
-  **Latest Update**: 2025-07-06 17:01:45
+  **Latest Update**: 2025-07-07 17:03:33
 
   **Stars**: 8352 stars
 
@@ -5945,9 +5915,9 @@ Last updated 2025-07-07 03:33:17
 
 * [mvdan/sh](https://github.com/mvdan/sh): A shell parser, formatter, and interpreter with bash support; includes shfmt
 
-  **Latest Update**: 2025-07-06 21:16:14
+  **Latest Update**: 2025-07-07 22:13:34
 
-  **Stars**: 7842 stars
+  **Stars**: 7843 stars
 
   **Starred On**: 2025-07-02
 
@@ -5968,7 +5938,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-03 02:37:53
 
-  **Stars**: 8029 stars
+  **Stars**: 8031 stars
 
   **Starred On**: 2025-07-02
 
@@ -6036,7 +6006,7 @@ Last updated 2025-07-07 03:33:17
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 2090 forks
+  **Forks**: 2091 forks
 
   **Topics**: [kubernetes](https://github.com/topics/kubernetes),
   [prometheus](https://github.com/topics/prometheus),
@@ -6055,7 +6025,7 @@ Last updated 2025-07-07 03:33:17
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 158 forks
+  **Forks**: 159 forks
 
   **Archived On**: 2022-11-22
 
@@ -6108,7 +6078,7 @@ Last updated 2025-07-07 03:33:17
 
 ## HTML
 
-12 repos
+15 repos
 
 * [goldshtn/linux-tracing-workshop](https://github.com/goldshtn/linux-tracing-workshop): Examples and hands-on labs for Linux tracing tools workshops
 
@@ -6124,7 +6094,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-12-20 05:43:46
 
-  **Stars**: 6166 stars
+  **Stars**: 6167 stars
 
   **Starred On**: 2021-02-17
 
@@ -6146,11 +6116,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-12-07 09:25:25
 
-  **Stars**: 8774 stars
+  **Stars**: 8776 stars
 
   **Starred On**: 2022-12-28
 
-  **Forks**: 1945 forks
+  **Forks**: 1947 forks
 
   **Topics**: [cheatsheet](https://github.com/topics/cheatsheet),
   [kubernetes](https://github.com/topics/kubernetes),
@@ -6176,26 +6146,50 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-05 02:45:41
 
-  **Stars**: 187691 stars
+  **Stars**: 187776 stars
 
   **Starred On**: 2023-04-09
 
-  **Forks**: 23424 forks
+  **Forks**: 23432 forks
 
   **Topics**: [computer-science](https://github.com/topics/computer-science),
   [awesome-list](https://github.com/topics/awesome-list),
   [courses](https://github.com/topics/courses),
   [curriculum](https://github.com/topics/curriculum)
 
+* [Greenheart/pagecrypt](https://github.com/Greenheart/pagecrypt): Password Protected Single Page Applications and HTML files
+
+  **Latest Update**: 2025-07-07 19:31:45
+
+  **Stars**: 290 stars
+
+  **Starred On**: 2024-05-07
+
+  **Forks**: 29 forks
+
+  **Topics**: [web-crypto](https://github.com/topics/web-crypto),
+  [webcrypto-api](https://github.com/topics/webcrypto-api),
+  [encryption-tool](https://github.com/topics/encryption-tool),
+  [password-protection](https://github.com/topics/password-protection),
+  [cryptography-tools](https://github.com/topics/cryptography-tools),
+  [pbkdf2](https://github.com/topics/pbkdf2),
+  [aes-encryption](https://github.com/topics/aes-encryption),
+  [cli](https://github.com/topics/cli),
+  [html](https://github.com/topics/html),
+  [password](https://github.com/topics/password),
+  [client-side-encryption](https://github.com/topics/client-side-encryption),
+  [crypto](https://github.com/topics/crypto),
+  [encrypted-files](https://github.com/topics/encrypted-files)
+
 * [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
   **Latest Update**: 2025-07-04 13:23:18
 
-  **Stars**: 102490 stars
+  **Stars**: 102625 stars
 
   **Starred On**: 2024-11-13
 
-  **Forks**: 10866 forks
+  **Forks**: 10876 forks
 
   **Topics**: [free-for-developers](https://github.com/topics/free-for-developers),
   [awesome-list](https://github.com/topics/awesome-list)
@@ -6226,9 +6220,9 @@ Last updated 2025-07-07 03:33:17
 
 * [windmill-labs/windmill](https://github.com/windmill-labs/windmill): Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 
-  **Latest Update**: 2025-07-07 00:41:43
+  **Latest Update**: 2025-07-08 01:33:45
 
-  **Stars**: 13980 stars
+  **Stars**: 13997 stars
 
   **Starred On**: 2025-06-28
 
@@ -6244,9 +6238,9 @@ Last updated 2025-07-07 03:33:17
 
 * [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons): Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 
-  **Latest Update**: 2025-07-02 17:15:46
+  **Latest Update**: 2025-07-08 01:06:47
 
-  **Stars**: 14976 stars
+  **Stars**: 14977 stars
 
   **Starred On**: 2025-06-28
 
@@ -6273,7 +6267,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-04-30 03:48:06
 
-  **Stars**: 38332 stars
+  **Stars**: 38333 stars
 
   **Starred On**: 2025-07-02
 
@@ -6287,7 +6281,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2022-09-05 13:36:00
 
-  **Stars**: 2581 stars
+  **Stars**: 2583 stars
 
   **Starred On**: 2025-07-02
 
@@ -6302,11 +6296,35 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-06-13 19:26:27
 
-  **Stars**: 1816 stars
+  **Stars**: 1817 stars
 
   **Starred On**: 2025-07-02
 
   **Forks**: 132 forks
+
+* [google/fonts](https://github.com/google/fonts): Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
+
+  **Latest Update**: 2025-07-07 13:13:30
+
+  **Stars**: 19009 stars
+
+  **Starred On**: 2025-07-07
+
+  **Forks**: 2735 forks
+
+* [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design): A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
+
+  **Latest Update**: 2023-04-15 16:33:50
+
+  **Stars**: 9467 stars
+
+  **Starred On**: 2025-07-07
+
+  **Forks**: 1478 forks
+
+  **Topics**: [data-science](https://github.com/topics/data-science),
+  [machine-learning-production](https://github.com/topics/machine-learning-production),
+  [mlops](https://github.com/topics/mlops)
 
 ## Hack
 
@@ -6333,7 +6351,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-03-24 08:35:52
 
-  **Stars**: 11319 stars
+  **Stars**: 11323 stars
 
   **Starred On**: 2025-06-28
 
@@ -6349,13 +6367,13 @@ Last updated 2025-07-07 03:33:17
 
 * [jgm/pandoc](https://github.com/jgm/pandoc): Universal markup converter
 
-  **Latest Update**: 2025-07-06 20:37:34
+  **Latest Update**: 2025-07-08 00:28:38
 
-  **Stars**: 38235 stars
+  **Stars**: 38246 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 3569 forks
+  **Forks**: 3571 forks
 
   **Topics**: [pandoc](https://github.com/topics/pandoc),
   [haskell](https://github.com/topics/haskell),
@@ -6371,7 +6389,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-03-22 21:05:18
 
-  **Stars**: 1427 stars
+  **Stars**: 1428 stars
 
   **Starred On**: 2025-06-28
 
@@ -6381,7 +6399,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-17 15:59:45
 
-  **Stars**: 2578 stars
+  **Stars**: 2579 stars
 
   **Starred On**: 2025-06-28
 
@@ -6399,7 +6417,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-17 00:57:35
 
-  **Stars**: 37646 stars
+  **Stars**: 37652 stars
 
   **Starred On**: 2025-07-02
 
@@ -6416,13 +6434,13 @@ Last updated 2025-07-07 03:33:17
 
 * [upptime/upptime](https://github.com/upptime/upptime): ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
-  **Latest Update**: 2025-07-07 02:04:57
+  **Latest Update**: 2025-07-08 01:59:48
 
-  **Stars**: 16283 stars
+  **Stars**: 16288 stars
 
   **Starred On**: 2025-06-30
 
-  **Forks**: 960 forks
+  **Forks**: 961 forks
 
   **Topics**: [uptime](https://github.com/topics/uptime),
   [uptime-monitor](https://github.com/topics/uptime-monitor),
@@ -6466,13 +6484,13 @@ Last updated 2025-07-07 03:33:17
 
 * [elastic/elasticsearch](https://github.com/elastic/elasticsearch): Free and Open Source, Distributed, RESTful Search Engine
 
-  **Latest Update**: 2025-07-06 22:00:21
+  **Latest Update**: 2025-07-08 00:37:09
 
-  **Stars**: 73135 stars
+  **Stars**: 73147 stars
 
   **Starred On**: 2016-05-10
 
-  **Forks**: 25323 forks
+  **Forks**: 25330 forks
 
   **Topics**: [elasticsearch](https://github.com/topics/elasticsearch),
   [java](https://github.com/topics/java),
@@ -6480,13 +6498,13 @@ Last updated 2025-07-07 03:33:17
 
 * [elastic/logstash](https://github.com/elastic/logstash): Logstash - transport and process your logs, events, or other data
 
-  **Latest Update**: 2025-07-04 14:47:01
+  **Latest Update**: 2025-07-07 17:42:45
 
   **Stars**: 14548 stars
 
   **Starred On**: 2016-05-10
 
-  **Forks**: 3521 forks
+  **Forks**: 3520 forks
 
   **Topics**: [etl-framework](https://github.com/topics/etl-framework),
   [streaming](https://github.com/topics/streaming),
@@ -6499,11 +6517,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-17 00:40:36
 
-  **Stars**: 92173 stars
+  **Stars**: 92178 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 27070 forks
+  **Forks**: 27069 forks
 
   **Topics**: [java](https://github.com/topics/java),
   [principles](https://github.com/topics/principles),
@@ -6516,13 +6534,13 @@ Last updated 2025-07-07 03:33:17
 
 * [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java): All Algorithms implemented in Java
 
-  **Latest Update**: 2025-07-06 21:19:50
+  **Latest Update**: 2025-07-07 21:29:52
 
-  **Stars**: 62290 stars
+  **Stars**: 62302 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 20049 forks
+  **Forks**: 20051 forks
 
   **Topics**: [java](https://github.com/topics/java),
   [algorithms](https://github.com/topics/algorithms),
@@ -6539,11 +6557,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-25 16:11:29
 
-  **Stars**: 42937 stars
+  **Stars**: 42963 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 4708 forks
+  **Forks**: 4711 forks
 
   **Topics**: [android](https://github.com/topics/android),
   [terminal](https://github.com/topics/terminal),
@@ -6553,13 +6571,13 @@ Last updated 2025-07-07 03:33:17
 
 * [apache/kafka](https://github.com/apache/kafka): Mirror of Apache Kafka
 
-  **Latest Update**: 2025-07-06 20:20:45
+  **Latest Update**: 2025-07-07 23:42:16
 
-  **Stars**: 30399 stars
+  **Stars**: 30410 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 14484 forks
+  **Forks**: 14488 forks
 
   **Topics**: [scala](https://github.com/topics/scala),
   [kafka](https://github.com/topics/kafka)
@@ -6589,11 +6607,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-04 02:18:40
 
-  **Stars**: 31724 stars
+  **Stars**: 31727 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 13082 forks
+  **Forks**: 13083 forks
 
   **Topics**: [nacos](https://github.com/topics/nacos),
   [dubbo](https://github.com/topics/dubbo),
@@ -6616,9 +6634,9 @@ Last updated 2025-07-07 03:33:17
 
 * [quarkusio/quarkus](https://github.com/quarkusio/quarkus): Quarkus: Supersonic Subatomic Java.
 
-  **Latest Update**: 2025-07-06 15:28:58
+  **Latest Update**: 2025-07-08 03:04:15
 
-  **Stars**: 14675 stars
+  **Stars**: 14680 stars
 
   **Starred On**: 2025-06-28
 
@@ -6632,13 +6650,13 @@ Last updated 2025-07-07 03:33:17
 
 * [keycloak/keycloak](https://github.com/keycloak/keycloak): Open Source Identity and Access Management For Modern Applications and Services
 
-  **Latest Update**: 2025-07-07 00:33:58
+  **Latest Update**: 2025-07-08 03:20:31
 
-  **Stars**: 28077 stars
+  **Stars**: 28105 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 7425 forks
+  **Forks**: 7429 forks
 
   **Topics**: [keycloak](https://github.com/topics/keycloak),
   [oidc](https://github.com/topics/oidc),
@@ -6648,11 +6666,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-12 13:40:18
 
-  **Stars**: 114094 stars
+  **Stars**: 114139 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 14138 forks
+  **Forks**: 14139 forks
 
   **Topics**: [algorithms](https://github.com/topics/algorithms),
   [data-structures](https://github.com/topics/data-structures),
@@ -6668,9 +6686,9 @@ Last updated 2025-07-07 03:33:17
 
 * [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool): Style and Grammar Checker for 25+ Languages
 
-  **Latest Update**: 2025-07-06 16:22:12
+  **Latest Update**: 2025-07-07 14:29:38
 
-  **Stars**: 13288 stars
+  **Stars**: 13290 stars
 
   **Starred On**: 2025-06-29
 
@@ -6687,11 +6705,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-02 09:32:46
 
-  **Stars**: 14620 stars
+  **Stars**: 14629 stars
 
   **Starred On**: 2025-06-30
 
-  **Forks**: 2468 forks
+  **Forks**: 2469 forks
 
   **Topics**: [cypher](https://github.com/topics/cypher),
   [graphdb](https://github.com/topics/graphdb),
@@ -6703,7 +6721,7 @@ Last updated 2025-07-07 03:33:17
 
 * [oracle/graal](https://github.com/oracle/graal): GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 
-  **Latest Update**: 2025-07-06 23:40:59
+  **Latest Update**: 2025-07-08 02:22:33
 
   **Stars**: 20973 stars
 
@@ -6724,11 +6742,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-16 03:07:33
 
-  **Stars**: 16754 stars
+  **Stars**: 16753 stars
 
   **Starred On**: 2016-05-27
 
-  **Forks**: 3736 forks
+  **Forks**: 3737 forks
 
   **Topics**: [hubot](https://github.com/topics/hubot),
   [chat](https://github.com/topics/chat),
@@ -6785,7 +6803,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-04 12:13:07
 
-  **Stars**: 1208 stars
+  **Stars**: 1209 stars
 
   **Starred On**: 2021-01-19
 
@@ -6825,39 +6843,15 @@ Last updated 2025-07-07 03:33:17
   [software-engineering](https://github.com/topics/software-engineering),
   [ml-ops](https://github.com/topics/ml-ops)
 
-* [Greenheart/pagecrypt](https://github.com/Greenheart/pagecrypt): Password Protected Single Page Applications and HTML files
-
-  **Latest Update**: 2025-06-17 08:43:14
-
-  **Stars**: 289 stars
-
-  **Starred On**: 2024-05-07
-
-  **Forks**: 29 forks
-
-  **Topics**: [web-crypto](https://github.com/topics/web-crypto),
-  [webcrypto-api](https://github.com/topics/webcrypto-api),
-  [encryption-tool](https://github.com/topics/encryption-tool),
-  [password-protection](https://github.com/topics/password-protection),
-  [cryptography-tools](https://github.com/topics/cryptography-tools),
-  [pbkdf2](https://github.com/topics/pbkdf2),
-  [aes-encryption](https://github.com/topics/aes-encryption),
-  [cli](https://github.com/topics/cli),
-  [html](https://github.com/topics/html),
-  [password](https://github.com/topics/password),
-  [client-side-encryption](https://github.com/topics/client-side-encryption),
-  [crypto](https://github.com/topics/crypto),
-  [encrypted-files](https://github.com/topics/encrypted-files)
-
 * [HabitRPG/habitica](https://github.com/HabitRPG/habitica): A habit tracker app which treats your goals like a Role Playing Game.
 
   **Latest Update**: 2025-07-02 23:30:50
 
-  **Stars**: 13035 stars
+  **Stars**: 13038 stars
 
   **Starred On**: 2024-11-13
 
-  **Forks**: 4246 forks
+  **Forks**: 4247 forks
 
   **Topics**: [habitica](https://github.com/topics/habitica),
   [javascript](https://github.com/topics/javascript),
@@ -6873,9 +6867,9 @@ Last updated 2025-07-07 03:33:17
 
 * [holistics/dbml](https://github.com/holistics/dbml): Database Markup Language (DBML), designed to define and document database structures
 
-  **Latest Update**: 2025-07-04 09:22:12
+  **Latest Update**: 2025-07-07 10:12:18
 
-  **Stars**: 3259 stars
+  **Stars**: 3261 stars
 
   **Starred On**: 2024-11-13
 
@@ -6911,11 +6905,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-18 08:24:29
 
-  **Stars**: 14423 stars
+  **Stars**: 14438 stars
 
   **Starred On**: 2025-01-21
 
-  **Forks**: 2595 forks
+  **Forks**: 2601 forks
 
   **Topics**: [cheerp](https://github.com/topics/cheerp),
   [cheerpx](https://github.com/topics/cheerpx),
@@ -6931,13 +6925,13 @@ Last updated 2025-07-07 03:33:17
 
 * [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): :zap: Dynamically generated stats for your github readmes
 
-  **Latest Update**: 2025-07-05 17:52:46
+  **Latest Update**: 2025-07-07 22:23:11
 
-  **Stars**: 74192 stars
+  **Stars**: 74224 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 25229 forks
+  **Forks**: 25242 forks
 
   **Topics**: [profile-readme](https://github.com/topics/profile-readme),
   [dynamic](https://github.com/topics/dynamic),
@@ -6950,7 +6944,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-04-27 17:12:57
 
-  **Stars**: 65327 stars
+  **Stars**: 65331 stars
 
   **Starred On**: 2025-06-28
 
@@ -6972,13 +6966,13 @@ Last updated 2025-07-07 03:33:17
 
 * [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 
-  **Latest Update**: 2025-07-06 21:44:54
+  **Latest Update**: 2025-07-07 22:29:43
 
-  **Stars**: 35949 stars
+  **Stars**: 35958 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 4672 forks
+  **Forks**: 4674 forks
 
   **Topics**: [javascript](https://github.com/topics/javascript),
   [internal-tools](https://github.com/topics/internal-tools),
@@ -7030,7 +7024,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-02-18 00:58:56
 
-  **Stars**: 31909 stars
+  **Stars**: 31914 stars
 
   **Starred On**: 2025-06-28
 
@@ -7050,7 +7044,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-12-14 10:56:21
 
-  **Stars**: 28137 stars
+  **Stars**: 28139 stars
 
   **Starred On**: 2025-06-28
 
@@ -7079,9 +7073,9 @@ Last updated 2025-07-07 03:33:17
 
 * [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui): Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 
-  **Latest Update**: 2025-07-03 23:34:39
+  **Latest Update**: 2025-07-07 09:54:38
 
-  **Stars**: 27851 stars
+  **Stars**: 27859 stars
 
   **Starred On**: 2025-06-28
 
@@ -7106,7 +7100,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-02 17:13:58
 
-  **Stars**: 17315 stars
+  **Stars**: 17319 stars
 
   **Starred On**: 2025-06-28
 
@@ -7120,9 +7114,9 @@ Last updated 2025-07-07 03:33:17
 
 * [gorhill/uBlock](https://github.com/gorhill/uBlock): uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
-  **Latest Update**: 2025-07-06 23:06:57
+  **Latest Update**: 2025-07-07 19:40:49
 
-  **Stars**: 54936 stars
+  **Stars**: 54956 stars
 
   **Starred On**: 2025-06-28
 
@@ -7138,9 +7132,9 @@ Last updated 2025-07-07 03:33:17
 
 * [arkenfox/user.js](https://github.com/arkenfox/user.js): Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 
-  **Latest Update**: 2025-07-04 09:27:02
+  **Latest Update**: 2025-07-07 17:54:52
 
-  **Stars**: 11283 stars
+  **Stars**: 11288 stars
 
   **Starred On**: 2025-06-28
 
@@ -7159,7 +7153,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-05 04:32:29
 
-  **Stars**: 1759 stars
+  **Stars**: 1762 stars
 
   **Starred On**: 2025-06-28
 
@@ -7186,23 +7180,23 @@ Last updated 2025-07-07 03:33:17
 
 * [zotero/zotero](https://github.com/zotero/zotero): Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 
-  **Latest Update**: 2025-07-03 15:00:11
+  **Latest Update**: 2025-07-07 17:25:02
 
-  **Stars**: 11935 stars
+  **Stars**: 11948 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 852 forks
+  **Forks**: 853 forks
 
 * [gethomepage/homepage](https://github.com/gethomepage/homepage): A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 
-  **Latest Update**: 2025-07-07 00:39:28
+  **Latest Update**: 2025-07-08 00:36:31
 
-  **Stars**: 24671 stars
+  **Stars**: 24684 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1524 forks
+  **Forks**: 1529 forks
 
   **Topics**: [homepage](https://github.com/topics/homepage),
   [nextjs](https://github.com/topics/nextjs),
@@ -7216,11 +7210,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-29 21:52:25
 
-  **Stars**: 38130 stars
+  **Stars**: 38134 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 7124 forks
+  **Forks**: 7123 forks
 
   **Topics**: [phaser](https://github.com/topics/phaser),
   [phaserjs](https://github.com/topics/phaserjs),
@@ -7238,13 +7232,13 @@ Last updated 2025-07-07 03:33:17
 
 * [HeyPuter/puter](https://github.com/HeyPuter/puter): 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 
-  **Latest Update**: 2025-07-07 01:54:34
+  **Latest Update**: 2025-07-07 21:25:40
 
-  **Stars**: 33735 stars
+  **Stars**: 33766 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2537 forks
+  **Forks**: 2539 forks
 
   **Topics**: [desktop](https://github.com/topics/desktop),
   [desktop-environment](https://github.com/topics/desktop-environment),
@@ -7269,9 +7263,9 @@ Last updated 2025-07-07 03:33:17
 
 * [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad): Collaborative office suite, end-to-end encrypted and open-source.
 
-  **Latest Update**: 2025-07-04 16:12:37
+  **Latest Update**: 2025-07-07 14:04:36
 
-  **Stars**: 6629 stars
+  **Stars**: 6631 stars
 
   **Starred On**: 2025-06-28
 
@@ -7288,13 +7282,13 @@ Last updated 2025-07-07 03:33:17
 
 * [4ian/GDevelop](https://github.com/4ian/GDevelop): 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 
-  **Latest Update**: 2025-07-06 19:28:41
+  **Latest Update**: 2025-07-07 21:47:08
 
-  **Stars**: 15144 stars
+  **Stars**: 15168 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1021 forks
+  **Forks**: 1023 forks
 
   **Topics**: [game](https://github.com/topics/game),
   [javascript](https://github.com/topics/javascript),
@@ -7319,13 +7313,13 @@ Last updated 2025-07-07 03:33:17
 
 * [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric): Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 
-  **Latest Update**: 2025-07-07 03:05:52
+  **Latest Update**: 2025-07-08 01:38:29
 
-  **Stars**: 32307 stars
+  **Stars**: 32331 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 3333 forks
+  **Forks**: 3337 forks
 
   **Topics**: [ai](https://github.com/topics/ai),
   [augmentation](https://github.com/topics/augmentation),
@@ -7358,7 +7352,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-05-02 11:02:01
 
-  **Stars**: 3312 stars
+  **Stars**: 3311 stars
 
   **Starred On**: 2025-06-28
 
@@ -7377,7 +7371,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2023-03-23 21:35:09
 
-  **Stars**: 29536 stars
+  **Stars**: 29533 stars
 
   **Starred On**: 2025-06-28
 
@@ -7398,7 +7392,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-21 04:29:56
 
-  **Stars**: 8498 stars
+  **Stars**: 8507 stars
 
   **Starred On**: 2025-06-28
 
@@ -7418,13 +7412,13 @@ Last updated 2025-07-07 03:33:17
 
 * [nodejs/node](https://github.com/nodejs/node): Node.js JavaScript runtime ✨🐢🚀✨
 
-  **Latest Update**: 2025-07-06 09:49:46
+  **Latest Update**: 2025-07-07 21:25:34
 
-  **Stars**: 112067 stars
+  **Stars**: 112084 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 32038 forks
+  **Forks**: 32042 forks
 
   **Topics**: [nodejs](https://github.com/topics/nodejs),
   [javascript](https://github.com/topics/javascript),
@@ -7438,13 +7432,13 @@ Last updated 2025-07-07 03:33:17
 
 * [terrastruct/d2](https://github.com/terrastruct/d2): D2 is a modern diagram scripting language that turns text to diagrams.
 
-  **Latest Update**: 2025-07-02 02:31:11
+  **Latest Update**: 2025-07-07 16:25:49
 
-  **Stars**: 20879 stars
+  **Stars**: 20940 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 552 forks
+  **Forks**: 556 forks
 
   **Topics**: [diagramming](https://github.com/topics/diagramming),
   [diagrams](https://github.com/topics/diagrams),
@@ -7456,13 +7450,13 @@ Last updated 2025-07-07 03:33:17
 
 * [EFForg/privacybadger](https://github.com/EFForg/privacybadger): Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 
-  **Latest Update**: 2025-06-24 19:07:20
+  **Latest Update**: 2025-07-07 14:42:59
 
   **Stars**: 3443 stars
 
   **Starred On**: 2025-06-29
 
-  **Forks**: 397 forks
+  **Forks**: 398 forks
 
   **Topics**: [privacy](https://github.com/topics/privacy),
   [javascript](https://github.com/topics/javascript),
@@ -7478,7 +7472,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-04 23:24:30
 
-  **Stars**: 867 stars
+  **Stars**: 869 stars
 
   **Starred On**: 2025-06-29
 
@@ -7496,9 +7490,9 @@ Last updated 2025-07-07 03:33:17
 
 * [openstyles/stylus](https://github.com/openstyles/stylus): Stylus - Userstyles Manager
 
-  **Latest Update**: 2025-07-06 13:25:43
+  **Latest Update**: 2025-07-07 04:20:25
 
-  **Stars**: 5975 stars
+  **Stars**: 5976 stars
 
   **Starred On**: 2025-06-29
 
@@ -7550,13 +7544,13 @@ Last updated 2025-07-07 03:33:17
 
 * [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
-  **Latest Update**: 2025-07-06 17:40:55
+  **Latest Update**: 2025-07-07 21:37:11
 
-  **Stars**: 101489 stars
+  **Stars**: 101671 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 13521 forks
+  **Forks**: 13548 forks
 
   **Topics**: [ollama](https://github.com/topics/ollama),
   [ollama-webui](https://github.com/topics/ollama-webui),
@@ -7578,11 +7572,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-05 07:01:25
 
-  **Stars**: 71575 stars
+  **Stars**: 71632 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 6333 forks
+  **Forks**: 6337 forks
 
   **Topics**: [uptime](https://github.com/topics/uptime),
   [monitoring](https://github.com/topics/monitoring),
@@ -7599,13 +7593,13 @@ Last updated 2025-07-07 03:33:17
 
 * [usebruno/bruno](https://github.com/usebruno/bruno): Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 
-  **Latest Update**: 2025-07-04 16:03:01
+  **Latest Update**: 2025-07-07 20:48:37
 
-  **Stars**: 35362 stars
+  **Stars**: 35389 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 1730 forks
+  **Forks**: 1732 forks
 
   **Topics**: [api-client](https://github.com/topics/api-client),
   [git](https://github.com/topics/git),
@@ -7630,17 +7624,17 @@ Last updated 2025-07-07 03:33:17
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 5870 forks
+  **Forks**: 5871 forks
 
 * [be5invis/Iosevka](https://github.com/be5invis/Iosevka): Versatile typeface for code, from code.
 
   **Latest Update**: 2025-07-04 18:11:14
 
-  **Stars**: 20440 stars
+  **Stars**: 20445 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 615 forks
+  **Forks**: 616 forks
 
   **Topics**: [iosevka](https://github.com/topics/iosevka),
   [font](https://github.com/topics/font),
@@ -7653,21 +7647,39 @@ Last updated 2025-07-07 03:33:17
 
 * [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore): A collection of JSON schema files including full API
 
-  **Latest Update**: 2025-07-05 15:51:00
+  **Latest Update**: 2025-07-07 19:14:12
 
-  **Stars**: 3406 stars
+  **Stars**: 3408 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 1895 forks
+  **Forks**: 1899 forks
+
+* [jobisoft/TbSync](https://github.com/jobisoft/TbSync): \[Thunderbird Add-On] Central user interface to manage cloud accounts and to synchronize their contact, task and calendar information with Thunderbird
+
+  **Latest Update**: 2025-04-23 06:17:49
+
+  **Stars**: 838 stars
+
+  **Starred On**: 2025-07-07
+
+  **Forks**: 55 forks
+
+  **Topics**: [thunderbird](https://github.com/topics/thunderbird),
+  [eas](https://github.com/topics/eas),
+  [sync](https://github.com/topics/sync),
+  [exchange](https://github.com/topics/exchange),
+  [activesync](https://github.com/topics/activesync),
+  [caldav](https://github.com/topics/caldav),
+  [carddav](https://github.com/topics/carddav)
 
 ## Jinja
 
 * [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray): Deploy a Production Ready Kubernetes Cluster
 
-  **Latest Update**: 2025-07-07 02:59:43
+  **Latest Update**: 2025-07-08 02:57:13
 
-  **Stars**: 17277 stars
+  **Stars**: 17280 stars
 
   **Starred On**: 2025-06-28
 
@@ -7692,11 +7704,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 20:15:26
 
-  **Stars**: 21798 stars
+  **Stars**: 21817 stars
 
   **Starred On**: 2021-03-07
 
-  **Forks**: 4075 forks
+  **Forks**: 4079 forks
 
   **Topics**: [hacking](https://github.com/topics/hacking),
   [penetration-testing](https://github.com/topics/penetration-testing),
@@ -7721,13 +7733,13 @@ Last updated 2025-07-07 03:33:17
 
 * [langchain-ai/langchain](https://github.com/langchain-ai/langchain): 🦜🔗 Build context-aware reasoning applications
 
-  **Latest Update**: 2025-07-07 03:19:31
+  **Latest Update**: 2025-07-08 02:18:44
 
-  **Stars**: 110859 stars
+  **Stars**: 110931 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 18043 forks
+  **Forks**: 18056 forks
 
 ## Kotlin
 
@@ -7755,7 +7767,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 07:27:57
 
-  **Stars**: 9372 stars
+  **Stars**: 9377 stars
 
   **Starred On**: 2025-06-28
 
@@ -7774,19 +7786,19 @@ Last updated 2025-07-07 03:33:17
 
 * [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): The Magic Mask for Android
 
-  **Latest Update**: 2025-07-05 10:50:27
+  **Latest Update**: 2025-07-07 20:43:13
 
-  **Stars**: 54166 stars
+  **Stars**: 54194 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 14236 forks
+  **Forks**: 14245 forks
 
 * [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose): DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
 
-  **Latest Update**: 2025-07-04 09:26:39
+  **Latest Update**: 2025-07-07 15:42:24
 
-  **Stars**: 1970 stars
+  **Stars**: 1972 stars
 
   **Starred On**: 2025-07-05
 
@@ -7807,7 +7819,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-03 23:27:09
 
-  **Stars**: 3674 stars
+  **Stars**: 3677 stars
 
   **Starred On**: 2025-07-05
 
@@ -7826,11 +7838,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-24 19:07:31
 
-  **Stars**: 9214 stars
+  **Stars**: 9218 stars
 
   **Starred On**: 2023-04-12
 
-  **Forks**: 311 forks
+  **Forks**: 312 forks
 
   **Topics**: [lspinstall](https://github.com/topics/lspinstall),
   [lua](https://github.com/topics/lua),
@@ -7857,9 +7869,9 @@ Last updated 2025-07-07 03:33:17
 
 * [apache/apisix](https://github.com/apache/apisix): The Cloud-Native API Gateway and AI Gateway
 
-  **Latest Update**: 2025-07-07 03:11:45
+  **Latest Update**: 2025-07-07 07:26:09
 
-  **Stars**: 15318 stars
+  **Stars**: 15322 stars
 
   **Starred On**: 2025-06-28
 
@@ -7890,11 +7902,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-02 13:50:31
 
-  **Stars**: 41226 stars
+  **Stars**: 41234 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 4943 forks
+  **Forks**: 4944 forks
 
   **Topics**: [api-gateway](https://github.com/topics/api-gateway),
   [nginx](https://github.com/topics/nginx),
@@ -7921,7 +7933,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-17 18:32:58
 
-  **Stars**: 6628 stars
+  **Stars**: 6629 stars
 
   **Starred On**: 2025-06-28
 
@@ -7938,11 +7950,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-12 09:05:55
 
-  **Stars**: 21491 stars
+  **Stars**: 21505 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 1508 forks
+  **Forks**: 1509 forks
 
   **Topics**: [neovim](https://github.com/topics/neovim),
   [neovim-conf](https://github.com/topics/neovim-conf),
@@ -7973,23 +7985,23 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 17:13:38
 
-  **Stars**: 724 stars
+  **Stars**: 729 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 51 forks
+  **Forks**: 53 forks
 
 ## MDX
 
 * [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
-  **Latest Update**: 2025-07-05 20:41:23
+  **Latest Update**: 2025-07-07 22:58:20
 
-  **Stars**: 58967 stars
+  **Stars**: 59044 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 5899 forks
+  **Forks**: 5924 forks
 
   **Topics**: [deep-learning](https://github.com/topics/deep-learning),
   [prompt-engineering](https://github.com/topics/prompt-engineering),
@@ -8004,7 +8016,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-02 00:40:11
 
-  **Stars**: 3955 stars
+  **Stars**: 3957 stars
 
   **Starred On**: 2025-06-28
 
@@ -8018,13 +8030,13 @@ Last updated 2025-07-07 03:33:17
 
 * [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): Master programming by recreating your favorite technologies from scratch.
 
-  **Latest Update**: 2025-04-11 19:13:28
+  **Latest Update**: 2025-07-07 14:14:17
 
-  **Stars**: 395979 stars
+  **Stars**: 396589 stars
 
   **Starred On**: 2020-12-28
 
-  **Forks**: 36943 forks
+  **Forks**: 36996 forks
 
   **Topics**: [programming](https://github.com/topics/programming),
   [tutorials](https://github.com/topics/tutorials),
@@ -8037,11 +8049,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-01-31 06:30:22
 
-  **Stars**: 128466 stars
+  **Stars**: 128477 stars
 
   **Starred On**: 2024-11-13
 
-  **Forks**: 23394 forks
+  **Forks**: 23395 forks
 
   **Topics**: [leetcode](https://github.com/topics/leetcode),
   [algorithms](https://github.com/topics/algorithms),
@@ -8054,13 +8066,13 @@ Last updated 2025-07-07 03:33:17
 
 * [tldr-pages/tldr](https://github.com/tldr-pages/tldr): 📚 Collaborative cheatsheets for console commands
 
-  **Latest Update**: 2025-07-07 03:19:19
+  **Latest Update**: 2025-07-08 02:33:26
 
-  **Stars**: 56293 stars
+  **Stars**: 56313 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 4550 forks
+  **Forks**: 4553 forks
 
   **Topics**: [shell](https://github.com/topics/shell),
   [man-page](https://github.com/topics/man-page),
@@ -8087,7 +8099,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-27 01:34:29
 
-  **Stars**: 14548 stars
+  **Stars**: 14553 stars
 
   **Starred On**: 2025-06-28
 
@@ -8118,7 +8130,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-07 02:17:44
 
-  **Stars**: 2382 stars
+  **Stars**: 2387 stars
 
   **Starred On**: 2025-07-02
 
@@ -8132,7 +8144,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-07 01:57:42
 
-  **Stars**: 8281 stars
+  **Stars**: 8287 stars
 
   **Starred On**: 2025-07-02
 
@@ -8150,13 +8162,13 @@ Last updated 2025-07-07 03:33:17
 
 * [nextcloud/server](https://github.com/nextcloud/server): ☁️ Nextcloud server, a safe home for all your data
 
-  **Latest Update**: 2025-07-07 00:12:21
+  **Latest Update**: 2025-07-08 00:27:03
 
-  **Stars**: 30079 stars
+  **Stars**: 30097 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 4330 forks
+  **Forks**: 4334 forks
 
   **Topics**: [open-source](https://github.com/topics/open-source),
   [file-sharing](https://github.com/topics/file-sharing),
@@ -8181,9 +8193,9 @@ Last updated 2025-07-07 03:33:17
 
 * [matomo-org/matomo](https://github.com/matomo-org/matomo): Empowering People Ethically 🚀 — Matomo is hiring! Join us → <https://matomo.org/jobs> Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!
 
-  **Latest Update**: 2025-07-07 02:44:41
+  **Latest Update**: 2025-07-08 02:54:17
 
-  **Stars**: 20640 stars
+  **Stars**: 20646 stars
 
   **Starred On**: 2025-06-28
 
@@ -8207,13 +8219,13 @@ Last updated 2025-07-07 03:33:17
 
 * [koel/koel](https://github.com/koel/koel): Music streaming solution that works.
 
-  **Latest Update**: 2025-07-06 10:32:06
+  **Latest Update**: 2025-07-07 16:55:29
 
-  **Stars**: 16546 stars
+  **Stars**: 16548 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2018 forks
+  **Forks**: 2019 forks
 
   **Topics**: [laravel](https://github.com/topics/laravel),
   [vue](https://github.com/topics/vue),
@@ -8225,13 +8237,13 @@ Last updated 2025-07-07 03:33:17
 
 * [grokability/snipe-it](https://github.com/grokability/snipe-it): A free open source IT asset/license management system
 
-  **Latest Update**: 2025-07-03 19:19:40
+  **Latest Update**: 2025-07-07 21:09:49
 
-  **Stars**: 12406 stars
+  **Stars**: 12412 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 3454 forks
+  **Forks**: 3453 forks
 
   **Topics**: [assets-management](https://github.com/topics/assets-management),
   [asset-manager](https://github.com/topics/asset-manager),
@@ -8241,13 +8253,13 @@ Last updated 2025-07-07 03:33:17
 
 * [coollabsio/coolify](https://github.com/coollabsio/coolify): An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
-  **Latest Update**: 2025-07-03 19:31:13
+  **Latest Update**: 2025-07-07 19:01:38
 
-  **Stars**: 43139 stars
+  **Stars**: 43178 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2677 forks
+  **Forks**: 2686 forks
 
   **Topics**: [mongodb](https://github.com/topics/mongodb),
   [nodejs](https://github.com/topics/nodejs),
@@ -8277,7 +8289,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-01-12 20:05:01
 
-  **Stars**: 1239 stars
+  **Stars**: 1240 stars
 
   **Starred On**: 2016-07-03
 
@@ -8301,7 +8313,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-19 15:41:06
 
-  **Stars**: 2999 stars
+  **Stars**: 3000 stars
 
   **Starred On**: 2025-06-28
 
@@ -8324,7 +8336,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-03 00:57:28
 
-  **Stars**: 3819 stars
+  **Stars**: 3823 stars
 
   **Starred On**: 2025-06-28
 
@@ -8341,13 +8353,13 @@ Last updated 2025-07-07 03:33:17
 
 ## Python
 
-79 repos
+80 repos
 
 * [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools): CTF framework and exploit development library
 
   **Latest Update**: 2025-07-04 14:46:42
 
-  **Stars**: 12701 stars
+  **Stars**: 12702 stars
 
   **Starred On**: 2015-06-20
 
@@ -8375,20 +8387,20 @@ Last updated 2025-07-07 03:33:17
 
 * [ansible/ansible](https://github.com/ansible/ansible): Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. <https://docs.ansible.com>.
 
-  **Latest Update**: 2025-07-03 23:25:33
+  **Latest Update**: 2025-07-07 18:44:19
 
-  **Stars**: 65541 stars
+  **Stars**: 65552 stars
 
   **Starred On**: 2016-05-09
 
-  **Forks**: 24039 forks
+  **Forks**: 24041 forks
 
   **Topics**: [python](https://github.com/topics/python),
   [ansible](https://github.com/topics/ansible)
 
 * [openstack/openstack](https://github.com/openstack/openstack): Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org.
 
-  **Latest Update**: 2025-07-06 15:16:11
+  **Latest Update**: 2025-07-08 01:32:28
 
   **Stars**: 5597 stars
 
@@ -8400,11 +8412,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-15 10:03:07
 
-  **Stars**: 30867 stars
+  **Stars**: 30875 stars
 
   **Starred On**: 2016-05-14
 
-  **Forks**: 3415 forks
+  **Forks**: 3417 forks
 
   **Topics**: [linux-kernel](https://github.com/topics/linux-kernel),
   [linux-insides](https://github.com/topics/linux-insides),
@@ -8412,13 +8424,13 @@ Last updated 2025-07-07 03:33:17
 
 * [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot): We have made you a wrapper you can't refuse
 
-  **Latest Update**: 2025-07-05 20:15:57
+  **Latest Update**: 2025-07-07 20:43:54
 
-  **Stars**: 27797 stars
+  **Stars**: 27801 stars
 
   **Starred On**: 2016-05-14
 
-  **Forks**: 5735 forks
+  **Forks**: 5739 forks
 
   **Topics**: [python](https://github.com/topics/python),
   [telegram](https://github.com/topics/telegram),
@@ -8460,7 +8472,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-24 22:52:07
 
-  **Stars**: 2410 stars
+  **Stars**: 2411 stars
 
   **Starred On**: 2017-12-08
 
@@ -8487,11 +8499,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-28 02:59:36
 
-  **Stars**: 362211 stars
+  **Stars**: 362359 stars
 
   **Starred On**: 2018-07-22
 
-  **Forks**: 63693 forks
+  **Forks**: 63704 forks
 
   **Topics**: [education](https://github.com/topics/education),
   [books](https://github.com/topics/books),
@@ -8501,9 +8513,9 @@ Last updated 2025-07-07 03:33:17
 
 * [fastapi/fastapi](https://github.com/fastapi/fastapi): FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
-  **Latest Update**: 2025-07-04 05:22:23
+  **Latest Update**: 2025-07-07 17:35:39
 
-  **Stars**: 86982 stars
+  **Stars**: 87005 stars
 
   **Starred On**: 2020-01-12
 
@@ -8534,11 +8546,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-28 20:46:19
 
-  **Stars**: 12764 stars
+  **Stars**: 12772 stars
 
   **Starred On**: 2020-01-28
 
-  **Forks**: 417 forks
+  **Forks**: 418 forks
 
   **Topics**: [python](https://github.com/topics/python),
   [profiling](https://github.com/topics/profiling),
@@ -8578,7 +8590,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-13 09:21:32
 
-  **Stars**: 4340 stars
+  **Stars**: 4341 stars
 
   **Starred On**: 2021-01-29
 
@@ -8607,11 +8619,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-12-17 17:30:35
 
-  **Stars**: 36006 stars
+  **Stars**: 36017 stars
 
   **Starred On**: 2022-12-25
 
-  **Forks**: 3746 forks
+  **Forks**: 3745 forks
 
   **Topics**: [http](https://github.com/topics/http),
   [cli](https://github.com/topics/cli),
@@ -8638,11 +8650,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-10 11:50:03
 
-  **Stars**: 36324 stars
+  **Stars**: 36347 stars
 
   **Starred On**: 2024-11-13
 
-  **Forks**: 2666 forks
+  **Forks**: 2667 forks
 
   **Topics**: [python](https://github.com/topics/python),
   [wats](https://github.com/topics/wats),
@@ -8658,7 +8670,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-04-24 05:36:51
 
-  **Stars**: 8803 stars
+  **Stars**: 8806 stars
 
   **Starred On**: 2024-11-13
 
@@ -8680,13 +8692,13 @@ Last updated 2025-07-07 03:33:17
 
 * [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx): A community-supported supercharged document management system: scan, index and archive all your documents
 
-  **Latest Update**: 2025-07-07 00:39:48
+  **Latest Update**: 2025-07-08 03:25:15
 
-  **Stars**: 29010 stars
+  **Stars**: 29046 stars
 
   **Starred On**: 2024-11-13
 
-  **Forks**: 1712 forks
+  **Forks**: 1713 forks
 
   **Topics**: [angular](https://github.com/topics/angular),
   [archiving](https://github.com/topics/archiving),
@@ -8713,11 +8725,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-04-24 19:36:05
 
-  **Stars**: 77384 stars
+  **Stars**: 77413 stars
 
   **Starred On**: 2024-11-13
 
-  **Forks**: 17336 forks
+  **Forks**: 17345 forks
 
   **Topics**: [devops](https://github.com/topics/devops),
   [aws](https://github.com/topics/aws),
@@ -8741,13 +8753,13 @@ Last updated 2025-07-07 03:33:17
 
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
 
-  **Latest Update**: 2025-07-05 23:00:05
+  **Latest Update**: 2025-07-07 18:05:56
 
-  **Stars**: 202551 stars
+  **Stars**: 202598 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 46998 forks
+  **Forks**: 47005 forks
 
   **Topics**: [python](https://github.com/topics/python),
   [algorithm](https://github.com/topics/algorithm),
@@ -8766,13 +8778,13 @@ Last updated 2025-07-07 03:33:17
 
 * [huggingface/transformers](https://github.com/huggingface/transformers): 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 
-  **Latest Update**: 2025-07-05 20:57:11
+  **Latest Update**: 2025-07-08 03:13:21
 
-  **Stars**: 146545 stars
+  **Stars**: 146599 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 29546 forks
+  **Forks**: 29565 forks
 
   **Topics**: [nlp](https://github.com/topics/nlp),
   [natural-language-processing](https://github.com/topics/natural-language-processing),
@@ -8796,13 +8808,13 @@ Last updated 2025-07-07 03:33:17
 
 * [home-assistant/core](https://github.com/home-assistant/core): :house\_with\_garden: Open source home automation that puts local control and privacy first.
 
-  **Latest Update**: 2025-07-06 22:38:32
+  **Latest Update**: 2025-07-07 22:08:44
 
-  **Stars**: 80001 stars
+  **Stars**: 80026 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 34235 forks
+  **Forks**: 34244 forks
 
   **Topics**: [python](https://github.com/topics/python),
   [home-automation](https://github.com/topics/home-automation),
@@ -8817,11 +8829,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-06 09:55:10
 
-  **Stars**: 66484 stars
+  **Stars**: 66502 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 7645 forks
+  **Forks**: 7647 forks
 
   **Topics**: [osint](https://github.com/topics/osint),
   [reconnaissance](https://github.com/topics/reconnaissance),
@@ -8844,11 +8856,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-02 20:24:36
 
-  **Stars**: 67863 stars
+  **Stars**: 68000 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 15601 forks
+  **Forks**: 15622 forks
 
   **Topics**: [pentest](https://github.com/topics/pentest),
   [payload](https://github.com/topics/payload),
@@ -8872,11 +8884,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 16:27:17
 
-  **Stars**: 57466 stars
+  **Stars**: 57485 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 10948 forks
+  **Forks**: 10951 forks
 
   **Topics**: [python](https://github.com/topics/python),
   [scraping](https://github.com/topics/scraping),
@@ -8889,13 +8901,13 @@ Last updated 2025-07-07 03:33:17
 
 * [getsentry/sentry](https://github.com/getsentry/sentry): Developer-first error tracking and performance monitoring
 
-  **Latest Update**: 2025-07-07 02:31:26
+  **Latest Update**: 2025-07-08 02:56:25
 
-  **Stars**: 41263 stars
+  **Stars**: 41272 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 4381 forks
+  **Forks**: 4382 forks
 
   **Topics**: [crash-reporting](https://github.com/topics/crash-reporting),
   [crash-reports](https://github.com/topics/crash-reports),
@@ -8915,9 +8927,9 @@ Last updated 2025-07-07 03:33:17
 
 * [psf/black](https://github.com/psf/black): The uncompromising Python code formatter
 
-  **Latest Update**: 2025-06-30 01:55:30
+  **Latest Update**: 2025-07-07 20:43:17
 
-  **Stars**: 40474 stars
+  **Stars**: 40476 stars
 
   **Starred On**: 2025-06-28
 
@@ -8935,13 +8947,13 @@ Last updated 2025-07-07 03:33:17
 
 * [huggingface/diffusers](https://github.com/huggingface/diffusers): 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
 
-  **Latest Update**: 2025-07-06 04:18:38
+  **Latest Update**: 2025-07-08 02:35:43
 
-  **Stars**: 29656 stars
+  **Stars**: 29679 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 6091 forks
+  **Forks**: 6095 forks
 
   **Topics**: [deep-learning](https://github.com/topics/deep-learning),
   [diffusion](https://github.com/topics/diffusion),
@@ -8965,7 +8977,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-01 00:45:25
 
-  **Stars**: 27505 stars
+  **Stars**: 27507 stars
 
   **Starred On**: 2025-06-28
 
@@ -8993,7 +9005,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-02 12:28:57
 
-  **Stars**: 26422 stars
+  **Stars**: 26427 stars
 
   **Starred On**: 2025-06-28
 
@@ -9015,11 +9027,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-25 06:50:04
 
-  **Stars**: 8771 stars
+  **Stars**: 8774 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1404 forks
+  **Forks**: 1405 forks
 
   **Topics**: [ctf](https://github.com/topics/ctf),
   [wiki](https://github.com/topics/wiki),
@@ -9032,13 +9044,13 @@ Last updated 2025-07-07 03:33:17
 
 * [huggingface/datasets](https://github.com/huggingface/datasets): 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 
-  **Latest Update**: 2025-07-02 15:08:05
+  **Latest Update**: 2025-07-07 13:05:35
 
-  **Stars**: 20338 stars
+  **Stars**: 20348 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2857 forks
+  **Forks**: 2859 forks
 
   **Topics**: [nlp](https://github.com/topics/nlp),
   [datasets](https://github.com/topics/datasets),
@@ -9055,13 +9067,13 @@ Last updated 2025-07-07 03:33:17
 
 * [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect): Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 
-  **Latest Update**: 2025-07-07 02:02:07
+  **Latest Update**: 2025-07-08 01:05:52
 
-  **Stars**: 19717 stars
+  **Stars**: 19728 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1858 forks
+  **Forks**: 1859 forks
 
   **Topics**: [python](https://github.com/topics/python),
   [workflow](https://github.com/topics/workflow),
@@ -9080,13 +9092,13 @@ Last updated 2025-07-07 03:33:17
 
 * [mlflow/mlflow](https://github.com/mlflow/mlflow): Open source platform for the machine learning lifecycle
 
-  **Latest Update**: 2025-07-07 02:13:08
+  **Latest Update**: 2025-07-08 03:16:16
 
-  **Stars**: 21144 stars
+  **Stars**: 21155 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 4652 forks
+  **Forks**: 4656 forks
 
   **Topics**: [machine-learning](https://github.com/topics/machine-learning),
   [ai](https://github.com/topics/ai),
@@ -9097,13 +9109,13 @@ Last updated 2025-07-07 03:33:17
 
 * [browser-use/browser-use](https://github.com/browser-use/browser-use): 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
-  **Latest Update**: 2025-07-06 22:32:46
+  **Latest Update**: 2025-07-08 01:08:00
 
-  **Stars**: 64826 stars
+  **Stars**: 64906 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 7408 forks
+  **Forks**: 7424 forks
 
   **Topics**: [llm](https://github.com/topics/llm),
   [ai-agents](https://github.com/topics/ai-agents),
@@ -9117,21 +9129,21 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-03 10:56:37
 
-  **Stars**: 13086 stars
+  **Stars**: 13099 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 953 forks
+  **Forks**: 954 forks
 
 * [infiniflow/ragflow](https://github.com/infiniflow/ragflow): RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 
-  **Latest Update**: 2025-07-07 01:48:52
+  **Latest Update**: 2025-07-08 02:39:18
 
-  **Stars**: 59087 stars
+  **Stars**: 59197 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 5878 forks
+  **Forks**: 5890 forks
 
   **Topics**: [document-understanding](https://github.com/topics/document-understanding),
   [llm](https://github.com/topics/llm),
@@ -9158,7 +9170,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-01 05:04:45
 
-  **Stars**: 2006 stars
+  **Stars**: 2007 stars
 
   **Starred On**: 2025-06-28
 
@@ -9187,9 +9199,9 @@ Last updated 2025-07-07 03:33:17
 
 * [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov): Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 
-  **Latest Update**: 2025-07-01 15:40:55
+  **Latest Update**: 2025-07-07 15:03:46
 
-  **Stars**: 7669 stars
+  **Stars**: 7670 stars
 
   **Starred On**: 2025-06-28
 
@@ -9211,7 +9223,7 @@ Last updated 2025-07-07 03:33:17
 
 * [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core): dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 
-  **Latest Update**: 2025-07-06 09:09:15
+  **Latest Update**: 2025-07-07 21:06:35
 
   **Stars**: 11057 stars
 
@@ -9229,9 +9241,9 @@ Last updated 2025-07-07 03:33:17
 
 * [microsoft/autogen](https://github.com/microsoft/autogen): A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: <https://aka.ms/autogen-discord> Office Hour: <https://aka.ms/autogen-officehour>
 
-  **Latest Update**: 2025-07-07 03:20:13
+  **Latest Update**: 2025-07-07 23:13:02
 
-  **Stars**: 46918 stars
+  **Stars**: 46964 stars
 
   **Starred On**: 2025-06-28
 
@@ -9252,21 +9264,21 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-05 23:58:06
 
-  **Stars**: 27114 stars
+  **Stars**: 27120 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 3413 forks
+  **Forks**: 3414 forks
 
 * [deepset-ai/haystack](https://github.com/deepset-ai/haystack): AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 
-  **Latest Update**: 2025-07-04 14:27:31
+  **Latest Update**: 2025-07-07 12:27:19
 
-  **Stars**: 21414 stars
+  **Stars**: 21430 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2245 forks
+  **Forks**: 2250 forks
 
   **Topics**: [nlp](https://github.com/topics/nlp),
   [question-answering](https://github.com/topics/question-answering),
@@ -9293,21 +9305,21 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-01 19:11:17
 
-  **Stars**: 23259 stars
+  **Stars**: 23290 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1669 forks
+  **Forks**: 1673 forks
 
 * [deepfakes/faceswap](https://github.com/deepfakes/faceswap): Deepfakes Software For All
 
   **Latest Update**: 2025-05-21 16:58:55
 
-  **Stars**: 54208 stars
+  **Stars**: 54213 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 13425 forks
+  **Forks**: 13427 forks
 
   **Topics**: [faceswap](https://github.com/topics/faceswap),
   [face-swap](https://github.com/topics/face-swap),
@@ -9328,11 +9340,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-08-16 12:07:14
 
-  **Stars**: 41181 stars
+  **Stars**: 41217 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 5336 forks
+  **Forks**: 5339 forks
 
   **Topics**: [python](https://github.com/topics/python),
   [text-to-speech](https://github.com/topics/text-to-speech),
@@ -9356,13 +9368,13 @@ Last updated 2025-07-07 03:33:17
 
 * [airbytehq/airbyte](https://github.com/airbytehq/airbyte): The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 
-  **Latest Update**: 2025-07-06 05:19:21
+  **Latest Update**: 2025-07-08 03:13:30
 
-  **Stars**: 18627 stars
+  **Stars**: 18638 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 4629 forks
+  **Forks**: 4627 forks
 
   **Topics**: [data](https://github.com/topics/data),
   [pipeline](https://github.com/topics/pipeline),
@@ -9387,13 +9399,13 @@ Last updated 2025-07-07 03:33:17
 
 * [great-expectations/great\_expectations](https://github.com/great-expectations/great_expectations): Always know what to expect from your data.
 
-  **Latest Update**: 2025-07-03 17:37:34
+  **Latest Update**: 2025-07-07 23:38:57
 
-  **Stars**: 10529 stars
+  **Stars**: 10531 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1598 forks
+  **Forks**: 1596 forks
 
   **Topics**: [pipeline-tests](https://github.com/topics/pipeline-tests),
   [dataquality](https://github.com/topics/dataquality),
@@ -9418,9 +9430,9 @@ Last updated 2025-07-07 03:33:17
 
 * [msoedov/agentic\_security](https://github.com/msoedov/agentic_security): Agentic LLM Vulnerability Scanner / AI red teaming kit 🧪
 
-  **Latest Update**: 2025-07-04 22:08:37
+  **Latest Update**: 2025-07-07 20:39:31
 
-  **Stars**: 1524 stars
+  **Stars**: 1527 stars
 
   **Starred On**: 2025-06-28
 
@@ -9445,11 +9457,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 19:51:41
 
-  **Stars**: 30494 stars
+  **Stars**: 30507 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1741 forks
+  **Forks**: 1742 forks
 
   **Topics**: [semantic-search](https://github.com/topics/semantic-search),
   [emacs](https://github.com/topics/emacs),
@@ -9476,11 +9488,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-21 11:13:33
 
-  **Stars**: 309940 stars
+  **Stars**: 310104 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 51028 forks
+  **Forks**: 51055 forks
 
   **Topics**: [programming](https://github.com/topics/programming),
   [development](https://github.com/topics/development),
@@ -9500,11 +9512,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-20 15:56:34
 
-  **Stars**: 355029 stars
+  **Stars**: 355228 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 37227 forks
+  **Forks**: 37251 forks
 
   **Topics**: [api](https://github.com/topics/api),
   [public-apis](https://github.com/topics/public-apis),
@@ -9524,11 +9536,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 00:37:46
 
-  **Stars**: 48363 stars
+  **Stars**: 48723 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 5549 forks
+  **Forks**: 5590 forks
 
   **Topics**: [llms](https://github.com/topics/llms),
   [rag](https://github.com/topics/rag),
@@ -9546,13 +9558,13 @@ Last updated 2025-07-07 03:33:17
 
 * [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty): Cross-platform, fast, feature-rich, GPU based terminal
 
-  **Latest Update**: 2025-07-07 03:19:51
+  **Latest Update**: 2025-07-08 02:38:06
 
-  **Stars**: 27982 stars
+  **Stars**: 28002 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1094 forks
+  **Forks**: 1097 forks
 
   **Topics**: [terminal-emulators](https://github.com/topics/terminal-emulators),
   [opengl](https://github.com/topics/opengl),
@@ -9569,9 +9581,9 @@ Last updated 2025-07-07 03:33:17
 
 * [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre): The official source code repository for the calibre ebook manager
 
-  **Latest Update**: 2025-07-06 13:38:49
+  **Latest Update**: 2025-07-07 06:35:05
 
-  **Stars**: 21808 stars
+  **Stars**: 21816 stars
 
   **Starred On**: 2025-06-28
 
@@ -9610,7 +9622,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 23:04:52
 
-  **Stars**: 14721 stars
+  **Stars**: 14731 stars
 
   **Starred On**: 2025-06-28
 
@@ -9640,7 +9652,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-30 04:54:55
 
-  **Stars**: 6602 stars
+  **Stars**: 6607 stars
 
   **Starred On**: 2025-06-28
 
@@ -9669,7 +9681,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-02-01 13:32:00
 
-  **Stars**: 39590 stars
+  **Stars**: 39594 stars
 
   **Starred On**: 2025-06-28
 
@@ -9690,7 +9702,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-03-14 13:51:20
 
-  **Stars**: 766 stars
+  **Stars**: 767 stars
 
   **Starred On**: 2025-06-28
 
@@ -9727,13 +9739,13 @@ Last updated 2025-07-07 03:33:17
 
 * [aws/aws-cli](https://github.com/aws/aws-cli): Universal Command Line Interface for Amazon Web Services
 
-  **Latest Update**: 2025-07-03 19:21:43
+  **Latest Update**: 2025-07-07 20:14:22
 
-  **Stars**: 16185 stars
+  **Stars**: 16188 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 4302 forks
+  **Forks**: 4304 forks
 
   **Topics**: [aws](https://github.com/topics/aws),
   [cloud](https://github.com/topics/cloud),
@@ -9744,11 +9756,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-04 09:51:33
 
-  **Stars**: 4256 stars
+  **Stars**: 4257 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 3183 forks
+  **Forks**: 3184 forks
 
   **Topics**: [azure](https://github.com/topics/azure),
   [azure-cli](https://github.com/topics/azure-cli),
@@ -9758,7 +9770,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-24 19:37:13
 
-  **Stars**: 13973 stars
+  **Stars**: 13977 stars
 
   **Starred On**: 2025-06-28
 
@@ -9772,13 +9784,13 @@ Last updated 2025-07-07 03:33:17
 
 * [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): A feature-rich command-line audio/video downloader
 
-  **Latest Update**: 2025-07-06 22:14:23
+  **Latest Update**: 2025-07-07 20:25:34
 
-  **Stars**: 117900 stars
+  **Stars**: 118046 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 9325 forks
+  **Forks**: 9342 forks
 
   **Topics**: [youtube-dl](https://github.com/topics/youtube-dl),
   [youtube-dlc](https://github.com/topics/youtube-dlc),
@@ -9790,9 +9802,9 @@ Last updated 2025-07-07 03:33:17
 
 * [robusta-dev/krr](https://github.com/robusta-dev/krr): Prometheus-based Kubernetes Resource Recommendations
 
-  **Latest Update**: 2025-07-06 14:47:31
+  **Latest Update**: 2025-07-07 07:54:25
 
-  **Stars**: 3825 stars
+  **Stars**: 3827 stars
 
   **Starred On**: 2025-06-30
 
@@ -9813,11 +9825,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-05 07:32:47
 
-  **Stars**: 622 stars
+  **Stars**: 658 stars
 
   **Starred On**: 2025-07-01
 
-  **Forks**: 23 forks
+  **Forks**: 30 forks
 
   **Topics**: [ssl-api](https://github.com/topics/ssl-api),
   [ssl-certificates](https://github.com/topics/ssl-certificates),
@@ -9825,13 +9837,13 @@ Last updated 2025-07-07 03:33:17
 
 * [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI): The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
-  **Latest Update**: 2025-07-06 18:01:35
+  **Latest Update**: 2025-07-08 00:43:56
 
-  **Stars**: 81716 stars
+  **Stars**: 81813 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 9050 forks
+  **Forks**: 9059 forks
 
   **Topics**: [stable-diffusion](https://github.com/topics/stable-diffusion),
   [pytorch](https://github.com/topics/pytorch),
@@ -9842,11 +9854,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-07 01:34:12
 
-  **Stars**: 13914 stars
+  **Stars**: 13933 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 486 forks
+  **Forks**: 487 forks
 
   **Topics**: [notifications](https://github.com/topics/notifications),
   [notification-hub](https://github.com/topics/notification-hub),
@@ -9862,13 +9874,13 @@ Last updated 2025-07-07 03:33:17
 
 * [frappe/erpnext](https://github.com/frappe/erpnext): Free and Open Source Enterprise Resource Planning (ERP)
 
-  **Latest Update**: 2025-07-06 16:13:26
+  **Latest Update**: 2025-07-08 03:04:16
 
-  **Stars**: 26095 stars
+  **Stars**: 26118 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 8687 forks
+  **Forks**: 8696 forks
 
   **Topics**: [manufacturing](https://github.com/topics/manufacturing),
   [erpnext](https://github.com/topics/erpnext),
@@ -9891,11 +9903,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-04 04:09:25
 
-  **Stars**: 59947 stars
+  **Stars**: 60009 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 3136 forks
+  **Forks**: 3143 forks
 
   **Topics**: [langchain](https://github.com/topics/langchain),
   [openai](https://github.com/topics/openai),
@@ -9909,7 +9921,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-27 21:25:40
 
-  **Stars**: 32301 stars
+  **Stars**: 32303 stars
 
   **Starred On**: 2025-07-02
 
@@ -9926,11 +9938,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-03 13:29:41
 
-  **Stars**: 29849 stars
+  **Stars**: 29854 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 4181 forks
+  **Forks**: 4180 forks
 
   **Topics**: [owasp](https://github.com/topics/owasp),
   [code](https://github.com/topics/code),
@@ -9944,7 +9956,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-26 09:34:05
 
-  **Stars**: 26447 stars
+  **Stars**: 26461 stars
 
   **Starred On**: 2025-07-02
 
@@ -9962,7 +9974,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-16 23:45:29
 
-  **Stars**: 14510 stars
+  **Stars**: 14515 stars
 
   **Starred On**: 2025-07-02
 
@@ -9972,7 +9984,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-11 08:03:22
 
-  **Stars**: 14375 stars
+  **Stars**: 14378 stars
 
   **Starred On**: 2025-07-02
 
@@ -9988,7 +10000,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-26 13:58:54
 
-  **Stars**: 3097 stars
+  **Stars**: 3098 stars
 
   **Starred On**: 2025-07-02
 
@@ -9999,13 +10011,30 @@ Last updated 2025-07-07 03:33:17
   [yaml](https://github.com/topics/yaml),
   [yamllint](https://github.com/topics/yamllint)
 
+* [home-assistant/supervisor](https://github.com/home-assistant/supervisor): :house\_with\_garden: Home Assistant Supervisor
+
+  **Latest Update**: 2025-07-07 19:41:19
+
+  **Stars**: 1965 stars
+
+  **Starred On**: 2025-07-07
+
+  **Forks**: 718 forks
+
+  **Topics**: [home-assistant](https://github.com/topics/home-assistant),
+  [home-automation](https://github.com/topics/home-automation),
+  [docker](https://github.com/topics/docker),
+  [orchestrator](https://github.com/topics/orchestrator),
+  [python](https://github.com/topics/python),
+  [hacktoberfest](https://github.com/topics/hacktoberfest)
+
 ## QML
 
 * [papyros/qml-material](https://github.com/papyros/qml-material): :book: Material Design implemented in QtQuick
 
   **Latest Update**: 2018-01-31 21:14:14
 
-  **Stars**: 2604 stars
+  **Stars**: 2605 stars
 
   **Starred On**: 2015-10-23
 
@@ -10017,9 +10046,9 @@ Last updated 2025-07-07 03:33:17
 
 * [chef/chef](https://github.com/chef/chef): Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 
-  **Latest Update**: 2025-07-04 13:46:34
+  **Latest Update**: 2025-07-07 23:29:52
 
-  **Stars**: 7866 stars
+  **Stars**: 7867 stars
 
   **Starred On**: 2016-05-09
 
@@ -10037,7 +10066,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-02-04 16:47:25
 
-  **Stars**: 7632 stars
+  **Stars**: 7634 stars
 
   **Starred On**: 2016-05-09
 
@@ -10047,7 +10076,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-27 20:23:58
 
-  **Stars**: 9514 stars
+  **Stars**: 9516 stars
 
   **Starred On**: 2016-05-14
 
@@ -10055,13 +10084,13 @@ Last updated 2025-07-07 03:33:17
 
 * [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework): Metasploit Framework
 
-  **Latest Update**: 2025-07-07 01:30:10
+  **Latest Update**: 2025-07-07 13:16:46
 
-  **Stars**: 35865 stars
+  **Stars**: 35869 stars
 
   **Starred On**: 2016-06-19
 
-  **Forks**: 14392 forks
+  **Forks**: 14394 forks
 
   **Topics**: [hacktoberfest](https://github.com/topics/hacktoberfest)
 
@@ -10069,7 +10098,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-10 02:35:44
 
-  **Stars**: 40316 stars
+  **Stars**: 40321 stars
 
   **Starred On**: 2025-06-28
 
@@ -10091,7 +10120,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-04 17:54:34
 
-  **Stars**: 36509 stars
+  **Stars**: 36516 stars
 
   **Starred On**: 2025-06-28
 
@@ -10110,13 +10139,13 @@ Last updated 2025-07-07 03:33:17
 
 * [forem/forem](https://github.com/forem/forem): For empowering community 🌱
 
-  **Latest Update**: 2025-07-01 15:02:28
+  **Latest Update**: 2025-07-07 18:34:38
 
   **Stars**: 22366 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 4132 forks
+  **Forks**: 4129 forks
 
   **Topics**: [feedback](https://github.com/topics/feedback),
   [discussion](https://github.com/topics/discussion),
@@ -10128,9 +10157,9 @@ Last updated 2025-07-07 03:33:17
 
 * [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq): GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
 
-  **Latest Update**: 2025-07-07 03:12:57
+  **Latest Update**: 2025-07-08 03:13:50
 
-  **Stars**: 24020 stars
+  **Stars**: 24023 stars
 
   **Starred On**: 2025-06-28
 
@@ -10142,13 +10171,13 @@ Last updated 2025-07-07 03:33:17
 
 * [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core): 🍻 Default formulae for the missing package manager for macOS (or Linux)
 
-  **Latest Update**: 2025-07-07 03:31:09
+  **Latest Update**: 2025-07-08 03:26:20
 
-  **Stars**: 14441 stars
+  **Stars**: 14448 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 12891 forks
+  **Forks**: 12898 forks
 
   **Topics**: [homebrew](https://github.com/topics/homebrew),
   [formulae](https://github.com/topics/formulae),
@@ -10159,13 +10188,13 @@ Last updated 2025-07-07 03:33:17
 
 * [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The personal finance app for everyone
 
-  **Latest Update**: 2025-07-03 13:33:09
+  **Latest Update**: 2025-07-07 20:39:38
 
-  **Stars**: 44873 stars
+  **Stars**: 44887 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 3308 forks
+  **Forks**: 3309 forks
 
   **Topics**: [finance](https://github.com/topics/finance),
   [personal-finance](https://github.com/topics/personal-finance),
@@ -10196,11 +10225,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-08-21 13:01:11
 
-  **Stars**: 34668 stars
+  **Stars**: 34695 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 1823 forks
+  **Forks**: 1824 forks
 
   **Topics**: [engineering-blogs](https://github.com/topics/engineering-blogs),
   [tech](https://github.com/topics/tech),
@@ -10216,7 +10245,7 @@ Last updated 2025-07-07 03:33:17
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 2452 forks
+  **Forks**: 2453 forks
 
   **Topics**: [ruby](https://github.com/topics/ruby),
   [sidekiq](https://github.com/topics/sidekiq),
@@ -10231,11 +10260,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-07 00:27:25
 
-  **Stars**: 23194 stars
+  **Stars**: 23202 stars
 
   **Starred On**: 2020-01-18
 
-  **Forks**: 1752 forks
+  **Forks**: 1753 forks
 
   **Topics**: [rust](https://github.com/topics/rust),
   [web](https://github.com/topics/web),
@@ -10247,13 +10276,13 @@ Last updated 2025-07-07 03:33:17
 
 * [Nukesor/pueue](https://github.com/Nukesor/pueue): :stars: Manage your shell commands.
 
-  **Latest Update**: 2025-07-02 18:33:43
+  **Latest Update**: 2025-07-07 12:10:33
 
   **Stars**: 5654 stars
 
   **Starred On**: 2021-01-27
 
-  **Forks**: 136 forks
+  **Forks**: 137 forks
 
   **Topics**: [daemon](https://github.com/topics/daemon),
   [shell-queue](https://github.com/topics/shell-queue),
@@ -10266,9 +10295,9 @@ Last updated 2025-07-07 03:33:17
 
 * [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs): Sync Storage server in Rust
 
-  **Latest Update**: 2025-07-07 00:27:20
+  **Latest Update**: 2025-07-07 23:43:53
 
-  **Stars**: 1367 stars
+  **Stars**: 1368 stars
 
   **Starred On**: 2022-10-12
 
@@ -10299,7 +10328,7 @@ Last updated 2025-07-07 03:33:17
 
 * [mason-org/mason-registry-api](https://github.com/mason-org/mason-registry-api): API service for mason.nvim.
 
-  **Latest Update**: 2025-07-07 00:46:11
+  **Latest Update**: 2025-07-07 07:56:33
 
   **Stars**: 26 stars
 
@@ -10311,7 +10340,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-04-10 14:42:56
 
-  **Stars**: 549 stars
+  **Stars**: 548 stars
 
   **Starred On**: 2023-06-04
 
@@ -10327,11 +10356,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-03 13:25:35
 
-  **Stars**: 24314 stars
+  **Stars**: 24320 stars
 
   **Starred On**: 2024-11-13
 
-  **Forks**: 2406 forks
+  **Forks**: 2408 forks
 
   **Topics**: [rust](https://github.com/topics/rust),
   [algorithms](https://github.com/topics/algorithms),
@@ -10353,11 +10382,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-03-25 12:35:16
 
-  **Stars**: 40113 stars
+  **Stars**: 40141 stars
 
   **Starred On**: 2024-11-27
 
-  **Forks**: 7474 forks
+  **Forks**: 7479 forks
 
   **Topics**: [rust](https://github.com/topics/rust),
   [tauri](https://github.com/topics/tauri),
@@ -10382,23 +10411,23 @@ Last updated 2025-07-07 03:33:17
 
 * [jdx/mise](https://github.com/jdx/mise): dev tools, env vars, task runner
 
-  **Latest Update**: 2025-07-07 02:32:59
+  **Latest Update**: 2025-07-08 03:06:21
 
-  **Stars**: 17192 stars
+  **Stars**: 17231 stars
 
   **Starred On**: 2025-01-01
 
-  **Forks**: 554 forks
+  **Forks**: 556 forks
 
 * [rust-lang/rust](https://github.com/rust-lang/rust): Empowering everyone to build reliable and efficient software.
 
-  **Latest Update**: 2025-07-07 02:04:29
+  **Latest Update**: 2025-07-08 02:25:09
 
-  **Stars**: 104850 stars
+  **Stars**: 104879 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 13500 forks
+  **Forks**: 13506 forks
 
   **Topics**: [rust](https://github.com/topics/rust),
   [compiler](https://github.com/topics/compiler),
@@ -10407,13 +10436,13 @@ Last updated 2025-07-07 03:33:17
 
 * [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
-  **Latest Update**: 2025-07-06 10:03:45
+  **Latest Update**: 2025-07-07 08:57:05
 
-  **Stars**: 92120 stars
+  **Stars**: 92222 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 13385 forks
+  **Forks**: 13407 forks
 
   **Topics**: [remote-control](https://github.com/topics/remote-control),
   [remote-desktop](https://github.com/topics/remote-desktop),
@@ -10440,11 +10469,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-01 05:48:16
 
-  **Stars**: 53289 stars
+  **Stars**: 53301 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1309 forks
+  **Forks**: 1310 forks
 
   **Topics**: [command-line](https://github.com/topics/command-line),
   [tool](https://github.com/topics/tool),
@@ -10459,11 +10488,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-01 08:33:22
 
-  **Stars**: 46432 stars
+  **Stars**: 46474 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2191 forks
+  **Forks**: 2190 forks
 
   **Topics**: [vaultwarden](https://github.com/topics/vaultwarden),
   [bitwarden](https://github.com/topics/bitwarden),
@@ -10477,7 +10506,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 15:17:21
 
-  **Stars**: 38614 stars
+  **Stars**: 38626 stars
 
   **Starred On**: 2025-06-28
 
@@ -10497,11 +10526,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 19:32:32
 
-  **Stars**: 31730 stars
+  **Stars**: 31733 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1439 forks
+  **Forks**: 1440 forks
 
   **Topics**: [rust](https://github.com/topics/rust),
   [web](https://github.com/topics/web),
@@ -10519,13 +10548,13 @@ Last updated 2025-07-07 03:33:17
 
 * [juspay/hyperswitch](https://github.com/juspay/hyperswitch): An open source payments switch written in Rust to make payments fast, reliable and affordable
 
-  **Latest Update**: 2025-07-07 00:35:05
+  **Latest Update**: 2025-07-08 01:06:18
 
-  **Stars**: 21858 stars
+  **Stars**: 21915 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 3859 forks
+  **Forks**: 3873 forks
 
   **Topics**: [payments](https://github.com/topics/payments),
   [rust](https://github.com/topics/rust),
@@ -10546,7 +10575,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-05 17:46:29
 
-  **Stars**: 26635 stars
+  **Stars**: 26636 stars
 
   **Starred On**: 2025-06-28
 
@@ -10565,11 +10594,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-01-22 19:41:54
 
-  **Stars**: 14219 stars
+  **Stars**: 14225 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 4966 forks
+  **Forks**: 4974 forks
 
   **Archived On**: 2025-01-22
 
@@ -10583,19 +10612,19 @@ Last updated 2025-07-07 03:33:17
 
 * [anza-xyz/agave](https://github.com/anza-xyz/agave): Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 
-  **Latest Update**: 2025-07-07 01:25:42
+  **Latest Update**: 2025-07-08 02:33:29
 
-  **Stars**: 1162 stars
+  **Stars**: 1167 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 575 forks
+  **Forks**: 580 forks
 
 * [cube-js/cube](https://github.com/cube-js/cube): 📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
 
-  **Latest Update**: 2025-07-04 18:11:04
+  **Latest Update**: 2025-07-07 20:55:02
 
-  **Stars**: 18670 stars
+  **Stars**: 18674 stars
 
   **Starred On**: 2025-06-28
 
@@ -10619,9 +10648,9 @@ Last updated 2025-07-07 03:33:17
 
 * [qdrant/qdrant](https://github.com/qdrant/qdrant): Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud <https://cloud.qdrant.io/>
 
-  **Latest Update**: 2025-07-04 22:06:04
+  **Latest Update**: 2025-07-08 01:13:56
 
-  **Stars**: 24513 stars
+  **Stars**: 24534 stars
 
   **Starred On**: 2025-06-28
 
@@ -10649,9 +10678,9 @@ Last updated 2025-07-07 03:33:17
 
 * [SeaQL/sea-query](https://github.com/SeaQL/sea-query): 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite
 
-  **Latest Update**: 2025-07-06 11:14:47
+  **Latest Update**: 2025-07-07 20:27:57
 
-  **Stars**: 1421 stars
+  **Stars**: 1424 stars
 
   **Starred On**: 2025-06-28
 
@@ -10684,13 +10713,13 @@ Last updated 2025-07-07 03:33:17
 
 * [tauri-apps/tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
-  **Latest Update**: 2025-07-06 12:58:43
+  **Latest Update**: 2025-07-07 15:34:27
 
-  **Stars**: 94281 stars
+  **Stars**: 94310 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2937 forks
+  **Forks**: 2939 forks
 
   **Topics**: [rust](https://github.com/topics/rust),
   [webview](https://github.com/topics/webview),
@@ -10702,9 +10731,9 @@ Last updated 2025-07-07 03:33:17
 
 * [eza-community/eza](https://github.com/eza-community/eza): A modern alternative to ls
 
-  **Latest Update**: 2025-07-06 08:47:56
+  **Latest Update**: 2025-07-08 02:39:09
 
-  **Stars**: 16181 stars
+  **Stars**: 16196 stars
 
   **Starred On**: 2025-06-28
 
@@ -10723,9 +10752,9 @@ Last updated 2025-07-07 03:33:17
 
 * [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer): A Rust compiler front-end for IDEs
 
-  **Latest Update**: 2025-07-07 00:53:29
+  **Latest Update**: 2025-07-08 00:51:14
 
-  **Stars**: 15228 stars
+  **Stars**: 15232 stars
 
   **Starred On**: 2025-06-28
 
@@ -10739,7 +10768,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-12 18:58:26
 
-  **Stars**: 13914 stars
+  **Stars**: 13919 stars
 
   **Starred On**: 2025-06-28
 
@@ -10759,7 +10788,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-03 13:21:04
 
-  **Stars**: 30276 stars
+  **Stars**: 30281 stars
 
   **Starred On**: 2025-06-28
 
@@ -10772,9 +10801,9 @@ Last updated 2025-07-07 03:33:17
 
 * [zellij-org/zellij](https://github.com/zellij-org/zellij): A terminal workspace with batteries included
 
-  **Latest Update**: 2025-07-04 17:51:28
+  **Latest Update**: 2025-07-07 17:06:31
 
-  **Stars**: 25016 stars
+  **Stars**: 25036 stars
 
   **Starred On**: 2025-06-28
 
@@ -10786,13 +10815,13 @@ Last updated 2025-07-07 03:33:17
 
 * [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter): An incremental parsing system for programming tools
 
-  **Latest Update**: 2025-07-06 21:07:16
+  **Latest Update**: 2025-07-08 02:05:37
 
-  **Stars**: 21188 stars
+  **Stars**: 21205 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1915 forks
+  **Forks**: 1916 forks
 
   **Topics**: [incremental](https://github.com/topics/incremental),
   [parsing](https://github.com/topics/parsing),
@@ -10804,7 +10833,7 @@ Last updated 2025-07-07 03:33:17
 
 * [pinnacle-comp/pinnacle](https://github.com/pinnacle-comp/pinnacle): A WIP Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust
 
-  **Latest Update**: 2025-07-03 01:31:48
+  **Latest Update**: 2025-07-07 03:56:10
 
   **Stars**: 425 stars
 
@@ -10822,11 +10851,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-30 14:11:38
 
-  **Stars**: 11005 stars
+  **Stars**: 11015 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 458 forks
+  **Forks**: 459 forks
 
   **Topics**: [rust](https://github.com/topics/rust),
   [rust-lang](https://github.com/topics/rust-lang),
@@ -10844,7 +10873,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-01 01:43:12
 
-  **Stars**: 3110 stars
+  **Stars**: 3114 stars
 
   **Starred On**: 2025-06-28
 
@@ -10858,7 +10887,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-09-28 21:21:43
 
-  **Stars**: 52 stars
+  **Stars**: 53 stars
 
   **Starred On**: 2025-06-28
 
@@ -10872,7 +10901,7 @@ Last updated 2025-07-07 03:33:17
 
 * [dj95/zjstatus](https://github.com/dj95/zjstatus): A configurable statusbar plugin for zellij
 
-  **Latest Update**: 2025-06-30 10:35:25
+  **Latest Update**: 2025-07-07 10:11:32
 
   **Stars**: 674 stars
 
@@ -10888,13 +10917,13 @@ Last updated 2025-07-07 03:33:17
 
 * [denoland/deno](https://github.com/denoland/deno): A modern runtime for JavaScript and TypeScript.
 
-  **Latest Update**: 2025-07-04 22:11:52
+  **Latest Update**: 2025-07-08 01:18:50
 
-  **Stars**: 103517 stars
+  **Stars**: 103526 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 5639 forks
+  **Forks**: 5641 forks
 
   **Topics**: [deno](https://github.com/topics/deno),
   [typescript](https://github.com/topics/typescript),
@@ -10903,13 +10932,13 @@ Last updated 2025-07-07 03:33:17
 
 * [astral-sh/uv](https://github.com/astral-sh/uv): An extremely fast Python package and project manager, written in Rust.
 
-  **Latest Update**: 2025-07-07 03:05:22
+  **Latest Update**: 2025-07-08 01:10:36
 
-  **Stars**: 60531 stars
+  **Stars**: 60664 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1724 forks
+  **Forks**: 1732 forks
 
   **Topics**: [packaging](https://github.com/topics/packaging),
   [python](https://github.com/topics/python),
@@ -10920,11 +10949,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-04 14:15:17
 
-  **Stars**: 53539 stars
+  **Stars**: 53568 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2171 forks
+  **Forks**: 2172 forks
 
   **Topics**: [ripgrep](https://github.com/topics/ripgrep),
   [recursively-search](https://github.com/topics/recursively-search),
@@ -10941,7 +10970,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-04-18 10:44:36
 
-  **Stars**: 11721 stars
+  **Stars**: 11723 stars
 
   **Starred On**: 2025-06-28
 
@@ -10960,11 +10989,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-30 21:00:42
 
-  **Stars**: 27617 stars
+  **Stars**: 27637 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 640 forks
+  **Forks**: 639 forks
 
   **Topics**: [z](https://github.com/topics/z),
   [command-line](https://github.com/topics/command-line),
@@ -10991,7 +11020,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-08 19:32:28
 
-  **Stars**: 1957 stars
+  **Stars**: 1958 stars
 
   **Starred On**: 2025-06-28
 
@@ -11008,7 +11037,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-30 02:15:08
 
-  **Stars**: 15921 stars
+  **Stars**: 15929 stars
 
   **Starred On**: 2025-06-28
 
@@ -11052,7 +11081,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-04 20:25:34
 
-  **Stars**: 5525 stars
+  **Stars**: 5531 stars
 
   **Starred On**: 2025-06-28
 
@@ -11066,7 +11095,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-04-08 02:11:59
 
-  **Stars**: 5028 stars
+  **Stars**: 5030 stars
 
   **Starred On**: 2025-06-28
 
@@ -11080,9 +11109,9 @@ Last updated 2025-07-07 03:33:17
 
 * [bootandy/dust](https://github.com/bootandy/dust): A more intuitive version of du in rust
 
-  **Latest Update**: 2025-07-06 09:17:32
+  **Latest Update**: 2025-07-07 22:11:21
 
-  **Stars**: 10058 stars
+  **Stars**: 10065 stars
 
   **Starred On**: 2025-06-28
 
@@ -11092,7 +11121,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-07 02:23:12
 
-  **Stars**: 4798 stars
+  **Stars**: 4800 stars
 
   **Starred On**: 2025-06-28
 
@@ -11123,7 +11152,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-04-07 11:33:13
 
-  **Stars**: 1093 stars
+  **Stars**: 1094 stars
 
   **Starred On**: 2025-06-28
 
@@ -11142,7 +11171,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-01 01:45:58
 
-  **Stars**: 10644 stars
+  **Stars**: 10642 stars
 
   **Starred On**: 2025-06-28
 
@@ -11157,7 +11186,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-25 11:24:35
 
-  **Stars**: 7812 stars
+  **Stars**: 7811 stars
 
   **Starred On**: 2025-06-28
 
@@ -11179,11 +11208,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-07 20:06:47
 
-  **Stars**: 1342 stars
+  **Stars**: 1345 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 39 forks
+  **Forks**: 40 forks
 
   **Topics**: [ebpf](https://github.com/topics/ebpf),
   [linux](https://github.com/topics/linux),
@@ -11203,7 +11232,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-25 11:38:32
 
-  **Stars**: 6142 stars
+  **Stars**: 6144 stars
 
   **Starred On**: 2025-06-28
 
@@ -11219,13 +11248,13 @@ Last updated 2025-07-07 03:33:17
 
 * [hatoo/oha](https://github.com/hatoo/oha): Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 
-  **Latest Update**: 2025-07-05 06:26:35
+  **Latest Update**: 2025-07-07 07:16:51
 
-  **Stars**: 8562 stars
+  **Stars**: 8566 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 240 forks
+  **Forks**: 242 forks
 
   **Topics**: [rust](https://github.com/topics/rust),
   [load-testing](https://github.com/topics/load-testing),
@@ -11241,7 +11270,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-01 02:03:20
 
-  **Stars**: 25541 stars
+  **Stars**: 25559 stars
 
   **Starred On**: 2025-06-28
 
@@ -11272,7 +11301,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-24 22:13:31
 
-  **Stars**: 751 stars
+  **Stars**: 752 stars
 
   **Starred On**: 2025-06-28
 
@@ -11287,9 +11316,9 @@ Last updated 2025-07-07 03:33:17
 
 * [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot): Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 
-  **Latest Update**: 2025-07-04 11:56:54
+  **Latest Update**: 2025-07-07 09:14:50
 
-  **Stars**: 5905 stars
+  **Stars**: 5908 stars
 
   **Starred On**: 2025-06-28
 
@@ -11314,7 +11343,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-06 21:25:31
 
-  **Stars**: 5185 stars
+  **Stars**: 5187 stars
 
   **Starred On**: 2025-06-28
 
@@ -11328,7 +11357,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-01 07:00:17
 
-  **Stars**: 5698 stars
+  **Stars**: 5700 stars
 
   **Starred On**: 2025-06-28
 
@@ -11345,13 +11374,13 @@ Last updated 2025-07-07 03:33:17
 
 * [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite): An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 
-  **Latest Update**: 2025-07-07 01:31:22
+  **Latest Update**: 2025-07-08 01:42:57
 
-  **Stars**: 18487 stars
+  **Stars**: 18636 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 786 forks
+  **Forks**: 788 forks
 
   **Topics**: [graphics-editor](https://github.com/topics/graphics-editor),
   [vector-editor](https://github.com/topics/vector-editor),
@@ -11376,11 +11405,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-04 01:22:00
 
-  **Stars**: 8981 stars
+  **Stars**: 8996 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 442 forks
+  **Forks**: 443 forks
 
   **Topics**: [imap](https://github.com/topics/imap),
   [jmap](https://github.com/topics/jmap),
@@ -11397,21 +11426,21 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-05 17:07:24
 
-  **Stars**: 22203 stars
+  **Stars**: 22223 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 1207 forks
+  **Forks**: 1209 forks
 
 * [kanidm/kanidm](https://github.com/kanidm/kanidm): Kanidm: A simple, secure, and fast identity management platform
 
-  **Latest Update**: 2025-07-07 01:01:58
+  **Latest Update**: 2025-07-08 00:02:49
 
-  **Stars**: 3664 stars
+  **Stars**: 3669 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 239 forks
+  **Forks**: 241 forks
 
   **Topics**: [identity](https://github.com/topics/identity),
   [identity-management](https://github.com/topics/identity-management),
@@ -11429,13 +11458,13 @@ Last updated 2025-07-07 03:33:17
 
 * [embassy-rs/embassy](https://github.com/embassy-rs/embassy): Modern embedded framework, using Rust and async.
 
-  **Latest Update**: 2025-07-07 03:05:30
+  **Latest Update**: 2025-07-07 21:33:16
 
-  **Stars**: 7034 stars
+  **Stars**: 7042 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 1099 forks
+  **Forks**: 1102 forks
 
   **Topics**: [async](https://github.com/topics/async),
   [embedded](https://github.com/topics/embedded),
@@ -11446,13 +11475,13 @@ Last updated 2025-07-07 03:33:17
 
 * [uutils/coreutils](https://github.com/uutils/coreutils): Cross-platform Rust rewrite of the GNU coreutils
 
-  **Latest Update**: 2025-07-06 14:07:22
+  **Latest Update**: 2025-07-07 22:37:17
 
-  **Stars**: 20836 stars
+  **Stars**: 20842 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 1510 forks
+  **Forks**: 1509 forks
 
   **Topics**: [rust](https://github.com/topics/rust),
   [coreutils](https://github.com/topics/coreutils),
@@ -11463,9 +11492,9 @@ Last updated 2025-07-07 03:33:17
 
 * [bevyengine/bevy](https://github.com/bevyengine/bevy): A refreshingly simple data-driven game engine built in Rust
 
-  **Latest Update**: 2025-07-07 03:16:34
+  **Latest Update**: 2025-07-07 22:40:26
 
-  **Stars**: 40438 stars
+  **Stars**: 40452 stars
 
   **Starred On**: 2025-07-02
 
@@ -11482,11 +11511,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-03 18:00:06
 
-  **Stars**: 10302 stars
+  **Stars**: 10306 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 236 forks
+  **Forks**: 239 forks
 
   **Topics**: [changelog](https://github.com/topics/changelog),
   [generator](https://github.com/topics/generator),
@@ -11506,11 +11535,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-07 00:10:07
 
-  **Stars**: 35673 stars
+  **Stars**: 35690 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 1875 forks
+  **Forks**: 1876 forks
 
   **Topics**: [shell](https://github.com/topics/shell),
   [rust](https://github.com/topics/rust),
@@ -11549,13 +11578,13 @@ Last updated 2025-07-07 03:33:17
 
 * [influxdata/influxdb](https://github.com/influxdata/influxdb): Scalable datastore for metrics, events, and real-time analytics
 
-  **Latest Update**: 2025-07-04 11:19:38
+  **Latest Update**: 2025-07-07 21:01:25
 
-  **Stars**: 30277 stars
+  **Stars**: 30287 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 3626 forks
+  **Forks**: 3625 forks
 
   **Topics**: [influxdb](https://github.com/topics/influxdb),
   [monitoring](https://github.com/topics/monitoring),
@@ -11568,13 +11597,13 @@ Last updated 2025-07-07 03:33:17
 
 * [jj-vcs/jj](https://github.com/jj-vcs/jj): A Git-compatible VCS that is both simple and powerful
 
-  **Latest Update**: 2025-07-06 13:48:38
+  **Latest Update**: 2025-07-08 03:11:34
 
-  **Stars**: 17038 stars
+  **Stars**: 17095 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 574 forks
+  **Forks**: 575 forks
 
   **Topics**: [vcs](https://github.com/topics/vcs),
   [git](https://github.com/topics/git),
@@ -11587,11 +11616,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-01-06 21:19:17
 
-  **Stars**: 20852 stars
+  **Stars**: 20858 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 602 forks
+  **Forks**: 603 forks
 
   **Topics**: [rust](https://github.com/topics/rust),
   [infrastructure](https://github.com/topics/infrastructure),
@@ -11608,7 +11637,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-04 14:37:21
 
-  **Stars**: 1818 stars
+  **Stars**: 1831 stars
 
   **Starred On**: 2025-07-04
 
@@ -11618,7 +11647,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 08:25:54
 
-  **Stars**: 766 stars
+  **Stars**: 768 stars
 
   **Starred On**: 2025-07-06
 
@@ -11662,11 +11691,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-11 03:13:45
 
-  **Stars**: 15069 stars
+  **Stars**: 15087 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1726 forks
+  **Forks**: 1727 forks
 
   **Topics**: [github-profile-readme](https://github.com/topics/github-profile-readme),
   [github-profile](https://github.com/topics/github-profile),
@@ -11680,7 +11709,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 23:51:50
 
-  **Stars**: 5645 stars
+  **Stars**: 5643 stars
 
   **Starred On**: 2025-06-28
 
@@ -11704,7 +11733,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-07 15:09:00
 
-  **Stars**: 7863 stars
+  **Stars**: 7866 stars
 
   **Starred On**: 2025-06-28
 
@@ -11724,7 +11753,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-04 15:51:26
 
-  **Stars**: 6938 stars
+  **Stars**: 6939 stars
 
   **Starred On**: 2025-06-28
 
@@ -11742,13 +11771,13 @@ Last updated 2025-07-07 03:33:17
 
 ## Shell
 
-45 repos
+46 repos
 
 * [Bash-it/bash-it](https://github.com/Bash-it/bash-it): A community Bash framework.
 
   **Latest Update**: 2025-06-03 08:56:40
 
-  **Stars**: 14630 stars
+  **Stars**: 14632 stars
 
   **Starred On**: 2016-05-23
 
@@ -11769,7 +11798,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-09-10 16:04:35
 
-  **Stars**: 8448 stars
+  **Stars**: 8452 stars
 
   **Starred On**: 2016-05-23
 
@@ -11783,7 +11812,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-27 17:28:39
 
-  **Stars**: 2543 stars
+  **Stars**: 2542 stars
 
   **Starred On**: 2016-06-19
 
@@ -11800,7 +11829,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-02 08:06:15
 
-  **Stars**: 1462 stars
+  **Stars**: 1463 stars
 
   **Starred On**: 2017-08-27
 
@@ -11823,7 +11852,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2023-12-31 10:24:40
 
-  **Stars**: 7063 stars
+  **Stars**: 7067 stars
 
   **Starred On**: 2019-09-20
 
@@ -11847,11 +11876,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2023-11-28 03:26:23
 
-  **Stars**: 39495 stars
+  **Stars**: 39509 stars
 
   **Starred On**: 2019-09-20
 
-  **Forks**: 3521 forks
+  **Forks**: 3522 forks
 
   **Archived On**: 2024-04-26
 
@@ -11872,11 +11901,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-07-19 20:19:01
 
-  **Stars**: 23056 stars
+  **Stars**: 23058 stars
 
   **Starred On**: 2019-09-20
 
-  **Forks**: 1733 forks
+  **Forks**: 1734 forks
 
   **Archived On**: 2024-04-26
 
@@ -11892,7 +11921,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-02-29 19:41:14
 
-  **Stars**: 4128 stars
+  **Stars**: 4129 stars
 
   **Starred On**: 2019-09-20
 
@@ -11909,11 +11938,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-04-01 13:33:19
 
-  **Stars**: 14367 stars
+  **Stars**: 14372 stars
 
   **Starred On**: 2020-01-21
 
-  **Forks**: 1540 forks
+  **Forks**: 1541 forks
 
   **Topics**: [shell](https://github.com/topics/shell),
   [linux](https://github.com/topics/linux),
@@ -11940,7 +11969,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-26 19:47:33
 
-  **Stars**: 18356 stars
+  **Stars**: 18367 stars
 
   **Starred On**: 2021-03-10
 
@@ -11954,7 +11983,7 @@ Last updated 2025-07-07 03:33:17
 
 * [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools): List of container/k8s tools.
 
-  **Latest Update**: 2025-07-07 01:20:53
+  **Latest Update**: 2025-07-08 01:16:48
 
   **Stars**: 976 stars
 
@@ -11976,7 +12005,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-23 16:53:04
 
-  **Stars**: 9558 stars
+  **Stars**: 9560 stars
 
   **Starred On**: 2025-06-28
 
@@ -11991,13 +12020,13 @@ Last updated 2025-07-07 03:33:17
 
 * [termux/termux-packages](https://github.com/termux/termux-packages): A package build system for Termux.
 
-  **Latest Update**: 2025-07-07 00:16:54
+  **Latest Update**: 2025-07-08 01:27:05
 
-  **Stars**: 14517 stars
+  **Stars**: 14521 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 3487 forks
+  **Forks**: 3490 forks
 
   **Topics**: [android](https://github.com/topics/android),
   [linux](https://github.com/topics/linux),
@@ -12008,13 +12037,13 @@ Last updated 2025-07-07 03:33:17
 
 * [gentoo/gentoo](https://github.com/gentoo/gentoo): \[MIRROR] Official Gentoo ebuild repository
 
-  **Latest Update**: 2025-07-07 02:43:55
+  **Latest Update**: 2025-07-08 03:17:17
 
   **Stars**: 2221 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2124 forks
+  **Forks**: 2123 forks
 
   **Topics**: [gentoo](https://github.com/topics/gentoo),
   [ebuild](https://github.com/topics/ebuild),
@@ -12025,13 +12054,13 @@ Last updated 2025-07-07 03:33:17
 
 * [gentoo/guru](https://github.com/gentoo/guru): \[MIRROR] GURU: repository of new packages maintained collaboratively by users
 
-  **Latest Update**: 2025-07-07 01:25:37
+  **Latest Update**: 2025-07-07 19:52:11
 
   **Stars**: 235 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 146 forks
+  **Forks**: 145 forks
 
   **Topics**: [hacktoberfest](https://github.com/topics/hacktoberfest)
 
@@ -12070,7 +12099,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-29 06:58:15
 
-  **Stars**: 6599 stars
+  **Stars**: 6602 stars
 
   **Starred On**: 2025-06-28
 
@@ -12121,7 +12150,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-05-04 18:12:41
 
-  **Stars**: 9815 stars
+  **Stars**: 9816 stars
 
   **Starred On**: 2025-06-28
 
@@ -12144,7 +12173,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-08-12 05:25:41
 
-  **Stars**: 2719 stars
+  **Stars**: 2718 stars
 
   **Starred On**: 2025-06-28
 
@@ -12218,7 +12247,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-08-05 08:25:43
 
-  **Stars**: 13263 stars
+  **Stars**: 13265 stars
 
   **Starred On**: 2025-06-28
 
@@ -12238,7 +12267,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-08-13 23:51:42
 
-  **Stars**: 11918 stars
+  **Stars**: 11920 stars
 
   **Starred On**: 2025-06-28
 
@@ -12248,7 +12277,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-08-02 10:44:53
 
-  **Stars**: 3567 stars
+  **Stars**: 3568 stars
 
   **Starred On**: 2025-06-28
 
@@ -12268,7 +12297,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-03-24 11:30:18
 
-  **Stars**: 2877 stars
+  **Stars**: 2879 stars
 
   **Starred On**: 2025-06-28
 
@@ -12287,7 +12316,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-03-12 15:18:37
 
-  **Stars**: 384 stars
+  **Stars**: 385 stars
 
   **Starred On**: 2025-06-28
 
@@ -12333,7 +12362,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-11-21 21:08:42
 
-  **Stars**: 16966 stars
+  **Stars**: 16975 stars
 
   **Starred On**: 2025-06-29
 
@@ -12349,7 +12378,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-30 23:13:05
 
-  **Stars**: 5374 stars
+  **Stars**: 5375 stars
 
   **Starred On**: 2025-06-29
 
@@ -12398,11 +12427,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-05 21:07:50
 
-  **Stars**: 52465 stars
+  **Stars**: 52481 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 2844 forks
+  **Forks**: 2845 forks
 
   **Topics**: [pi-hole](https://github.com/topics/pi-hole),
   [ad-blocker](https://github.com/topics/ad-blocker),
@@ -12420,11 +12449,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-06 10:08:10
 
-  **Stars**: 50831 stars
+  **Stars**: 50864 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 2831 forks
+  **Forks**: 2833 forks
 
   **Topics**: [docker](https://github.com/topics/docker),
   [osx](https://github.com/topics/osx),
@@ -12441,21 +12470,21 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-08-16 02:51:54
 
-  **Stars**: 36098 stars
+  **Stars**: 36100 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 3892 forks
+  **Forks**: 3891 forks
 
 * [89luca89/distrobox](https://github.com/89luca89/distrobox): Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: <https://gitlab.com/89luca89/distrobox>
 
   **Latest Update**: 2025-07-01 06:00:49
 
-  **Stars**: 11038 stars
+  **Stars**: 11040 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 456 forks
+  **Forks**: 455 forks
 
   **Topics**: [centos](https://github.com/topics/centos),
   [fedora](https://github.com/topics/fedora),
@@ -12482,7 +12511,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-04 06:07:18
 
-  **Stars**: 7196 stars
+  **Stars**: 7199 stars
 
   **Starred On**: 2025-07-02
 
@@ -12500,7 +12529,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-01-29 10:54:17
 
-  **Stars**: 5917 stars
+  **Stars**: 5919 stars
 
   **Starred On**: 2025-07-02
 
@@ -12518,7 +12547,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-06 14:23:09
 
-  **Stars**: 2182 stars
+  **Stars**: 2183 stars
 
   **Starred On**: 2025-07-02
 
@@ -12531,17 +12560,35 @@ Last updated 2025-07-07 03:33:17
   [color](https://github.com/topics/color),
   [pineapple](https://github.com/topics/pineapple)
 
+* [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
+
+  **Latest Update**: 2025-05-04 18:45:38
+
+  **Stars**: 95519 stars
+
+  **Starred On**: 2025-07-07
+
+  **Forks**: 6016 forks
+
+  **Topics**: [computer-science](https://github.com/topics/computer-science),
+  [read-papers](https://github.com/topics/read-papers),
+  [meetup](https://github.com/topics/meetup),
+  [papers](https://github.com/topics/papers),
+  [programming](https://github.com/topics/programming),
+  [theory](https://github.com/topics/theory),
+  [awesome](https://github.com/topics/awesome)
+
 ## Starlark
 
 * [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless): 🥑  Language focused docker images, minus the operating system.
 
   **Latest Update**: 2025-07-01 03:15:33
 
-  **Stars**: 20821 stars
+  **Stars**: 20828 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 1260 forks
+  **Forks**: 1262 forks
 
   **Topics**: [docker](https://github.com/topics/docker),
   [bazel](https://github.com/topics/bazel)
@@ -12550,13 +12597,13 @@ Last updated 2025-07-07 03:33:17
 
 * [imputnet/cobalt](https://github.com/imputnet/cobalt): best way to save what you love
 
-  **Latest Update**: 2025-07-06 11:37:55
+  **Latest Update**: 2025-07-07 14:11:26
 
-  **Stars**: 34955 stars
+  **Stars**: 34980 stars
 
   **Starred On**: 2025-06-30
 
-  **Forks**: 2906 forks
+  **Forks**: 2907 forks
 
   **Topics**: [downloader](https://github.com/topics/downloader),
   [reddit](https://github.com/topics/reddit),
@@ -12601,33 +12648,33 @@ Last updated 2025-07-07 03:33:17
 
 * [apple/container](https://github.com/apple/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 
-  **Latest Update**: 2025-07-02 01:22:57
+  **Latest Update**: 2025-07-07 20:37:14
 
-  **Stars**: 16589 stars
+  **Stars**: 16659 stars
 
   **Starred On**: 2025-06-10
 
-  **Forks**: 328 forks
+  **Forks**: 329 forks
 
 * [apple/containerization](https://github.com/apple/containerization): Containerization is a Swift package for running Linux containers on macOS.
 
-  **Latest Update**: 2025-07-04 18:12:20
+  **Latest Update**: 2025-07-08 01:27:26
 
-  **Stars**: 7457 stars
+  **Stars**: 7459 stars
 
   **Starred On**: 2025-06-10
 
-  **Forks**: 163 forks
+  **Forks**: 165 forks
 
 * [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace): AeroSpace is an i3-like tiling window manager for macOS
 
   **Latest Update**: 2025-07-06 15:16:51
 
-  **Stars**: 13717 stars
+  **Stars**: 13738 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 275 forks
+  **Forks**: 277 forks
 
   **Topics**: [i3wm](https://github.com/topics/i3wm),
   [macos](https://github.com/topics/macos),
@@ -12643,13 +12690,13 @@ Last updated 2025-07-07 03:33:17
 
 * [grafana/grafana](https://github.com/grafana/grafana): The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
-  **Latest Update**: 2025-07-07 00:28:54
+  **Latest Update**: 2025-07-08 02:37:49
 
-  **Stars**: 68835 stars
+  **Stars**: 68852 stars
 
   **Starred On**: 2016-05-09
 
-  **Forks**: 12744 forks
+  **Forks**: 12748 forks
 
   **Topics**: [grafana](https://github.com/topics/grafana),
   [monitoring](https://github.com/topics/monitoring),
@@ -12669,13 +12716,13 @@ Last updated 2025-07-07 03:33:17
 
 * [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch): Open source API development ecosystem - <https://hoppscotch.io> (open-source alternative to Postman, Insomnia)
 
-  **Latest Update**: 2025-07-04 07:56:42
+  **Latest Update**: 2025-07-07 11:17:42
 
-  **Stars**: 72662 stars
+  **Stars**: 72691 stars
 
   **Starred On**: 2019-11-08
 
-  **Forks**: 5030 forks
+  **Forks**: 5034 forks
 
   **Topics**: [api](https://github.com/topics/api),
   [api-client](https://github.com/topics/api-client),
@@ -12699,13 +12746,13 @@ Last updated 2025-07-07 03:33:17
 
 * [n8n-io/n8n](https://github.com/n8n-io/n8n): Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
-  **Latest Update**: 2025-07-05 21:59:59
+  **Latest Update**: 2025-07-07 21:32:06
 
-  **Stars**: 115518 stars
+  **Stars**: 115888 stars
 
   **Starred On**: 2021-01-17
 
-  **Forks**: 34209 forks
+  **Forks**: 34389 forks
 
   **Topics**: [automation](https://github.com/topics/automation),
   [ipaas](https://github.com/topics/ipaas),
@@ -12732,11 +12779,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-22 20:23:29
 
-  **Stars**: 32063 stars
+  **Stars**: 32076 stars
 
   **Starred On**: 2022-12-25
 
-  **Forks**: 1510 forks
+  **Forks**: 1511 forks
 
   **Topics**: [video](https://github.com/topics/video),
   [editor](https://github.com/topics/editor),
@@ -12751,13 +12798,13 @@ Last updated 2025-07-07 03:33:17
 
 * [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 
-  **Latest Update**: 2025-07-05 04:37:46
+  **Latest Update**: 2025-07-08 02:52:50
 
-  **Stars**: 9482 stars
+  **Stars**: 9494 stars
 
   **Starred On**: 2024-02-20
 
-  **Forks**: 2961 forks
+  **Forks**: 2966 forks
 
   **Topics**: [digital-garden](https://github.com/topics/digital-garden),
   [obsidian-md](https://github.com/topics/obsidian-md),
@@ -12768,13 +12815,13 @@ Last updated 2025-07-07 03:33:17
 
 * [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE): There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 
-  **Latest Update**: 2025-07-07 03:23:39
+  **Latest Update**: 2025-07-08 03:24:32
 
-  **Stars**: 52807 stars
+  **Stars**: 52880 stars
 
   **Starred On**: 2024-05-14
 
-  **Forks**: 3525 forks
+  **Forks**: 3530 forks
 
   **Topics**: [editor](https://github.com/topics/editor),
   [crdt](https://github.com/topics/crdt),
@@ -12797,9 +12844,9 @@ Last updated 2025-07-07 03:33:17
 
 * [hcengineering/platform](https://github.com/hcengineering/platform): Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 
-  **Latest Update**: 2025-07-07 03:18:48
+  **Latest Update**: 2025-07-08 03:22:55
 
-  **Stars**: 21761 stars
+  **Stars**: 21774 stars
 
   **Starred On**: 2024-10-11
 
@@ -12825,11 +12872,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-07 00:40:50
 
-  **Stars**: 16944 stars
+  **Stars**: 16951 stars
 
   **Starred On**: 2024-11-13
 
-  **Forks**: 313 forks
+  **Forks**: 314 forks
 
   **Topics**: [catppuccin](https://github.com/topics/catppuccin),
   [theme](https://github.com/topics/theme),
@@ -12849,11 +12896,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-06 03:01:48
 
-  **Stars**: 127357 stars
+  **Stars**: 127432 stars
 
   **Starred On**: 2024-11-13
 
-  **Forks**: 15514 forks
+  **Forks**: 15526 forks
 
   **Topics**: [interview-questions](https://github.com/topics/interview-questions),
   [coding-interviews](https://github.com/topics/coding-interviews),
@@ -12868,13 +12915,13 @@ Last updated 2025-07-07 03:33:17
 
 * [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): 🧡 Everything is RSSible
 
-  **Latest Update**: 2025-07-07 02:07:52
+  **Latest Update**: 2025-07-08 02:03:58
 
-  **Stars**: 37630 stars
+  **Stars**: 37649 stars
 
   **Starred On**: 2024-11-27
 
-  **Forks**: 8285 forks
+  **Forks**: 8293 forks
 
   **Topics**: [rss](https://github.com/topics/rss),
   [twitter](https://github.com/topics/twitter),
@@ -12897,9 +12944,9 @@ Last updated 2025-07-07 03:33:17
 
 * [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser): 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
 
-  **Latest Update**: 2025-07-04 13:21:38
+  **Latest Update**: 2025-07-07 14:54:29
 
-  **Stars**: 4703 stars
+  **Stars**: 4705 stars
 
   **Starred On**: 2024-12-02
 
@@ -12919,7 +12966,7 @@ Last updated 2025-07-07 03:33:17
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2527 forks
+  **Forks**: 2526 forks
 
   **Topics**: [ml](https://github.com/topics/ml),
   [kubernetes](https://github.com/topics/kubernetes),
@@ -12933,13 +12980,13 @@ Last updated 2025-07-07 03:33:17
 
 * [SigNoz/signoz](https://github.com/SigNoz/signoz): SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 
-  **Latest Update**: 2025-07-06 21:19:17
+  **Latest Update**: 2025-07-07 20:17:39
 
-  **Stars**: 22676 stars
+  **Stars**: 22693 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1613 forks
+  **Forks**: 1616 forks
 
   **Topics**: [observability](https://github.com/topics/observability),
   [application-monitoring](https://github.com/topics/application-monitoring),
@@ -12964,13 +13011,13 @@ Last updated 2025-07-07 03:33:17
 
 * [vitest-dev/vitest](https://github.com/vitest-dev/vitest): Next generation testing framework powered by Vite.
 
-  **Latest Update**: 2025-07-07 02:28:46
+  **Latest Update**: 2025-07-07 23:41:02
 
-  **Stars**: 14605 stars
+  **Stars**: 14610 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1374 forks
+  **Forks**: 1375 forks
 
   **Topics**: [vite](https://github.com/topics/vite),
   [test](https://github.com/topics/test),
@@ -12978,13 +13025,13 @@ Last updated 2025-07-07 03:33:17
 
 * [mastra-ai/mastra](https://github.com/mastra-ai/mastra): The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 
-  **Latest Update**: 2025-07-06 18:13:39
+  **Latest Update**: 2025-07-08 00:32:43
 
-  **Stars**: 14762 stars
+  **Stars**: 14790 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 901 forks
+  **Forks**: 903 forks
 
   **Topics**: [agents](https://github.com/topics/agents),
   [ai](https://github.com/topics/ai),
@@ -13002,9 +13049,9 @@ Last updated 2025-07-07 03:33:17
 
 * [typegoose/typegoose](https://github.com/typegoose/typegoose): Typegoose - Define Mongoose models using TypeScript classes.
 
-  **Latest Update**: 2025-06-18 09:54:11
+  **Latest Update**: 2025-07-07 13:28:36
 
-  **Stars**: 2274 stars
+  **Stars**: 2276 stars
 
   **Starred On**: 2025-06-28
 
@@ -13025,7 +13072,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-18 13:48:12
 
-  **Stars**: 13835 stars
+  **Stars**: 13842 stars
 
   **Starred On**: 2025-06-28
 
@@ -13047,11 +13094,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 20:59:55
 
-  **Stars**: 31285 stars
+  **Stars**: 31300 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2553 forks
+  **Forks**: 2554 forks
 
   **Topics**: [js](https://github.com/topics/js),
   [vue](https://github.com/topics/vue),
@@ -13069,7 +13116,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-02 22:35:11
 
-  **Stars**: 8424 stars
+  **Stars**: 8427 stars
 
   **Starred On**: 2025-06-28
 
@@ -13089,13 +13136,13 @@ Last updated 2025-07-07 03:33:17
 
 * [microsoft/TypeScript](https://github.com/microsoft/TypeScript): TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
-  **Latest Update**: 2025-07-07 00:33:02
+  **Latest Update**: 2025-07-07 20:30:01
 
-  **Stars**: 105152 stars
+  **Stars**: 105169 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 12904 forks
+  **Forks**: 12906 forks
 
   **Topics**: [typescript](https://github.com/topics/typescript),
   [javascript](https://github.com/topics/javascript),
@@ -13104,13 +13151,13 @@ Last updated 2025-07-07 03:33:17
 
 * [refinedev/refine](https://github.com/refinedev/refine): A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
-  **Latest Update**: 2025-07-05 13:07:39
+  **Latest Update**: 2025-07-07 13:59:02
 
-  **Stars**: 31526 stars
+  **Stars**: 31543 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2566 forks
+  **Forks**: 2569 forks
 
   **Topics**: [react](https://github.com/topics/react),
   [typescript](https://github.com/topics/typescript),
@@ -13137,7 +13184,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-27 00:44:11
 
-  **Stars**: 3474 stars
+  **Stars**: 3476 stars
 
   **Starred On**: 2025-06-28
 
@@ -13149,7 +13196,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-28 21:56:03
 
-  **Stars**: 18870 stars
+  **Stars**: 18881 stars
 
   **Starred On**: 2025-06-28
 
@@ -13171,13 +13218,13 @@ Last updated 2025-07-07 03:33:17
 
 * [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith): Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 
-  **Latest Update**: 2025-07-04 11:19:10
+  **Latest Update**: 2025-07-08 02:33:53
 
-  **Stars**: 37390 stars
+  **Stars**: 37399 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 4126 forks
+  **Forks**: 4130 forks
 
   **Topics**: [low-code](https://github.com/topics/low-code),
   [admin-dashboard](https://github.com/topics/admin-dashboard),
@@ -13202,13 +13249,13 @@ Last updated 2025-07-07 03:33:17
 
 * [backstage/backstage](https://github.com/backstage/backstage): Backstage is an open framework for building developer portals
 
-  **Latest Update**: 2025-07-06 09:00:37
+  **Latest Update**: 2025-07-07 16:45:38
 
-  **Stars**: 30686 stars
+  **Stars**: 30691 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 6627 forks
+  **Forks**: 6629 forks
 
   **Topics**: [infrastructure](https://github.com/topics/infrastructure),
   [dx](https://github.com/topics/dx),
@@ -13221,13 +13268,13 @@ Last updated 2025-07-07 03:33:17
 
 * [star-history/star-history](https://github.com/star-history/star-history): The missing star history graph of GitHub repos - <https://star-history.com>
 
-  **Latest Update**: 2025-07-02 16:16:31
+  **Latest Update**: 2025-07-08 01:27:07
 
-  **Stars**: 7576 stars
+  **Stars**: 7578 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 289 forks
+  **Forks**: 290 forks
 
   **Topics**: [star](https://github.com/topics/star),
   [history](https://github.com/topics/history),
@@ -13241,11 +13288,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-07 01:55:46
 
-  **Stars**: 14006 stars
+  **Stars**: 14009 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 983 forks
+  **Forks**: 984 forks
 
   **Topics**: [faker](https://github.com/topics/faker),
   [data](https://github.com/topics/data),
@@ -13257,13 +13304,13 @@ Last updated 2025-07-07 03:33:17
 
 * [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat): Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 
-  **Latest Update**: 2025-07-05 17:38:05
+  **Latest Update**: 2025-07-07 15:04:29
 
-  **Stars**: 7907 stars
+  **Stars**: 7911 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1575 forks
+  **Forks**: 1576 forks
 
   **Topics**: [ethereum](https://github.com/topics/ethereum),
   [smart-contracts](https://github.com/topics/smart-contracts),
@@ -13280,7 +13327,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-05 09:58:44
 
-  **Stars**: 2844 stars
+  **Stars**: 2847 stars
 
   **Starred On**: 2025-06-28
 
@@ -13296,13 +13343,13 @@ Last updated 2025-07-07 03:33:17
 
 * [apify/crawlee](https://github.com/apify/crawlee): Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
 
-  **Latest Update**: 2025-07-03 18:35:46
+  **Latest Update**: 2025-07-08 00:03:10
 
-  **Stars**: 18119 stars
+  **Stars**: 18131 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 855 forks
+  **Forks**: 858 forks
 
   **Topics**: [web-scraping](https://github.com/topics/web-scraping),
   [web-crawling](https://github.com/topics/web-crawling),
@@ -13324,13 +13371,13 @@ Last updated 2025-07-07 03:33:17
 
 * [mattermost/mattermost](https://github.com/mattermost/mattermost): Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 
-  **Latest Update**: 2025-07-04 18:53:15
+  **Latest Update**: 2025-07-07 22:14:25
 
-  **Stars**: 33038 stars
+  **Stars**: 33048 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 7842 forks
+  **Forks**: 7845 forks
 
   **Topics**: [collaboration](https://github.com/topics/collaboration),
   [mattermost](https://github.com/topics/mattermost),
@@ -13342,13 +13389,13 @@ Last updated 2025-07-07 03:33:17
 
 * [novuhq/novu](https://github.com/novuhq/novu): The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 
-  **Latest Update**: 2025-07-06 20:31:37
+  **Latest Update**: 2025-07-07 22:05:16
 
-  **Stars**: 37209 stars
+  **Stars**: 37219 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 4055 forks
+  **Forks**: 4056 forks
 
   **Topics**: [notifications](https://github.com/topics/notifications),
   [communication](https://github.com/topics/communication),
@@ -13371,7 +13418,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-26 09:55:49
 
-  **Stars**: 24615 stars
+  **Stars**: 24620 stars
 
   **Starred On**: 2025-06-28
 
@@ -13391,9 +13438,9 @@ Last updated 2025-07-07 03:33:17
 
 * [nocodb/nocodb](https://github.com/nocodb/nocodb): 🔥 🔥 🔥 Open Source Airtable Alternative
 
-  **Latest Update**: 2025-07-07 01:53:03
+  **Latest Update**: 2025-07-08 03:20:05
 
-  **Stars**: 55598 stars
+  **Stars**: 55636 stars
 
   **Starred On**: 2025-06-28
 
@@ -13416,13 +13463,13 @@ Last updated 2025-07-07 03:33:17
 
 * [ant-design/ant-design](https://github.com/ant-design/ant-design): An enterprise-class UI design language and React UI library
 
-  **Latest Update**: 2025-07-07 03:28:48
+  **Latest Update**: 2025-07-08 03:23:45
 
-  **Stars**: 95309 stars
+  **Stars**: 95325 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 52870 forks
+  **Forks**: 52881 forks
 
   **Topics**: [react](https://github.com/topics/react),
   [ui-kit](https://github.com/topics/ui-kit),
@@ -13434,13 +13481,13 @@ Last updated 2025-07-07 03:33:17
 
 * [prisma/prisma](https://github.com/prisma/prisma): Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 
-  **Latest Update**: 2025-07-04 16:35:54
+  **Latest Update**: 2025-07-07 16:52:19
 
-  **Stars**: 42780 stars
+  **Stars**: 42792 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1783 forks
+  **Forks**: 1784 forks
 
   **Topics**: [prisma](https://github.com/topics/prisma),
   [orm](https://github.com/topics/orm),
@@ -13465,13 +13512,13 @@ Last updated 2025-07-07 03:33:17
 
 * [microsoft/playwright](https://github.com/microsoft/playwright): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
-  **Latest Update**: 2025-07-04 17:53:16
+  **Latest Update**: 2025-07-08 03:23:57
 
-  **Stars**: 74475 stars
+  **Stars**: 74507 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 4313 forks
+  **Forks**: 4317 forks
 
   **Topics**: [playwright](https://github.com/topics/playwright),
   [testing](https://github.com/topics/testing),
@@ -13491,13 +13538,13 @@ Last updated 2025-07-07 03:33:17
 
 * [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid): Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
-  **Latest Update**: 2025-07-06 09:44:47
+  **Latest Update**: 2025-07-08 01:11:19
 
-  **Stars**: 81026 stars
+  **Stars**: 81042 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 7744 forks
+  **Forks**: 7749 forks
 
   **Topics**: [documentation](https://github.com/topics/documentation),
   [flowchart](https://github.com/topics/flowchart),
@@ -13510,13 +13557,13 @@ Last updated 2025-07-07 03:33:17
 
 * [renovatebot/renovate](https://github.com/renovatebot/renovate): Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
-  **Latest Update**: 2025-07-07 01:26:54
+  **Latest Update**: 2025-07-08 03:17:25
 
-  **Stars**: 19310 stars
+  **Stars**: 19316 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2637 forks
+  **Forks**: 2641 forks
 
   **Topics**: [npm](https://github.com/topics/npm),
   [package-management](https://github.com/topics/package-management),
@@ -13532,7 +13579,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2023-09-05 02:44:07
 
-  **Stars**: 5326 stars
+  **Stars**: 5327 stars
 
   **Starred On**: 2025-06-28
 
@@ -13550,11 +13597,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 10:54:55
 
-  **Stars**: 35510 stars
+  **Stars**: 35515 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 6418 forks
+  **Forks**: 6420 forks
 
   **Topics**: [orm](https://github.com/topics/orm),
   [typescript](https://github.com/topics/typescript),
@@ -13581,7 +13628,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-24 04:31:47
 
-  **Stars**: 24989 stars
+  **Stars**: 24993 stars
 
   **Starred On**: 2025-06-28
 
@@ -13605,7 +13652,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-20 07:55:58
 
-  **Stars**: 14905 stars
+  **Stars**: 14907 stars
 
   **Starred On**: 2025-06-28
 
@@ -13621,13 +13668,13 @@ Last updated 2025-07-07 03:33:17
 
 * [nestjs/nest](https://github.com/nestjs/nest): A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 
-  **Latest Update**: 2025-07-03 00:00:04
+  **Latest Update**: 2025-07-08 03:26:21
 
-  **Stars**: 71646 stars
+  **Stars**: 71670 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 7936 forks
+  **Forks**: 7939 forks
 
   **Topics**: [nest](https://github.com/topics/nest),
   [javascript](https://github.com/topics/javascript),
@@ -13645,13 +13692,13 @@ Last updated 2025-07-07 03:33:17
 
 * [facebook/docusaurus](https://github.com/facebook/docusaurus): Easy to maintain open source documentation websites.
 
-  **Latest Update**: 2025-07-04 15:11:14
+  **Latest Update**: 2025-07-07 14:53:06
 
-  **Stars**: 60652 stars
+  **Stars**: 60667 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 9216 forks
+  **Forks**: 9220 forks
 
   **Topics**: [documentation](https://github.com/topics/documentation),
   [website](https://github.com/topics/website),
@@ -13662,9 +13709,9 @@ Last updated 2025-07-07 03:33:17
 
 * [leon-ai/leon](https://github.com/leon-ai/leon): 🧠 Leon is your open-source personal assistant.
 
-  **Latest Update**: 2025-07-01 14:38:24
+  **Latest Update**: 2025-07-07 15:01:26
 
-  **Stars**: 16453 stars
+  **Stars**: 16456 stars
 
   **Starred On**: 2025-06-28
 
@@ -13693,13 +13740,13 @@ Last updated 2025-07-07 03:33:17
 
 * [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer): JavaScript API for Chrome and Firefox
 
-  **Latest Update**: 2025-07-06 02:13:37
+  **Latest Update**: 2025-07-07 12:36:31
 
-  **Stars**: 91100 stars
+  **Stars**: 91107 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 9224 forks
+  **Forks**: 9225 forks
 
   **Topics**: [headless-chrome](https://github.com/topics/headless-chrome),
   [testing](https://github.com/topics/testing),
@@ -13715,11 +13762,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-18 08:48:01
 
-  **Stars**: 11477 stars
+  **Stars**: 11479 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 601 forks
+  **Forks**: 600 forks
 
   **Topics**: [watch-files](https://github.com/topics/watch-files),
   [fsevents](https://github.com/topics/fsevents),
@@ -13730,13 +13777,13 @@ Last updated 2025-07-07 03:33:17
 
 * [strapi/strapi](https://github.com/strapi/strapi): 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 
-  **Latest Update**: 2025-07-04 17:37:33
+  **Latest Update**: 2025-07-07 16:39:22
 
-  **Stars**: 67275 stars
+  **Stars**: 67290 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 8680 forks
+  **Forks**: 8684 forks
 
   **Topics**: [strapi](https://github.com/topics/strapi),
   [nodejs](https://github.com/topics/nodejs),
@@ -13761,9 +13808,9 @@ Last updated 2025-07-07 03:33:17
 
 * [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss): A utility-first CSS framework for rapid UI development.
 
-  **Latest Update**: 2025-07-03 15:20:55
+  **Latest Update**: 2025-07-08 01:43:04
 
-  **Stars**: 88808 stars
+  **Stars**: 88825 stars
 
   **Starred On**: 2025-06-28
 
@@ -13781,7 +13828,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-01-11 06:02:13
 
-  **Stars**: 8767 stars
+  **Stars**: 8768 stars
 
   **Starred On**: 2025-06-28
 
@@ -13800,13 +13847,13 @@ Last updated 2025-07-07 03:33:17
 
 * [pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager
 
-  **Latest Update**: 2025-07-05 23:13:13
+  **Latest Update**: 2025-07-07 23:14:59
 
-  **Stars**: 32047 stars
+  **Stars**: 32060 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1156 forks
+  **Forks**: 1157 forks
 
   **Topics**: [npm](https://github.com/topics/npm),
   [dependency-manager](https://github.com/topics/dependency-manager),
@@ -13819,13 +13866,13 @@ Last updated 2025-07-07 03:33:17
 
 * [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp): freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
-  **Latest Update**: 2025-07-06 20:36:15
+  **Latest Update**: 2025-07-07 23:51:25
 
-  **Stars**: 422158 stars
+  **Stars**: 422219 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 40645 forks
+  **Forks**: 40659 forks
 
   **Topics**: [learn-to-code](https://github.com/topics/learn-to-code),
   [nonprofits](https://github.com/topics/nonprofits),
@@ -13846,13 +13893,13 @@ Last updated 2025-07-07 03:33:17
 
 * [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams
 
-  **Latest Update**: 2025-07-06 16:47:18
+  **Latest Update**: 2025-07-07 08:09:43
 
-  **Stars**: 103128 stars
+  **Stars**: 103197 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 10200 forks
+  **Forks**: 10211 forks
 
   **Topics**: [productivity](https://github.com/topics/productivity),
   [collaboration](https://github.com/topics/collaboration),
@@ -13864,13 +13911,13 @@ Last updated 2025-07-07 03:33:17
 
 * [botpress/botpress](https://github.com/botpress/botpress): The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
-  **Latest Update**: 2025-07-04 20:27:34
+  **Latest Update**: 2025-07-07 23:56:41
 
-  **Stars**: 13901 stars
+  **Stars**: 13905 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2050 forks
+  **Forks**: 2053 forks
 
   **Topics**: [agent](https://github.com/topics/agent),
   [ai](https://github.com/topics/ai),
@@ -13887,13 +13934,13 @@ Last updated 2025-07-07 03:33:17
 
 * [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat): The communications platform that puts data protection first.
 
-  **Latest Update**: 2025-07-06 20:09:19
+  **Latest Update**: 2025-07-08 01:28:52
 
-  **Stars**: 42921 stars
+  **Stars**: 42930 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 11914 forks
+  **Forks**: 11919 forks
 
   **Topics**: [chat](https://github.com/topics/chat),
   [meteor](https://github.com/topics/meteor),
@@ -13909,13 +13956,13 @@ Last updated 2025-07-07 03:33:17
 
 * [portainer/portainer](https://github.com/portainer/portainer): Making Docker and Kubernetes management easy.
 
-  **Latest Update**: 2025-07-05 13:12:14
+  **Latest Update**: 2025-07-07 13:15:50
 
-  **Stars**: 33524 stars
+  **Stars**: 33535 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2610 forks
+  **Forks**: 2612 forks
 
   **Topics**: [docker](https://github.com/topics/docker),
   [docker-swarm](https://github.com/topics/docker-swarm),
@@ -13933,13 +13980,13 @@ Last updated 2025-07-07 03:33:17
 
 * [outline/outline](https://github.com/outline/outline): The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 
-  **Latest Update**: 2025-07-07 02:13:23
+  **Latest Update**: 2025-07-08 03:16:08
 
-  **Stars**: 32769 stars
+  **Stars**: 32781 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2671 forks
+  **Forks**: 2674 forks
 
   **Topics**: [react](https://github.com/topics/react),
   [wiki](https://github.com/topics/wiki),
@@ -13952,13 +13999,13 @@ Last updated 2025-07-07 03:33:17
 
 * [twentyhq/twenty](https://github.com/twentyhq/twenty): Building a modern alternative to Salesforce, powered by the community.
 
-  **Latest Update**: 2025-07-06 22:17:11
+  **Latest Update**: 2025-07-07 21:01:02
 
-  **Stars**: 33359 stars
+  **Stars**: 33438 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 3687 forks
+  **Forks**: 3702 forks
 
   **Topics**: [crm](https://github.com/topics/crm),
   [customer](https://github.com/topics/customer),
@@ -13980,13 +14027,13 @@ Last updated 2025-07-07 03:33:17
 
 * [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki): :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 
-  **Latest Update**: 2025-07-06 16:03:44
+  **Latest Update**: 2025-07-07 16:04:15
 
-  **Stars**: 23520 stars
+  **Stars**: 23524 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 4293 forks
+  **Forks**: 4295 forks
 
   **Topics**: [oi](https://github.com/topics/oi),
   [oi-handbook](https://github.com/topics/oi-handbook),
@@ -14003,13 +14050,13 @@ Last updated 2025-07-07 03:33:17
 
 * [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit): React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 
-  **Latest Update**: 2025-07-05 02:40:35
+  **Latest Update**: 2025-07-08 03:23:37
 
-  **Stars**: 21712 stars
+  **Stars**: 21744 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2941 forks
+  **Forks**: 2942 forks
 
   **Topics**: [ai](https://github.com/topics/ai),
   [langchain](https://github.com/topics/langchain),
@@ -14032,13 +14079,13 @@ Last updated 2025-07-07 03:33:17
 
 * [QwikDev/qwik](https://github.com/QwikDev/qwik): Instant-loading web apps, without effort
 
-  **Latest Update**: 2025-07-07 00:41:15
+  **Latest Update**: 2025-07-07 04:44:53
 
-  **Stars**: 21481 stars
+  **Stars**: 21482 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1356 forks
+  **Forks**: 1355 forks
 
   **Topics**: [javascript](https://github.com/topics/javascript),
   [web](https://github.com/topics/web),
@@ -14057,13 +14104,13 @@ Last updated 2025-07-07 03:33:17
 
 * [darkreader/darkreader](https://github.com/darkreader/darkreader): Dark Reader Chrome and Firefox extension
 
-  **Latest Update**: 2025-07-02 23:06:14
+  **Latest Update**: 2025-07-07 17:18:54
 
-  **Stars**: 20867 stars
+  **Stars**: 20870 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2562 forks
+  **Forks**: 2561 forks
 
   **Topics**: [dark-theme](https://github.com/topics/dark-theme),
   [chrome-extension](https://github.com/topics/chrome-extension),
@@ -14092,13 +14139,13 @@ Last updated 2025-07-07 03:33:17
 
 * [Infisical/infisical](https://github.com/Infisical/infisical): Infisical is the open-source platform for secrets management, PKI, and SSH access.
 
-  **Latest Update**: 2025-07-05 04:16:04
+  **Latest Update**: 2025-07-08 02:41:38
 
-  **Stars**: 18643 stars
+  **Stars**: 18675 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1243 forks
+  **Forks**: 1246 forks
 
   **Topics**: [cli](https://github.com/topics/cli),
   [environment-variables](https://github.com/topics/environment-variables),
@@ -14125,11 +14172,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-05 19:28:16
 
-  **Stars**: 13114 stars
+  **Stars**: 13135 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 764 forks
+  **Forks**: 767 forks
 
   **Topics**: [agents](https://github.com/topics/agents),
   [ai](https://github.com/topics/ai),
@@ -14140,23 +14187,23 @@ Last updated 2025-07-07 03:33:17
 
 * [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers): Model Context Protocol Servers
 
-  **Latest Update**: 2025-07-06 15:05:23
+  **Latest Update**: 2025-07-07 16:54:34
 
-  **Stars**: 58051 stars
+  **Stars**: 58229 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 6721 forks
+  **Forks**: 6743 forks
 
 * [a2aproject/A2A](https://github.com/a2aproject/A2A): An open protocol enabling communication and interoperability between opaque agentic applications.
 
-  **Latest Update**: 2025-07-03 15:09:38
+  **Latest Update**: 2025-07-07 18:58:15
 
-  **Stars**: 18070 stars
+  **Stars**: 18103 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1805 forks
+  **Forks**: 1807 forks
 
   **Topics**: [a2a](https://github.com/topics/a2a),
   [a2a-mcp](https://github.com/topics/a2a-mcp),
@@ -14167,13 +14214,13 @@ Last updated 2025-07-07 03:33:17
 
 * [langgenius/dify](https://github.com/langgenius/dify): Production-ready platform for agentic workflow development.
 
-  **Latest Update**: 2025-07-07 03:27:11
+  **Latest Update**: 2025-07-08 02:37:53
 
-  **Stars**: 105934 stars
+  **Stars**: 106051 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 16017 forks
+  **Forks**: 16039 forks
 
   **Topics**: [ai](https://github.com/topics/ai),
   [gpt](https://github.com/topics/gpt),
@@ -14200,7 +14247,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-01 17:17:00
 
-  **Stars**: 1424 stars
+  **Stars**: 1422 stars
 
   **Starred On**: 2025-06-28
 
@@ -14215,13 +14262,13 @@ Last updated 2025-07-07 03:33:17
 
 * [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
-  **Latest Update**: 2025-07-07 03:30:05
+  **Latest Update**: 2025-07-08 03:20:01
 
-  **Stars**: 35749 stars
+  **Stars**: 35777 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2216 forks
+  **Forks**: 2217 forks
 
   **Topics**: [note-taking](https://github.com/topics/note-taking),
   [local-first](https://github.com/topics/local-first),
@@ -14247,7 +14294,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 09:14:49
 
-  **Stars**: 30059 stars
+  **Stars**: 30064 stars
 
   **Starred On**: 2025-06-28
 
@@ -14274,13 +14321,13 @@ Last updated 2025-07-07 03:33:17
 
 * [immich-app/immich](https://github.com/immich-app/immich): High performance self-hosted photo and video management solution.
 
-  **Latest Update**: 2025-07-07 03:23:11
+  **Latest Update**: 2025-07-08 02:02:06
 
-  **Stars**: 69868 stars
+  **Stars**: 69939 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 3669 forks
+  **Forks**: 3673 forks
 
   **Topics**: [backup-tool](https://github.com/topics/backup-tool),
   [mobile-app](https://github.com/topics/mobile-app),
@@ -14301,13 +14348,13 @@ Last updated 2025-07-07 03:33:17
 
 * [langfuse/langfuse](https://github.com/langfuse/langfuse): 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 
-  **Latest Update**: 2025-07-06 19:39:47
+  **Latest Update**: 2025-07-08 02:16:05
 
-  **Stars**: 13420 stars
+  **Stars**: 13460 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1225 forks
+  **Forks**: 1231 forks
 
   **Topics**: [analytics](https://github.com/topics/analytics),
   [llm](https://github.com/topics/llm),
@@ -14331,13 +14378,13 @@ Last updated 2025-07-07 03:33:17
 
 * [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
-  **Latest Update**: 2025-06-30 13:36:08
+  **Latest Update**: 2025-07-07 12:19:06
 
-  **Stars**: 84054 stars
+  **Stars**: 84061 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 61080 forks
+  **Forks**: 61077 forks
 
   **Topics**: [chatgpt](https://github.com/topics/chatgpt),
   [nextjs](https://github.com/topics/nextjs),
@@ -14363,11 +14410,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-11-16 20:34:00
 
-  **Stars**: 24514 stars
+  **Stars**: 24517 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1794 forks
+  **Forks**: 1795 forks
 
   **Topics**: [chatgpt](https://github.com/topics/chatgpt),
   [chrome-extension](https://github.com/topics/chrome-extension),
@@ -14379,13 +14426,13 @@ Last updated 2025-07-07 03:33:17
 
 * [labring/FastGPT](https://github.com/labring/FastGPT): FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
 
-  **Latest Update**: 2025-07-07 02:08:36
+  **Latest Update**: 2025-07-07 12:57:30
 
-  **Stars**: 24993 stars
+  **Stars**: 25005 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 6428 forks
+  **Forks**: 6432 forks
 
   **Topics**: [nextjs](https://github.com/topics/nextjs),
   [openai](https://github.com/topics/openai),
@@ -14400,13 +14447,13 @@ Last updated 2025-07-07 03:33:17
 
 * [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modal (Plugins / Artifacts / MCP) and thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
 
-  **Latest Update**: 2025-07-07 00:35:18
+  **Latest Update**: 2025-07-08 03:13:08
 
-  **Stars**: 63174 stars
+  **Stars**: 63209 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 13139 forks
+  **Forks**: 13142 forks
 
   **Topics**: [chatgpt](https://github.com/topics/chatgpt),
   [nextjs](https://github.com/topics/nextjs),
@@ -14428,9 +14475,9 @@ Last updated 2025-07-07 03:33:17
 
 * [makeplane/plane](https://github.com/makeplane/plane): 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 
-  **Latest Update**: 2025-07-04 14:44:44
+  **Latest Update**: 2025-07-08 00:06:40
 
-  **Stars**: 37087 stars
+  **Stars**: 37109 stars
 
   **Starred On**: 2025-06-28
 
@@ -14456,13 +14503,13 @@ Last updated 2025-07-07 03:33:17
 
 * [snyk/cli](https://github.com/snyk/cli): Snyk CLI scans and monitors your projects for security vulnerabilities.
 
-  **Latest Update**: 2025-07-04 10:07:25
+  **Latest Update**: 2025-07-07 16:29:56
 
-  **Stars**: 5171 stars
+  **Stars**: 5170 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 626 forks
+  **Forks**: 627 forks
 
   **Topics**: [security](https://github.com/topics/security),
   [monitor](https://github.com/topics/monitor),
@@ -14471,9 +14518,9 @@ Last updated 2025-07-07 03:33:17
 
 * [Unleash/unleash](https://github.com/Unleash/unleash): Open-source feature management platform
 
-  **Latest Update**: 2025-07-04 15:55:36
+  **Latest Update**: 2025-07-07 18:23:34
 
-  **Stars**: 12341 stars
+  **Stars**: 12343 stars
 
   **Starred On**: 2025-06-28
 
@@ -14501,13 +14548,13 @@ Last updated 2025-07-07 03:33:17
 
 * [apache/superset](https://github.com/apache/superset): Apache Superset is a Data Visualization and Data Exploration Platform
 
-  **Latest Update**: 2025-07-06 21:59:27
+  **Latest Update**: 2025-07-08 03:16:15
 
-  **Stars**: 66911 stars
+  **Stars**: 66925 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 15268 forks
+  **Forks**: 15277 forks
 
   **Topics**: [superset](https://github.com/topics/superset),
   [apache](https://github.com/topics/apache),
@@ -14530,13 +14577,13 @@ Last updated 2025-07-07 03:33:17
 
 * [supabase/supabase](https://github.com/supabase/supabase): The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
-  **Latest Update**: 2025-07-07 02:55:10
+  **Latest Update**: 2025-07-08 03:22:38
 
-  **Stars**: 85317 stars
+  **Stars**: 85357 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 9130 forks
+  **Forks**: 9138 forks
 
   **Topics**: [firebase](https://github.com/topics/firebase),
   [supabase](https://github.com/topics/supabase),
@@ -14560,9 +14607,9 @@ Last updated 2025-07-07 03:33:17
 
 * [wasp-lang/wasp](https://github.com/wasp-lang/wasp): The fastest way to develop full-stack web apps with React & Node.js.
 
-  **Latest Update**: 2025-07-05 20:19:54
+  **Latest Update**: 2025-07-07 16:06:18
 
-  **Stars**: 17318 stars
+  **Stars**: 17323 stars
 
   **Starred On**: 2025-06-28
 
@@ -14579,13 +14626,13 @@ Last updated 2025-07-07 03:33:17
 
 * [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
-  **Latest Update**: 2025-07-05 00:13:11
+  **Latest Update**: 2025-07-08 00:13:52
 
-  **Stars**: 330401 stars
+  **Stars**: 330582 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 42274 forks
+  **Forks**: 42292 forks
 
   **Topics**: [computer-science](https://github.com/topics/computer-science),
   [roadmap](https://github.com/topics/roadmap),
@@ -14610,7 +14657,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-03 13:19:15
 
-  **Stars**: 2862 stars
+  **Stars**: 2864 stars
 
   **Starred On**: 2025-06-28
 
@@ -14636,7 +14683,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-04 16:59:45
 
-  **Stars**: 2272 stars
+  **Stars**: 2275 stars
 
   **Starred On**: 2025-06-28
 
@@ -14657,13 +14704,13 @@ Last updated 2025-07-07 03:33:17
 
 * [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-  **Latest Update**: 2025-07-07 03:19:28
+  **Latest Update**: 2025-07-08 03:18:39
 
-  **Stars**: 54423 stars
+  **Stars**: 55319 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 4823 forks
+  **Forks**: 4931 forks
 
   **Topics**: [gemini](https://github.com/topics/gemini),
   [gemini-api](https://github.com/topics/gemini-api)
@@ -14672,7 +14719,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 16:47:42
 
-  **Stars**: 8150 stars
+  **Stars**: 8152 stars
 
   **Starred On**: 2025-06-28
 
@@ -14689,7 +14736,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-08-08 06:11:13
 
-  **Stars**: 9212 stars
+  **Stars**: 9220 stars
 
   **Starred On**: 2025-06-29
 
@@ -14705,7 +14752,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-03 05:41:27
 
-  **Stars**: 1872 stars
+  **Stars**: 1873 stars
 
   **Starred On**: 2025-06-29
 
@@ -14723,9 +14770,9 @@ Last updated 2025-07-07 03:33:17
 
 * [translate-tools/linguist](https://github.com/translate-tools/linguist): Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline
 
-  **Latest Update**: 2025-07-05 22:30:22
+  **Latest Update**: 2025-07-07 17:40:16
 
-  **Stars**: 823 stars
+  **Stars**: 824 stars
 
   **Starred On**: 2025-06-29
 
@@ -14754,9 +14801,9 @@ Last updated 2025-07-07 03:33:17
 
 * [refined-github/refined-github](https://github.com/refined-github/refined-github): :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 
-  **Latest Update**: 2025-07-06 11:54:56
+  **Latest Update**: 2025-07-07 12:04:12
 
-  **Stars**: 28674 stars
+  **Stars**: 28685 stars
 
   **Starred On**: 2025-06-29
 
@@ -14788,9 +14835,9 @@ Last updated 2025-07-07 03:33:17
 
 * [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 
-  **Latest Update**: 2025-07-07 02:35:25
+  **Latest Update**: 2025-07-08 02:54:46
 
-  **Stars**: 36697 stars
+  **Stars**: 36707 stars
 
   **Starred On**: 2025-07-01
 
@@ -14809,9 +14856,9 @@ Last updated 2025-07-07 03:33:17
 
 * [actualbudget/actual](https://github.com/actualbudget/actual): A local-first personal finance app
 
-  **Latest Update**: 2025-07-06 17:08:44
+  **Latest Update**: 2025-07-07 19:42:26
 
-  **Stars**: 20053 stars
+  **Stars**: 20076 stars
 
   **Starred On**: 2025-07-02
 
@@ -14826,11 +14873,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-10-10 07:24:15
 
-  **Stars**: 209093 stars
+  **Stars**: 209103 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 33746 forks
+  **Forks**: 33745 forks
 
   **Topics**: [vue](https://github.com/topics/vue),
   [javascript](https://github.com/topics/javascript),
@@ -14841,11 +14888,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-04-08 10:52:19
 
-  **Stars**: 8000 stars
+  **Stars**: 8004 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 467 forks
+  **Forks**: 468 forks
 
   **Topics**: [obsidian-md](https://github.com/topics/obsidian-md),
   [obsidian-plugin](https://github.com/topics/obsidian-plugin),
@@ -14856,11 +14903,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-14 16:13:58
 
-  **Stars**: 8376 stars
+  **Stars**: 8385 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 375 forks
+  **Forks**: 376 forks
 
   **Topics**: [obsidian-md](https://github.com/topics/obsidian-md),
   [obsidian-plugin](https://github.com/topics/obsidian-plugin),
@@ -14871,7 +14918,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-01 18:49:43
 
-  **Stars**: 5259 stars
+  **Stars**: 5267 stars
 
   **Starred On**: 2025-07-02
 
@@ -14881,7 +14928,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-05 20:58:47
 
-  **Stars**: 3976 stars
+  **Stars**: 3978 stars
 
   **Starred On**: 2025-07-02
 
@@ -14894,7 +14941,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-03-23 15:49:36
 
-  **Stars**: 1955 stars
+  **Stars**: 1956 stars
 
   **Starred On**: 2025-07-02
 
@@ -14910,13 +14957,13 @@ Last updated 2025-07-07 03:33:17
 
 ## Unclassified
 
-63 repos
+67 repos
 
 * [awesome-jobs/vietnam](https://github.com/awesome-jobs/vietnam): The best place to find devs in Vietnam!
 
   **Latest Update**: 2021-05-31 10:43:58
 
-  **Stars**: 1476 stars
+  **Stars**: 1477 stars
 
   **Starred On**: 2016-05-20
 
@@ -14926,7 +14973,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2019-07-10 09:15:27
 
-  **Stars**: 4554 stars
+  **Stars**: 4555 stars
 
   **Starred On**: 2016-05-24
 
@@ -14976,11 +15023,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-12-05 23:47:30
 
-  **Stars**: 322140 stars
+  **Stars**: 322282 stars
 
   **Starred On**: 2016-10-16
 
-  **Forks**: 79505 forks
+  **Forks**: 79535 forks
 
   **Topics**: [computer-science](https://github.com/topics/computer-science),
   [interview](https://github.com/topics/interview),
@@ -14999,7 +15046,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-06-11 04:49:29
 
-  **Stars**: 28514 stars
+  **Stars**: 28515 stars
 
   **Starred On**: 2016-10-19
 
@@ -15015,11 +15062,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-09-09 16:24:35
 
-  **Stars**: 7344 stars
+  **Stars**: 7345 stars
 
   **Starred On**: 2016-10-26
 
-  **Forks**: 435 forks
+  **Forks**: 436 forks
 
   **Topics**: [freelancer](https://github.com/topics/freelancer),
   [freelance-talent](https://github.com/topics/freelance-talent),
@@ -15068,11 +15115,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-03 23:07:32
 
-  **Stars**: 64731 stars
+  **Stars**: 64755 stars
 
   **Starred On**: 2017-12-18
 
-  **Forks**: 8015 forks
+  **Forks**: 8017 forks
 
   **Topics**: [cpp](https://github.com/topics/cpp),
   [cppcon](https://github.com/topics/cppcon),
@@ -15103,11 +15150,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-06-25 18:13:44
 
-  **Stars**: 156825 stars
+  **Stars**: 156891 stars
 
   **Starred On**: 2020-02-19
 
-  **Forks**: 14692 forks
+  **Forks**: 14696 forks
 
   **Topics**: [bash](https://github.com/topics/bash),
   [unix](https://github.com/topics/unix),
@@ -15139,7 +15186,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2023-10-16 11:21:45
 
-  **Stars**: 14321 stars
+  **Stars**: 14325 stars
 
   **Starred On**: 2021-02-17
 
@@ -15192,7 +15239,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-05 16:24:06
 
-  **Stars**: 5109 stars
+  **Stars**: 5112 stars
 
   **Starred On**: 2024-11-13
 
@@ -15218,13 +15265,13 @@ Last updated 2025-07-07 03:33:17
 
 * [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases): Community plugins list, theme list, and releases of Obsidian.
 
-  **Latest Update**: 2025-07-07 00:26:57
+  **Latest Update**: 2025-07-08 00:26:23
 
-  **Stars**: 12132 stars
+  **Stars**: 12139 stars
 
   **Starred On**: 2024-11-13
 
-  **Forks**: 3557 forks
+  **Forks**: 3566 forks
 
   **Topics**: [obsidian-md](https://github.com/topics/obsidian-md),
   [obsidian](https://github.com/topics/obsidian)
@@ -15233,11 +15280,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-04-04 17:30:30
 
-  **Stars**: 73789 stars
+  **Stars**: 73812 stars
 
   **Starred On**: 2024-11-13
 
-  **Forks**: 7884 forks
+  **Forks**: 7888 forks
 
   **Topics**: [aws](https://github.com/topics/aws),
   [cloud-computing](https://github.com/topics/cloud-computing),
@@ -15254,11 +15301,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-23 07:20:37
 
-  **Stars**: 31219 stars
+  **Stars**: 31224 stars
 
   **Starred On**: 2024-11-13
 
-  **Forks**: 1915 forks
+  **Forks**: 1916 forks
 
   **Topics**: [cto](https://github.com/topics/cto),
   [software-engineering](https://github.com/topics/software-engineering),
@@ -15289,7 +15336,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2021-05-21 09:50:49
 
-  **Stars**: 495 stars
+  **Stars**: 496 stars
 
   **Starred On**: 2024-11-13
 
@@ -15299,11 +15346,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-05 23:21:42
 
-  **Stars**: 379170 stars
+  **Stars**: 379693 stars
 
   **Starred On**: 2024-11-13
 
-  **Forks**: 30327 forks
+  **Forks**: 30374 forks
 
   **Topics**: [awesome](https://github.com/topics/awesome),
   [awesome-list](https://github.com/topics/awesome-list),
@@ -15315,11 +15362,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-11-19 14:00:38
 
-  **Stars**: 175413 stars
+  **Stars**: 175553 stars
 
   **Starred On**: 2024-11-27
 
-  **Forks**: 10917 forks
+  **Forks**: 10923 forks
 
   **Topics**: [awesome](https://github.com/topics/awesome),
   [awesome-list](https://github.com/topics/awesome-list),
@@ -15355,11 +15402,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-01 08:13:14
 
-  **Stars**: 71197 stars
+  **Stars**: 71288 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 8264 forks
+  **Forks**: 8267 forks
 
   **Topics**: [books](https://github.com/topics/books),
   [programmer](https://github.com/topics/programmer),
@@ -15372,11 +15419,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-04-26 22:41:38
 
-  **Stars**: 44441 stars
+  **Stars**: 44460 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2384 forks
+  **Forks**: 2385 forks
 
   **Topics**: [macos](https://github.com/topics/macos),
   [mac](https://github.com/topics/mac),
@@ -15401,11 +15448,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-02-13 06:30:40
 
-  **Stars**: 35695 stars
+  **Stars**: 35755 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 2483 forks
+  **Forks**: 2491 forks
 
   **Topics**: [hacktoberfest](https://github.com/topics/hacktoberfest),
   [free-certifications](https://github.com/topics/free-certifications),
@@ -15432,11 +15479,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-22 16:17:12
 
-  **Stars**: 28632 stars
+  **Stars**: 28633 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 13177 forks
+  **Forks**: 13178 forks
 
   **Topics**: [linkedin](https://github.com/topics/linkedin),
   [quiz-questions](https://github.com/topics/quiz-questions),
@@ -15461,11 +15508,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-28 15:50:39
 
-  **Stars**: 26805 stars
+  **Stars**: 26813 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 6129 forks
+  **Forks**: 6128 forks
 
   **Topics**: [data-science](https://github.com/topics/data-science),
   [machine-learning](https://github.com/topics/machine-learning),
@@ -15497,11 +15544,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-02-11 08:26:14
 
-  **Stars**: 17918 stars
+  **Stars**: 17923 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 1114 forks
+  **Forks**: 1115 forks
 
   **Topics**: [awesome-list](https://github.com/topics/awesome-list),
   [design-systems](https://github.com/topics/design-systems),
@@ -15514,20 +15561,20 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 20:57:46
 
-  **Stars**: 59973 stars
+  **Stars**: 60202 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 4652 forks
+  **Forks**: 4669 forks
 
   **Topics**: [ai](https://github.com/topics/ai),
   [mcp](https://github.com/topics/mcp)
 
 * [openebs/openebs](https://github.com/openebs/openebs): A popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 
-  **Latest Update**: 2025-07-04 00:35:36
+  **Latest Update**: 2025-07-08 00:36:04
 
-  **Stars**: 9367 stars
+  **Stars**: 9369 stars
 
   **Starred On**: 2025-06-28
 
@@ -15558,11 +15605,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-20 07:38:15
 
-  **Stars**: 6409 stars
+  **Stars**: 6418 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 590 forks
+  **Forks**: 592 forks
 
   **Topics**: [awesome](https://github.com/topics/awesome),
   [awesome-list](https://github.com/topics/awesome-list),
@@ -15578,11 +15625,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-06 02:43:02
 
-  **Stars**: 2917 stars
+  **Stars**: 2925 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 205 forks
+  **Forks**: 206 forks
 
   **Topics**: [ai](https://github.com/topics/ai),
   [awesome](https://github.com/topics/awesome),
@@ -15606,7 +15653,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-04-19 22:23:01
 
-  **Stars**: 23618 stars
+  **Stars**: 23622 stars
 
   **Starred On**: 2025-06-28
 
@@ -15627,11 +15674,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-08-15 05:33:54
 
-  **Stars**: 234199 stars
+  **Stars**: 234393 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 30672 forks
+  **Forks**: 30700 forks
 
   **Topics**: [tutorial](https://github.com/topics/tutorial),
   [project](https://github.com/topics/project),
@@ -15646,7 +15693,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-03-11 09:02:45
 
-  **Stars**: 5165 stars
+  **Stars**: 5166 stars
 
   **Starred On**: 2025-06-28
 
@@ -15656,11 +15703,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-04 16:09:23
 
-  **Stars**: 56891 stars
+  **Stars**: 56976 stars
 
   **Starred On**: 2025-06-28
 
-  **Forks**: 6109 forks
+  **Forks**: 6124 forks
 
   **Topics**: [course](https://github.com/topics/course),
   [llm](https://github.com/topics/llm),
@@ -15670,13 +15717,13 @@ Last updated 2025-07-07 03:33:17
 
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
 
-  **Latest Update**: 2025-07-05 11:24:03
+  **Latest Update**: 2025-07-07 22:10:44
 
-  **Stars**: 235322 stars
+  **Stars**: 235458 stars
 
   **Starred On**: 2025-06-29
 
-  **Forks**: 10925 forks
+  **Forks**: 10928 forks
 
   **Topics**: [selfhosted](https://github.com/topics/selfhosted),
   [awesome](https://github.com/topics/awesome),
@@ -15691,11 +15738,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-15 09:20:10
 
-  **Stars**: 63131 stars
+  **Stars**: 63162 stars
 
   **Starred On**: 2025-06-29
 
-  **Forks**: 6450 forks
+  **Forks**: 6454 forks
 
   **Topics**: [system-design](https://github.com/topics/system-design),
   [backend](https://github.com/topics/backend),
@@ -15747,11 +15794,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-06 04:17:31
 
-  **Stars**: 1266 stars
+  **Stars**: 1269 stars
 
   **Starred On**: 2025-06-29
 
-  **Forks**: 2460 forks
+  **Forks**: 2464 forks
 
   **Topics**: [flatpak](https://github.com/topics/flatpak),
   [flathub](https://github.com/topics/flathub)
@@ -15760,7 +15807,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-02 11:25:58
 
-  **Stars**: 4121 stars
+  **Stars**: 4126 stars
 
   **Starred On**: 2025-07-02
 
@@ -15776,11 +15823,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-07-01 21:58:22
 
-  **Stars**: 29714 stars
+  **Stars**: 29729 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 1733 forks
+  **Forks**: 1734 forks
 
   **Topics**: [awesome](https://github.com/topics/awesome),
   [awesome-list](https://github.com/topics/awesome-list),
@@ -15796,7 +15843,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2023-05-04 12:49:34
 
-  **Stars**: 61379 stars
+  **Stars**: 61403 stars
 
   **Starred On**: 2025-07-02
 
@@ -15811,17 +15858,17 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-08-19 13:02:25
 
-  **Stars**: 41978 stars
+  **Stars**: 41981 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 5711 forks
+  **Forks**: 5710 forks
 
 * [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 
   **Latest Update**: 2024-08-21 06:53:29
 
-  **Stars**: 34653 stars
+  **Stars**: 34665 stars
 
   **Starred On**: 2025-07-02
 
@@ -15844,17 +15891,17 @@ Last updated 2025-07-07 03:33:17
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 2889 forks
+  **Forks**: 2888 forks
 
 * [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay): Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 
   **Latest Update**: 2025-06-30 12:36:57
 
-  **Stars**: 25599 stars
+  **Stars**: 25623 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 443 forks
+  **Forks**: 444 forks
 
   **Topics**: [hdmi](https://github.com/topics/hdmi),
   [mac](https://github.com/topics/mac),
@@ -15894,7 +15941,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-05-09 23:55:33
 
-  **Stars**: 21908 stars
+  **Stars**: 21910 stars
 
   **Starred On**: 2025-07-02
 
@@ -15916,7 +15963,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-19 13:53:07
 
-  **Stars**: 16523 stars
+  **Stars**: 16524 stars
 
   **Starred On**: 2025-07-02
 
@@ -15930,7 +15977,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2024-10-19 20:10:33
 
-  **Stars**: 18216 stars
+  **Stars**: 18220 stars
 
   **Starred On**: 2025-07-02
 
@@ -15959,11 +16006,11 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-13 22:52:26
 
-  **Stars**: 8075 stars
+  **Stars**: 8083 stars
 
   **Starred On**: 2025-07-02
 
-  **Forks**: 2092 forks
+  **Forks**: 2094 forks
 
   **Topics**: [study](https://github.com/topics/study),
   [preparation](https://github.com/topics/preparation),
@@ -15990,7 +16037,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-02-23 19:33:25
 
-  **Stars**: 5697 stars
+  **Stars**: 5700 stars
 
   **Starred On**: 2025-07-02
 
@@ -16007,7 +16054,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-06-02 14:21:48
 
-  **Stars**: 1198 stars
+  **Stars**: 1202 stars
 
   **Starred On**: 2025-07-02
 
@@ -16024,7 +16071,7 @@ Last updated 2025-07-07 03:33:17
 
   **Latest Update**: 2025-02-05 01:31:07
 
-  **Stars**: 319 stars
+  **Stars**: 320 stars
 
   **Starred On**: 2025-07-02
 
@@ -16047,13 +16094,93 @@ Last updated 2025-07-07 03:33:17
   [sketchnotes](https://github.com/topics/sketchnotes),
   [note-taking](https://github.com/topics/note-taking)
 
+* [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking): A collection of various awesome lists for hackers, pentesters and security researchers
+
+  **Latest Update**: 2025-01-18 01:48:02
+
+  **Stars**: 94589 stars
+
+  **Starred On**: 2025-07-07
+
+  **Forks**: 9378 forks
+
+  **Topics**: [hacking](https://github.com/topics/hacking),
+  [security](https://github.com/topics/security),
+  [bug-bounty](https://github.com/topics/bug-bounty),
+  [awesome](https://github.com/topics/awesome),
+  [android](https://github.com/topics/android),
+  [fuzzing](https://github.com/topics/fuzzing),
+  [penetration-testing](https://github.com/topics/penetration-testing),
+  [pentesting-windows](https://github.com/topics/pentesting-windows),
+  [reverse-engineering](https://github.com/topics/reverse-engineering)
+
+* [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions): :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar\_board:
+
+  **Latest Update**: 2024-07-29 14:21:23
+
+  **Stars**: 75785 stars
+
+  **Starred On**: 2025-07-07
+
+  **Forks**: 9120 forks
+
+  **Archived On**: 2024-07-29
+
+  **Topics**: [awesome-list](https://github.com/topics/awesome-list),
+  [awesomeness](https://github.com/topics/awesomeness),
+  [interview-questions](https://github.com/topics/interview-questions),
+  [interviewing](https://github.com/topics/interviewing),
+  [interview-practice](https://github.com/topics/interview-practice),
+  [ruby](https://github.com/topics/ruby),
+  [javascript](https://github.com/topics/javascript),
+  [awesome](https://github.com/topics/awesome),
+  [list](https://github.com/topics/list),
+  [python-interview-questions](https://github.com/topics/python-interview-questions),
+  [rails-interview](https://github.com/topics/rails-interview),
+  [javascript-interview-questions](https://github.com/topics/javascript-interview-questions),
+  [angularjs-interview-questions](https://github.com/topics/angularjs-interview-questions),
+  [android-interview-questions](https://github.com/topics/android-interview-questions)
+
+* [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme): 😎 A curated list of awesome GitHub Profile which updates in real time
+
+  **Latest Update**: 2024-08-19 14:44:45
+
+  **Stars**: 27028 stars
+
+  **Starred On**: 2025-07-07
+
+  **Forks**: 4017 forks
+
+  **Topics**: [awesome-list](https://github.com/topics/awesome-list),
+  [awesome](https://github.com/topics/awesome),
+  [github](https://github.com/topics/github),
+  [github-readme](https://github.com/topics/github-readme),
+  [github-profile-readme](https://github.com/topics/github-profile-readme),
+  [portfolio](https://github.com/topics/portfolio),
+  [profile-readme](https://github.com/topics/profile-readme)
+
+* [rubocop/rails-style-guide](https://github.com/rubocop/rails-style-guide): A community-driven Ruby on Rails style guide
+
+  **Latest Update**: 2024-10-22 01:07:23
+
+  **Stars**: 6503 stars
+
+  **Starred On**: 2025-07-07
+
+  **Forks**: 1054 forks
+
+  **Topics**: [ruby](https://github.com/topics/ruby),
+  [rails](https://github.com/topics/rails),
+  [styleguide](https://github.com/topics/styleguide),
+  [rubocop](https://github.com/topics/rubocop)
+
 ## Vala
 
 * [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter): A simple GTK based notification daemon for any Wayland compositor
 
-  **Latest Update**: 2025-07-06 23:30:34
+  **Latest Update**: 2025-07-07 16:30:11
 
-  **Stars**: 1790 stars
+  **Stars**: 1792 stars
 
   **Starred On**: 2025-06-28
 
@@ -16080,13 +16207,13 @@ Last updated 2025-07-07 03:33:17
 
 * [neovim/neovim](https://github.com/neovim/neovim): Vim-fork focused on extensibility and usability
 
-  **Latest Update**: 2025-07-06 23:17:06
+  **Latest Update**: 2025-07-08 01:56:22
 
-  **Stars**: 90880 stars
+  **Stars**: 90922 stars
 
   **Starred On**: 2019-11-08
 
-  **Forks**: 6163 forks
+  **Forks**: 6168 forks
 
   **Topics**: [neovim](https://github.com/topics/neovim),
   [c](https://github.com/topics/c),
@@ -16110,7 +16237,7 @@ Last updated 2025-07-07 03:33:17
 
 * [onedr0p/home-ops](https://github.com/onedr0p/home-ops): Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 
-  **Latest Update**: 2025-07-07 00:29:55
+  **Latest Update**: 2025-07-07 21:38:53
 
   **Stars**: 2416 stars
 
