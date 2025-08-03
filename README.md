@@ -1,121 +1,121 @@
 # Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> :star: generated with [halostatue/starlist](https://github.com/halostatue/starlist)
+> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
 
-Last updated 2025-08-03 17:00:03
+Last updated 2025-08-03 17:13:01
 
-1253 stars in 56 languages
+1261 stars in 56 languages
 
 ## Table of Contents
 
-* [Astro](./docs/Astro.md)
+* [Astro](./docs%2FAstro.md)
 
-* [Awk](./docs/Awk.md)
+* [Awk](./docs%2FAwk.md)
 
-* [Batchfile](./docs/Batchfile.md)
+* [Batchfile](./docs%2FBatchfile.md)
 
-* [C](./docs/C.md)
+* [C](./docs%2FC.md)
 
-* [C#](./docs/C#.md)
+* [C#](./docs%2FC%23.md)
 
-* [C++](./docs/C++.md)
+* [C++](./docs%2FC%2B%2B.md)
 
-* [CSS](./docs/CSS.md)
+* [CSS](./docs%2FCSS.md)
 
-* [Clojure](./docs/Clojure.md)
+* [Clojure](./docs%2FClojure.md)
 
-* [CoffeeScript](./docs/CoffeeScript.md)
+* [CoffeeScript](./docs%2FCoffeeScript.md)
 
-* \[Common Lisp]\(./docs/Common Lisp.md)
+* [Common Lisp](./docs%2FCommon%20Lisp.md)
 
-* [Crystal](./docs/Crystal.md)
+* [Crystal](./docs%2FCrystal.md)
 
-* [D2](./docs/D2.md)
+* [D2](./docs%2FD2.md)
 
-* [Dart](./docs/Dart.md)
+* [Dart](./docs%2FDart.md)
 
-* [Dockerfile](./docs/Dockerfile.md)
+* [Dockerfile](./docs%2FDockerfile.md)
 
-* [Elixir](./docs/Elixir.md)
+* [Elixir](./docs%2FElixir.md)
 
-* [Go](./docs/Go.md)
+* [Go](./docs%2FGo.md)
 
-* [Groovy](./docs/Groovy.md)
+* [Groovy](./docs%2FGroovy.md)
 
-* [HCL](./docs/HCL.md)
+* [HCL](./docs%2FHCL.md)
 
-* [HTML](./docs/HTML.md)
+* [HTML](./docs%2FHTML.md)
 
-* [Hack](./docs/Hack.md)
+* [Hack](./docs%2FHack.md)
 
-* [Haskell](./docs/Haskell.md)
+* [Haskell](./docs%2FHaskell.md)
 
-* \[Hosts File]\(./docs/Hosts File.md)
+* [Hosts File](./docs%2FHosts%20File.md)
 
-* [JSON](./docs/JSON.md)
+* [JSON](./docs%2FJSON.md)
 
-* [Java](./docs/Java.md)
+* [Java](./docs%2FJava.md)
 
-* [JavaScript](./docs/JavaScript.md)
+* [JavaScript](./docs%2FJavaScript.md)
 
-* [Jinja](./docs/Jinja.md)
+* [Jinja](./docs%2FJinja.md)
 
-* \[Jupyter Notebook]\(./docs/Jupyter Notebook.md)
+* [Jupyter Notebook](./docs%2FJupyter%20Notebook.md)
 
-* [Kotlin](./docs/Kotlin.md)
+* [Kotlin](./docs%2FKotlin.md)
 
-* [Lua](./docs/Lua.md)
+* [Lua](./docs%2FLua.md)
 
-* [MDX](./docs/MDX.md)
+* [MDX](./docs%2FMDX.md)
 
-* [Makefile](./docs/Makefile.md)
+* [Makefile](./docs%2FMakefile.md)
 
-* [Markdown](./docs/Markdown.md)
+* [Markdown](./docs%2FMarkdown.md)
 
-* [Nix](./docs/Nix.md)
+* [Nix](./docs%2FNix.md)
 
-* [OCaml](./docs/OCaml.md)
+* [OCaml](./docs%2FOCaml.md)
 
-* [PHP](./docs/PHP.md)
+* [PHP](./docs%2FPHP.md)
 
-* [Perl](./docs/Perl.md)
+* [Perl](./docs%2FPerl.md)
 
-* [PlantUML](./docs/PlantUML.md)
+* [PlantUML](./docs%2FPlantUML.md)
 
-* [PostScript](./docs/PostScript.md)
+* [PostScript](./docs%2FPostScript.md)
 
-* [PowerShell](./docs/PowerShell.md)
+* [PowerShell](./docs%2FPowerShell.md)
 
-* [Python](./docs/Python.md)
+* [Python](./docs%2FPython.md)
 
-* [QML](./docs/QML.md)
+* [QML](./docs%2FQML.md)
 
-* [Ruby](./docs/Ruby.md)
+* [Ruby](./docs%2FRuby.md)
 
-* [Rust](./docs/Rust.md)
+* [Rust](./docs%2FRust.md)
 
-* [SCSS](./docs/SCSS.md)
+* [SCSS](./docs%2FSCSS.md)
 
-* [Scala](./docs/Scala.md)
+* [Scala](./docs%2FScala.md)
 
-* [Shell](./docs/Shell.md)
+* [Shell](./docs%2FShell.md)
 
-* [Starlark](./docs/Starlark.md)
+* [Starlark](./docs%2FStarlark.md)
 
-* [Svelte](./docs/Svelte.md)
+* [Svelte](./docs%2FSvelte.md)
 
-* [Swift](./docs/Swift.md)
+* [Swift](./docs%2FSwift.md)
 
-* [TypeScript](./docs/TypeScript.md)
+* [TypeScript](./docs%2FTypeScript.md)
 
-* [Unclassified](./docs/Unclassified.md)
+* [Unclassified](./docs%2FUnclassified.md)
 
-* [Vala](./docs/Vala.md)
+* [Vala](./docs%2FVala.md)
 
-* \[Vim Script]\(./docs/Vim Script.md)
+* [Vim Script](./docs%2FVim%20Script.md)
 
-* [Vue](./docs/Vue.md)
+* [Vue](./docs%2FVue.md)
 
-* [YAML](./docs/YAML.md)
+* [YAML](./docs%2FYAML.md)
 
-* [Zig](./docs/Zig.md)
+* [Zig](./docs%2FZig.md)
