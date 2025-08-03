@@ -3,23 +3,15 @@
 Last updated {{ updatedAt.date }} {{ updatedAt.time }}
 
 {{ total }} stars in {{ languages | length }} languages
-
 ## Table of Contents
-
 {% for language in languages %}
 ## {{ language }}
-
 {%   set repos = byLanguage[language] -%}
 {%-  set count = repos | length -%}
 {{ count }} repo{{ "s" if count > 1 }}
-
+|Repositories|Description|Stars|
+|-|-|-|
 {%   for repo in repos -%}
-- [{{ repo.name }}]({{ repo.url }}){% if repo.description %}: {{ repo.description }}{% endif %}
-
-  **Stars**: {{ repo.stars }} star{{ "s" if repo.stars > 1 }}
-  {%   if repo.topicCount > 0 %}
-
-  **Topics**: {% for topic in repo.topics -%}[{{ topic.name }}]({{ topic.url }}){{ ", " if loop.last != true }}{% endfor %}
-  {%   endif %}
+|[{{ repo.name }}]({{ repo.url }})|{{ repo.description }}|{{ repo.stars }}|
 {%   endfor %}
 {% endfor %}
