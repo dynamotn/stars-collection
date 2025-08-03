@@ -1,9 +1,8 @@
-# Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Vim Script4 repos
 
-> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
-
-Last updated
-
-stars in 0 languages
-
-## Table of Contents
+| Repository                                                                                      | Description                                                              | Stars |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----- |
+| [neovim/neovim](https://github.com/neovim/neovim)                                               | Vim-fork focused on extensibility and usability                          | 91627 |
+| [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist)                           | projectionist.vim: Granular project configuration                        | 1077  |
+| [vim/vim](https://github.com/vim/vim)                                                           | The official Vim repository                                              | 38645 |
+| [kristijanhusak/vim-dadbod-completion](https://github.com/kristijanhusak/vim-dadbod-completion) | Database autocompletion powered by <https://github.com/tpope/vim-dadbod> | 736   |

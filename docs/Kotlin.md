@@ -1,9 +1,10 @@
-# Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Kotlin6 repos
 
-> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
-
-Last updated
-
-stars in 0 languages
-
-## Table of Contents
+| Repository                                                                | Description                                                                                                                                                | Stars |
+| ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [valentjn/ltex-ls](https://github.com/valentjn/ltex-ls)                   | LTeX Language Server: LSP language server for LanguageTool :mag::heavy\_check\_mark: with support for LaTeX :mortar\_board:, Markdown :pencil:, and others | 874   |
+| [yairm210/Unciv](https://github.com/yairm210/Unciv)                       | Open-source Android/Desktop remake of Civ V                                                                                                                | 9472  |
+| [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)                   | The Magic Mask for Android                                                                                                                                 | 54877 |
+| [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose)             | DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.                             | 2028  |
+| [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) | An F-Droid client with modern UI and an arsenal of extra features.                                                                                         | 3751  |
+| [iamgio/quarkdown](https://github.com/iamgio/quarkdown)                   | 🪐 Markdown with superpowers — from ideas to papers, presentations and books.                                                                              | 8784  |

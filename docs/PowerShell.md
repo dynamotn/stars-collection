@@ -1,9 +1,6 @@
-# Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# PowerShell2 repos
 
-> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
-
-Last updated
-
-stars in 0 languages
-
-## Table of Contents
+| Repository                                                          | Description                                                                                                                                                                                                                                      | Stars |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. | 27667 |
+| [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)                 | 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.                                                                                                                                     | 16286 |

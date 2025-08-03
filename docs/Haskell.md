@@ -1,9 +1,10 @@
-# Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Haskell6 repos
 
-> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
-
-Last updated
-
-stars in 0 languages
-
-## Table of Contents
+| Repository                                                      | Description                                                                          | Stars |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----- |
+| [hadolint/hadolint](https://github.com/hadolint/hadolint)       | Dockerfile linter, validate inline bash, written in Haskell                          | 11399 |
+| [jgm/pandoc](https://github.com/jgm/pandoc)                     | Universal markup converter                                                           | 38621 |
+| [erebe/greenclip](https://github.com/erebe/greenclip)           | Simple clipboard manager to be integrated with rofi - Static binary available        | 1438  |
+| [jaspervdj/patat](https://github.com/jaspervdj/patat)           | Terminal-based presentations using Pandoc                                            | 2593  |
+| [koalaman/shellcheck](https://github.com/koalaman/shellcheck)   | ShellCheck, a static analysis tool for shell scripts                                 | 37848 |
+| [simonmichael/hledger](https://github.com/simonmichael/hledger) | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. | 3351  |

@@ -1,9 +1,7 @@
-# Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Zig3 repos
 
-> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
-
-Last updated
-
-stars in 0 languages
-
-## Table of Contents
+| Repository                                                            | Description                                                                                | Stars |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----- |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser)     | Lightpanda: the headless browser designed for AI and automation                            | 9445  |
+| [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | The financial transactions database designed for mission critical safety and performance.  | 13106 |
+| [oven-sh/bun](https://github.com/oven-sh/bun)                         | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | 79454 |

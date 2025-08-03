@@ -1,9 +1,6 @@
-# Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Astro2 repos
 
-> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
-
-Last updated
-
-stars in 0 languages
-
-## Table of Contents
+| Repository                                                            | Description                                                            | Stars |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----- |
+| [dweam-team/world-arcade](https://github.com/dweam-team/world-arcade) | Find and Play Generative Games Locally                                 | 128   |
+| [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) | 🦄  A curated list of privacy & security-focused software and services | 8120  |

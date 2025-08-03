@@ -1,9 +1,5 @@
-# Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Scala
 
-> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
-
-Last updated
-
-stars in 0 languages
-
-## Table of Contents
+| Repository                                                | Description                                | Stars |
+| --------------------------------------------------------- | ------------------------------------------ | ----- |
+| [snowplow/snowplow](https://github.com/snowplow/snowplow) | The leader in Customer Data Infrastructure | 6946  |

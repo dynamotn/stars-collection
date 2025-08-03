@@ -1,9 +1,6 @@
-# Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Elixir2 repos
 
-> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
-
-Last updated
-
-stars in 0 languages
-
-## Table of Contents
+| Repository                                                    | Description                                                                                          | Stars |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----- |
+| [firezone/firezone](https://github.com/firezone/firezone)     | Enterprise-ready zero-trust access platform built on WireGuard®.                                     | 7450  |
+| [plausible/analytics](https://github.com/plausible/analytics) | Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. | 23017 |

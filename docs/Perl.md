@@ -1,9 +1,7 @@
-# Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Perl3 repos
 
-> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
-
-Last updated
-
-stars in 0 languages
-
-## Table of Contents
+| Repository                                                | Description                                                                                                                                          | Stars |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [smxi/inxi](https://github.com/smxi/inxi)                 | inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs. | 1243  |
+| [sqitchers/sqitch](https://github.com/sqitchers/sqitch)   | Sensible database change management                                                                                                                  | 3020  |
+| [exiftool/exiftool](https://github.com/exiftool/exiftool) | ExifTool meta information reader/writer                                                                                                              | 3888  |

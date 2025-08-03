@@ -1,9 +1,6 @@
-# Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awk2 repos
 
-> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
-
-Last updated
-
-stars in 0 languages
-
-## Table of Contents
+| Repository                                                            | Description                                                                                               | Stars |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----- |
+| [soimort/translate-shell](https://github.com/soimort/translate-shell) | :speech\_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | 7225  |
+| [reconquest/shdoc](https://github.com/reconquest/shdoc)               | Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.                     | 322   |

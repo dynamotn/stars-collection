@@ -1,9 +1,6 @@
-# Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# MDX2 repos
 
-> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
-
-Last updated
-
-stars in 0 languages
-
-## Table of Contents
+| Repository                                                                              | Description                                                                                 | Stars |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----- |
+| [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering                  | 60359 |
+| [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu)   | A technical explainer by @kognise of how your computer runs programs, from start to finish. | 5252  |

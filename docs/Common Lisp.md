@@ -1,9 +1,5 @@
-# Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Common Lisp
 
-> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
-
-Last updated
-
-stars in 0 languages
-
-## Table of Contents
+| Repository                                              | Description                                | Stars |
+| ------------------------------------------------------- | ------------------------------------------ | ----- |
+| [dimitri/pgloader](https://github.com/dimitri/pgloader) | Migrate to PostgreSQL in a single command! | 5948  |

@@ -1,9 +1,7 @@
-# Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Nix3 repos
 
-> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
-
-Last updated
-
-stars in 0 languages
-
-## Table of Contents
+| Repository                                                                  | Description                                                                                                  | Stars |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----- |
+| [nix-community/disko](https://github.com/nix-community/disko)               | Declarative disk partitioning and formatting using nix \[maintainers=Lassulus Enzime iFreilicht Mic92 phaer] | 2447  |
+| [nix-community/home-manager](https://github.com/nix-community/home-manager) | Manage a user environment using Nix  \[maintainer=@khaneliman, @rycee]                                       | 8426  |
+| [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)                           | Nix Packages collection & NixOS                                                                              | 21295 |

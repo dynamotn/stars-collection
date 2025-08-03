@@ -1,9 +1,8 @@
-# Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Markdown4 repos
 
-> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
-
-Last updated
-
-stars in 0 languages
-
-## Table of Contents
+| Repository                                                                              | Description                                                                                      | Stars  |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------ |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch.                        | 406619 |
+| [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)         | 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. | 128791 |
+| [tldr-pages/tldr](https://github.com/tldr-pages/tldr)                                   | 📚 Collaborative cheatsheets for console commands                                                | 58245  |
+| [ellisonleao/magictools](https://github.com/ellisonleao/magictools)                     | :video\_game: :pencil: A list of Game Development resources to make magic happen.                | 14679  |

@@ -1,9 +1,6 @@
-# Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Svelte2 repos
 
-> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
-
-Last updated
-
-stars in 0 languages
-
-## Table of Contents
+| Repository                                              | Description                                                                           | Stars |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----- |
+| [imputnet/cobalt](https://github.com/imputnet/cobalt)   | best way to save what you love                                                        | 35479 |
+| [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library | 38151 |

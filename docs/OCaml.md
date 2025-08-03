@@ -1,9 +1,5 @@
-# Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# OCaml
 
-> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
-
-Last updated
-
-stars in 0 languages
-
-## Table of Contents
+| Repository                                                        | Description                                                                                                                                                                             | Stars |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [terrateamio/terrateam](https://github.com/terrateamio/terrateam) | Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests. | 873   |

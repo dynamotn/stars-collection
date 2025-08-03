@@ -1,9 +1,5 @@
-# Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# JSON
 
-> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
-
-Last updated
-
-stars in 0 languages
-
-## Table of Contents
+| Repository                                            | Description                                                       | Stars |
+| ----------------------------------------------------- | ----------------------------------------------------------------- | ----- |
+| [upptime/upptime](https://github.com/upptime/upptime) | ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary | 16390 |

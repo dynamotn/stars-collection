@@ -1,9 +1,8 @@
-# Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# SCSS4 repos
 
-> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
-
-Last updated
-
-stars in 0 languages
-
-## Table of Contents
+| Repository                                                                                                      | Description                                                               | Stars |
+| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----- |
+| [keyvanakbary/learning-notes](https://github.com/keyvanakbary/learning-notes)                                   | Notes on books I read, talks I watch, articles I study, and papers I love | 6019  |
+| [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)                                         | Badges for your personal developer branding, profile, and projects.       | 15245 |
+| [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix)                                         | 🦊 I respect proton UI and aim to improve it.                             | 5660  |
+| [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) | The conventional commits specification                                    | 7949  |

@@ -1,9 +1,8 @@
-# Star List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Dockerfile4 repos
 
-> :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
-
-Last updated
-
-stars in 0 languages
-
-## Table of Contents
+| Repository                                                                          | Description                                                            | Stars  |
+| ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------ |
+| [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote)                 | Run Obsidian.md in a browser via a docker container.                   | 2013   |
+| [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | :white\_check\_mark:  The Node.js best practices list (July 2024)      | 103832 |
+| [hexops-graveyard/dockerfile](https://github.com/hexops-graveyard/dockerfile)       | Dockerfile best-practices for writing production-worthy Docker images. | 4084   |
+| [vulhub/vulhub](https://github.com/vulhub/vulhub)                                   | Pre-Built Vulnerable Environments Based on Docker-Compose              | 19319  |
