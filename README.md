@@ -2,9 +2,9 @@
 
 > :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
 
-Last updated 2025-08-06 03:38:05
+Last updated 2025-08-07 03:38:11
 
-1277 stars in 56 languages
+1282 stars in 57 languages
 
 ## Table of Contents
 
@@ -97,6 +97,8 @@ Last updated 2025-08-06 03:38:05
 * [SCSS](./docs%2FSCSS.md)
 
 * [Scala](./docs%2FScala.md)
+
+* [Scheme](./docs%2FScheme.md)
 
 * [Shell](./docs%2FShell.md)
 
