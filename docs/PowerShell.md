@@ -1,6 +1,5 @@
-# PowerShell2 repos
+# PowerShell
 
-| Repository                                                          | Description                                                                                                                                                                                                                                      | Stars |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. | 28609 |
-| [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)                 | 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.                                                                                                                                     | 16437 |
+| Repository                                          | Description                                                                                                  | Stars |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----- |
+| [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) | 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. | 16446 |

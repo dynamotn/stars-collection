@@ -2,4 +2,4 @@
 
 | Repository                                                                                                  | Description                      | Stars |
 | ----------------------------------------------------------------------------------------------------------- | -------------------------------- | ----- |
-| [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) | Specifications for OpenTelemetry | 3986  |
+| [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) | Specifications for OpenTelemetry | 3987  |
