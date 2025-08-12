@@ -2,9 +2,9 @@
 
 | Repository                                                      | Description                                                                          | Stars |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----- |
-| [hadolint/hadolint](https://github.com/hadolint/hadolint)       | Dockerfile linter, validate inline bash, written in Haskell                          | 11417 |
-| [jgm/pandoc](https://github.com/jgm/pandoc)                     | Universal markup converter                                                           | 38703 |
+| [hadolint/hadolint](https://github.com/hadolint/hadolint)       | Dockerfile linter, validate inline bash, written in Haskell                          | 11421 |
+| [jgm/pandoc](https://github.com/jgm/pandoc)                     | Universal markup converter                                                           | 38710 |
 | [erebe/greenclip](https://github.com/erebe/greenclip)           | Simple clipboard manager to be integrated with rofi - Static binary available        | 1442  |
-| [jaspervdj/patat](https://github.com/jaspervdj/patat)           | Terminal-based presentations using Pandoc                                            | 2596  |
-| [koalaman/shellcheck](https://github.com/koalaman/shellcheck)   | ShellCheck, a static analysis tool for shell scripts                                 | 37904 |
+| [jaspervdj/patat](https://github.com/jaspervdj/patat)           | Terminal-based presentations using Pandoc                                            | 2597  |
+| [koalaman/shellcheck](https://github.com/koalaman/shellcheck)   | ShellCheck, a static analysis tool for shell scripts                                 | 37913 |
 | [simonmichael/hledger](https://github.com/simonmichael/hledger) | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. | 3357  |
