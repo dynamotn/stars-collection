@@ -2,9 +2,9 @@
 
 | Repository                                                      | Description                                                                          | Stars |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----- |
-| [hadolint/hadolint](https://github.com/hadolint/hadolint)       | Dockerfile linter, validate inline bash, written in Haskell                          | 11457 |
-| [jgm/pandoc](https://github.com/jgm/pandoc)                     | Universal markup converter                                                           | 38919 |
-| [erebe/greenclip](https://github.com/erebe/greenclip)           | Simple clipboard manager to be integrated with rofi - Static binary available        | 1447  |
+| [hadolint/hadolint](https://github.com/hadolint/hadolint)       | Dockerfile linter, validate inline bash, written in Haskell                          | 11460 |
+| [jgm/pandoc](https://github.com/jgm/pandoc)                     | Universal markup converter                                                           | 38931 |
+| [erebe/greenclip](https://github.com/erebe/greenclip)           | Simple clipboard manager to be integrated with rofi - Static binary available        | 1448  |
 | [jaspervdj/patat](https://github.com/jaspervdj/patat)           | Terminal-based presentations using Pandoc                                            | 2607  |
-| [koalaman/shellcheck](https://github.com/koalaman/shellcheck)   | ShellCheck, a static analysis tool for shell scripts                                 | 37977 |
-| [simonmichael/hledger](https://github.com/simonmichael/hledger) | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. | 3377  |
+| [koalaman/shellcheck](https://github.com/koalaman/shellcheck)   | ShellCheck, a static analysis tool for shell scripts                                 | 37983 |
+| [simonmichael/hledger](https://github.com/simonmichael/hledger) | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. | 3378  |
