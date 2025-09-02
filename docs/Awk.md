@@ -2,5 +2,5 @@
 
 | Repository                                                            | Description                                                                                               | Stars |
 | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----- |
-| [soimort/translate-shell](https://github.com/soimort/translate-shell) | :speech\_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | 7241  |
-| [reconquest/shdoc](https://github.com/reconquest/shdoc)               | Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.                     | 325   |
+| [soimort/translate-shell](https://github.com/soimort/translate-shell) | :speech\_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | 7242  |
+| [reconquest/shdoc](https://github.com/reconquest/shdoc)               | Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.                     | 326   |
