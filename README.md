@@ -2,9 +2,9 @@
 
 > :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
 
-Last updated 2025-09-03 03:13:53
+Last updated 2025-09-04 03:17:34
 
-1305 stars in 57 languages
+1305 stars in 56 languages
 
 ## Table of Contents
 
@@ -39,8 +39,6 @@ Last updated 2025-09-03 03:13:53
 * [Elixir](./docs%2FElixir.md)
 
 * [Go](./docs%2FGo.md)
-
-* [Groovy](./docs%2FGroovy.md)
 
 * [HCL](./docs%2FHCL.md)
 
