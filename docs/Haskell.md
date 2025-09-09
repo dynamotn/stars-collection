@@ -2,9 +2,9 @@
 
 | Repository                                                      | Description                                                                          | Stars |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----- |
-| [hadolint/hadolint](https://github.com/hadolint/hadolint)       | Dockerfile linter, validate inline bash, written in Haskell                          | 11483 |
-| [jgm/pandoc](https://github.com/jgm/pandoc)                     | Universal markup converter                                                           | 39129 |
-| [erebe/greenclip](https://github.com/erebe/greenclip)           | Simple clipboard manager to be integrated with rofi - Static binary available        | 1452  |
-| [jaspervdj/patat](https://github.com/jaspervdj/patat)           | Terminal-based presentations using Pandoc                                            | 2615  |
-| [koalaman/shellcheck](https://github.com/koalaman/shellcheck)   | ShellCheck, a static analysis tool for shell scripts                                 | 38065 |
-| [simonmichael/hledger](https://github.com/simonmichael/hledger) | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. | 3476  |
+| [hadolint/hadolint](https://github.com/hadolint/hadolint)       | Dockerfile linter, validate inline bash, written in Haskell                          | 11485 |
+| [jgm/pandoc](https://github.com/jgm/pandoc)                     | Universal markup converter                                                           | 39146 |
+| [erebe/greenclip](https://github.com/erebe/greenclip)           | Simple clipboard manager to be integrated with rofi - Static binary available        | 1454  |
+| [jaspervdj/patat](https://github.com/jaspervdj/patat)           | Terminal-based presentations using Pandoc                                            | 2616  |
+| [koalaman/shellcheck](https://github.com/koalaman/shellcheck)   | ShellCheck, a static analysis tool for shell scripts                                 | 38069 |
+| [simonmichael/hledger](https://github.com/simonmichael/hledger) | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. | 3478  |
