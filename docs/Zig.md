@@ -2,6 +2,6 @@
 
 | Repository                                                            | Description                                                                                | Stars |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----- |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser)     | Lightpanda: the headless browser designed for AI and automation                            | 9656  |
-| [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | The financial transactions database designed for mission critical safety and performance.  | 13403 |
-| [oven-sh/bun](https://github.com/oven-sh/bun)                         | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | 80279 |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser)     | Lightpanda: the headless browser designed for AI and automation                            | 9660  |
+| [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | The financial transactions database designed for mission critical safety and performance.  | 13409 |
+| [oven-sh/bun](https://github.com/oven-sh/bun)                         | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | 80292 |
