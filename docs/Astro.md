@@ -3,4 +3,4 @@
 | Repository                                                            | Description                                                            | Stars |
 | --------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----- |
 | [dweam-team/world-arcade](https://github.com/dweam-team/world-arcade) | Find and Play Generative Games Locally                                 | 129   |
-| [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) | 🦄  A curated list of privacy & security-focused software and services | 8270  |
+| [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) | 🦄  A curated list of privacy & security-focused software and services | 8272  |
