@@ -2,5 +2,5 @@
 
 | Repository                                                          | Description                                                 | Stars |
 | ------------------------------------------------------------------- | ----------------------------------------------------------- | ----- |
-| [iv-org/invidious](https://github.com/iv-org/invidious)             | Invidious is an alternative front-end to YouTube            | 17885 |
-| [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers) | copy pasting in terminal with vimium/vimperator like hints. | 1257  |
+| [iv-org/invidious](https://github.com/iv-org/invidious)             | Invidious is an alternative front-end to YouTube            | 17914 |
+| [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers) | copy pasting in terminal with vimium/vimperator like hints. | 1261  |
