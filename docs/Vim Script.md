@@ -2,7 +2,7 @@
 
 | Repository                                                                                      | Description                                                              | Stars |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----- |
-| [neovim/neovim](https://github.com/neovim/neovim)                                               | Vim-fork focused on extensibility and usability                          | 93463 |
+| [neovim/neovim](https://github.com/neovim/neovim)                                               | Vim-fork focused on extensibility and usability                          | 93517 |
 | [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist)                           | projectionist.vim: Granular project configuration                        | 1080  |
-| [vim/vim](https://github.com/vim/vim)                                                           | The official Vim repository                                              | 39087 |
+| [vim/vim](https://github.com/vim/vim)                                                           | The official Vim repository                                              | 39103 |
 | [kristijanhusak/vim-dadbod-completion](https://github.com/kristijanhusak/vim-dadbod-completion) | Database autocompletion powered by <https://github.com/tpope/vim-dadbod> | 752   |
