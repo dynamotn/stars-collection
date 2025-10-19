@@ -1,6 +1,5 @@
-# Vue2 repos
+# Vue
 
-| Repository                                                    | Description                                                                                                                                                                                                                                                     | Stars |
-| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX.                                                                                                                                                                                                 | 33480 |
-| [moeru-ai/airi](https://github.com/moeru-ai/airi)             | 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. | 15045 |
+| Repository                                                    | Description                                                     | Stars |
+| ------------------------------------------------------------- | --------------------------------------------------------------- | ----- |
+| [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX. | 33528 |
