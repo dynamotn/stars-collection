@@ -2,9 +2,9 @@
 
 > :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
 
-Last updated 2025-10-19 03:29:44
+Last updated 2025-10-20 03:29:26
 
-1312 stars in 56 languages
+1312 stars in 55 languages
 
 ## Table of Contents
 
@@ -81,8 +81,6 @@ Last updated 2025-10-19 03:29:44
 * [PlantUML](./docs%2FPlantUML.md)
 
 * [PostScript](./docs%2FPostScript.md)
-
-* [PowerShell](./docs%2FPowerShell.md)
 
 * [Python](./docs%2FPython.md)
 
