@@ -3,5 +3,5 @@
 | Repository                                                | Description                                                                                                                                          | Stars |
 | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [smxi/inxi](https://github.com/smxi/inxi)                 | inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs. | 1246  |
-| [sqitchers/sqitch](https://github.com/sqitchers/sqitch)   | Sensible database change management                                                                                                                  | 3055  |
-| [exiftool/exiftool](https://github.com/exiftool/exiftool) | ExifTool meta information reader/writer                                                                                                              | 4109  |
+| [sqitchers/sqitch](https://github.com/sqitchers/sqitch)   | Sensible database change management                                                                                                                  | 3056  |
+| [exiftool/exiftool](https://github.com/exiftool/exiftool) | ExifTool meta information reader/writer                                                                                                              | 4117  |
