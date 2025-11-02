@@ -2,4 +2,4 @@
 
 | Repository                                                | Description                                | Stars |
 | --------------------------------------------------------- | ------------------------------------------ | ----- |
-| [snowplow/snowplow](https://github.com/snowplow/snowplow) | The leader in Customer Data Infrastructure | 6965  |
+| [snowplow/snowplow](https://github.com/snowplow/snowplow) | The leader in Customer Data Infrastructure | 6964  |

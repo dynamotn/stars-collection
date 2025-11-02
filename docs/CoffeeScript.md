@@ -2,4 +2,4 @@
 
 | Repository                                                            | Description                             | Stars |
 | --------------------------------------------------------------------- | --------------------------------------- | ----- |
-| [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | No longer maintained, see pinned issues | 22412 |
+| [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | No longer maintained, see pinned issues | 22415 |
