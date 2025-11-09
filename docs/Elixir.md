@@ -2,5 +2,5 @@
 
 | Repository                                                    | Description                                                                                          | Stars |
 | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----- |
-| [firezone/firezone](https://github.com/firezone/firezone)     | Enterprise-ready zero-trust access platform built on WireGuard®.                                     | 8222  |
-| [plausible/analytics](https://github.com/plausible/analytics) | Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. | 23676 |
+| [firezone/firezone](https://github.com/firezone/firezone)     | Enterprise-ready zero-trust access platform built on WireGuard®.                                     | 8225  |
+| [plausible/analytics](https://github.com/plausible/analytics) | Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. | 23680 |
