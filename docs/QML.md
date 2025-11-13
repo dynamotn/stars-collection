@@ -2,4 +2,4 @@
 
 | Repository                                                      | Description                                   | Stars |
 | --------------------------------------------------------------- | --------------------------------------------- | ----- |
-| [papyros/qml-material](https://github.com/papyros/qml-material) | :book: Material Design implemented in QtQuick | 2621  |
+| [papyros/qml-material](https://github.com/papyros/qml-material) | :book: Material Design implemented in QtQuick | 2623  |
