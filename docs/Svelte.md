@@ -1,8 +1,7 @@
-# Svelte4 repos
+# Svelte3 repos
 
-| Repository                                                                                | Description                                                                                                                                                                               | Stars  |
-| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| [imputnet/cobalt](https://github.com/imputnet/cobalt)                                     | best way to save what you love                                                                                                                                                            | 37465  |
-| [open-webui/open-webui](https://github.com/open-webui/open-webui)                         | User-friendly AI Interface (Supports Ollama, OpenAI API, ...)                                                                                                                             | 116970 |
-| [saadeghi/daisyui](https://github.com/saadeghi/daisyui)                                   | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library                                                                                                     | 39510  |
-| [mkshp-dev/obsidian-finance-plugin](https://github.com/mkshp-dev/obsidian-finance-plugin) | A plugin for Obsidian.md to integrate your Beancount plain-text accounting ledger directly into your vault. View financial snapshots and add new transactions without leaving your notes. | 1      |
+| Repository                                                        | Description                                                                           | Stars  |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------ |
+| [imputnet/cobalt](https://github.com/imputnet/cobalt)             | best way to save what you love                                                        | 37481  |
+| [open-webui/open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...)                         | 117127 |
+| [saadeghi/daisyui](https://github.com/saadeghi/daisyui)           | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library | 39528  |
