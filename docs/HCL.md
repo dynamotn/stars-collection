@@ -2,4 +2,4 @@
 
 | Repository                                                        | Description                                               | Stars |
 | ----------------------------------------------------------------- | --------------------------------------------------------- | ----- |
-| [SadServers/sadservers](https://github.com/SadServers/sadservers) | SadServers: Linux & DevOps Troubleshooting Scenarios SaaS | 2615  |
+| [SadServers/sadservers](https://github.com/SadServers/sadservers) | SadServers: Linux & DevOps Troubleshooting Scenarios SaaS | 2617  |
