@@ -2,6 +2,6 @@
 
 | Repository                                                        | Description                                                                           | Stars  |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------ |
-| [imputnet/cobalt](https://github.com/imputnet/cobalt)             | best way to save what you love                                                        | 37704  |
-| [open-webui/open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...)                         | 118679 |
-| [saadeghi/daisyui](https://github.com/saadeghi/daisyui)           | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library | 39699  |
+| [imputnet/cobalt](https://github.com/imputnet/cobalt)             | best way to save what you love                                                        | 37740  |
+| [open-webui/open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...)                         | 119044 |
+| [saadeghi/daisyui](https://github.com/saadeghi/daisyui)           | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library | 39726  |

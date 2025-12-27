@@ -2,4 +2,4 @@
 
 | Repository                                              | Description                                | Stars |
 | ------------------------------------------------------- | ------------------------------------------ | ----- |
-| [dimitri/pgloader](https://github.com/dimitri/pgloader) | Migrate to PostgreSQL in a single command! | 6216  |
+| [dimitri/pgloader](https://github.com/dimitri/pgloader) | Migrate to PostgreSQL in a single command! | 6219  |

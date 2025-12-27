@@ -2,4 +2,4 @@
 
 | Repository                                                | Description                   | Stars |
 | --------------------------------------------------------- | ----------------------------- | ----- |
-| [bigdargon/hostsVN](https://github.com/bigdargon/hostsVN) | Hosts block ads of Vietnamese | 566   |
+| [bigdargon/hostsVN](https://github.com/bigdargon/hostsVN) | Hosts block ads of Vietnamese | 567   |
