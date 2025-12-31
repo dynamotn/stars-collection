@@ -1,6 +1,7 @@
-# Vue2 repos
+# Vue3 repos
 
-| Repository                                                    | Description                                                     | Stars |
-| ------------------------------------------------------------- | --------------------------------------------------------------- | ----- |
-| [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX. | 35909 |
-| [frappe/lms](https://github.com/frappe/lms)                   | Easy to Use, 100% Open Source Learning Management System        | 2553  |
+| Repository                                                    | Description                                                                                                                                                                                                                                                     | Stars |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX.                                                                                                                                                                                                 | 35939 |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi)             | 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. | 16362 |
+| [frappe/lms](https://github.com/frappe/lms)                   | Easy to Use, 100% Open Source Learning Management System                                                                                                                                                                                                        | 2553  |
