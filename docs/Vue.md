@@ -1,7 +1,6 @@
-# Vue3 repos
+# Vue2 repos
 
-| Repository                                                    | Description                                                                                                                                                                                                                                                     | Stars |
-| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX.                                                                                                                                                                                                 | 36036 |
-| [moeru-ai/airi](https://github.com/moeru-ai/airi)             | 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. | 16495 |
-| [frappe/lms](https://github.com/frappe/lms)                   | Easy to Use, 100% Open Source Learning Management System                                                                                                                                                                                                        | 2559  |
+| Repository                                                    | Description                                                     | Stars |
+| ------------------------------------------------------------- | --------------------------------------------------------------- | ----- |
+| [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX. | 36075 |
+| [frappe/lms](https://github.com/frappe/lms)                   | Easy to Use, 100% Open Source Learning Management System        | 2561  |
