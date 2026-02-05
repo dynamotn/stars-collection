@@ -2,7 +2,7 @@
 
 | Repository                                                                                                      | Description                                                               | Stars |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----- |
-| [keyvanakbary/learning-notes](https://github.com/keyvanakbary/learning-notes)                                   | Notes on books I read, talks I watch, articles I study, and papers I love | 6101  |
-| [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)                                         | Badges for your personal developer branding, profile, and projects.       | 16177 |
-| [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix)                                         | 🦊 I respect proton UI and aim to improve it.                             | 5776  |
-| [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) | The conventional commits specification                                    | 8513  |
+| [keyvanakbary/learning-notes](https://github.com/keyvanakbary/learning-notes)                                   | Notes on books I read, talks I watch, articles I study, and papers I love | 6095  |
+| [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)                                         | Badges for your personal developer branding, profile, and projects.       | 16181 |
+| [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix)                                         | 🦊 I respect proton UI and aim to improve it.                             | 5774  |
+| [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) | The conventional commits specification                                    | 8518  |
