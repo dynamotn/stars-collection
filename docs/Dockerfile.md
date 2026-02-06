@@ -3,6 +3,6 @@
 | Repository                                                                          | Description                                                            | Stars  |
 | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------ |
 | [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote)                 | Run Obsidian.md in a browser via a docker container.                   | 2374   |
-| [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | :white\_check\_mark:  The Node.js best practices list (July 2024)      | 105018 |
-| [hexops-graveyard/dockerfile](https://github.com/hexops-graveyard/dockerfile)       | Dockerfile best-practices for writing production-worthy Docker images. | 4093   |
-| [vulhub/vulhub](https://github.com/vulhub/vulhub)                                   | Pre-Built Vulnerable Environments Based on Docker-Compose              | 20231  |
+| [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | :white\_check\_mark:  The Node.js best practices list (July 2024)      | 105051 |
+| [hexops-graveyard/dockerfile](https://github.com/hexops-graveyard/dockerfile)       | Dockerfile best-practices for writing production-worthy Docker images. | 4092   |
+| [vulhub/vulhub](https://github.com/vulhub/vulhub)                                   | Pre-Built Vulnerable Environments Based on Docker-Compose              | 20239  |
