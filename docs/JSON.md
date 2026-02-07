@@ -2,4 +2,4 @@
 
 | Repository                                            | Description                                                       | Stars |
 | ----------------------------------------------------- | ----------------------------------------------------------------- | ----- |
-| [upptime/upptime](https://github.com/upptime/upptime) | ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary | 16842 |
+| [upptime/upptime](https://github.com/upptime/upptime) | ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary | 16844 |
