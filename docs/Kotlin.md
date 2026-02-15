@@ -1,9 +1,10 @@
-# Kotlin5 repos
+# Kotlin6 repos
 
 | Repository                                                                | Description                                                                                                                                                | Stars |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [valentjn/ltex-ls](https://github.com/valentjn/ltex-ls)                   | LTeX Language Server: LSP language server for LanguageTool :mag::heavy\_check\_mark: with support for LaTeX :mortar\_board:, Markdown :pencil:, and others | 914   |
 | [yairm210/Unciv](https://github.com/yairm210/Unciv)                       | Open-source Android/Desktop remake of Civ V                                                                                                                | 10084 |
-| [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose)             | DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.                             | 2405  |
-| [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) | An F-Droid client with modern UI and an arsenal of extra features.                                                                                         | 4327  |
-| [iamgio/quarkdown](https://github.com/iamgio/quarkdown)                   | 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.                                                   | 10058 |
+| [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose)             | DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.                             | 2409  |
+| [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) | An F-Droid client with modern UI and an arsenal of extra features.                                                                                         | 4332  |
+| [iamgio/quarkdown](https://github.com/iamgio/quarkdown)                   | 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.                                                   | 10062 |
+| [Droid-ify/client](https://github.com/Droid-ify/client)                   | Clutterfree F-Droid client                                                                                                                                 | 6378  |
