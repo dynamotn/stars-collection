@@ -1,5 +1,5 @@
 # Nunjucks
 
-| Repository                                                              | Description                                                       | Stars |
-| ----------------------------------------------------------------------- | ----------------------------------------------------------------- | ----- |
-| [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | A list of semi to fully remote-friendly companies (jobs) in tech. | 40005 |
+| Repository                                                              | Description                                                                                          | Stars |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----- |
+| [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies | 40005 |
