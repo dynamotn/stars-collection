@@ -2,5 +2,5 @@
 
 | Repository                                                                          | Description                                                                                                  | Stars |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----- |
-| [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) | Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.             | 876   |
-| [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)                                 | 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. | 20009 |
+| [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) | Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.             | 875   |
+| [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)                                 | 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. | 20016 |
