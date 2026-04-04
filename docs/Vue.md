@@ -2,5 +2,5 @@
 
 | Repository                                                    | Description                                                     | Stars |
 | ------------------------------------------------------------- | --------------------------------------------------------------- | ----- |
-| [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX. | 37923 |
-| [frappe/lms](https://github.com/frappe/lms)                   | Easy to Use, 100% Open Source Learning Management System        | 2774  |
+| [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX. | 37938 |
+| [frappe/lms](https://github.com/frappe/lms)                   | Easy to Use, 100% Open Source Learning Management System        | 2775  |
