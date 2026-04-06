@@ -2,7 +2,7 @@
 
 | Repository                                                            | Description                                                                                | Stars |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----- |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser)     | Lightpanda: the headless browser designed for AI and automation                            | 27105 |
-| [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | The financial transactions database designed for mission critical safety and performance.  | 15555 |
-| [oven-sh/bun](https://github.com/oven-sh/bun)                         | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | 88783 |
-| [hexops/mach](https://github.com/hexops/mach)                         | zig game engine & graphics toolkit - mirror of <https://code.hexops.com/hexops/mach>       | 4675  |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser)     | Lightpanda: the headless browser designed for AI and automation                            | 27262 |
+| [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | The financial transactions database designed for mission critical safety and performance.  | 15562 |
+| [oven-sh/bun](https://github.com/oven-sh/bun)                         | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | 88813 |
+| [hexops/mach](https://github.com/hexops/mach)                         | zig game engine & graphics toolkit - mirror of <https://code.hexops.com/hexops/mach>       | 4676  |
