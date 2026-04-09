@@ -2,4 +2,4 @@
 
 | Repository                                                                            | Description                                                     | Stars |
 | ------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ----- |
-| [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) | 🥑  Language focused docker images, minus the operating system. | 22477 |
+| [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) | 🥑  Language focused docker images, minus the operating system. | 22478 |
