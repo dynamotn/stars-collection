@@ -2,9 +2,9 @@
 
 > :star: generated with [dynamotn/action-awesome-list](https://github.com/dynamotn/action-awesome-list)
 
-Last updated 2026-05-04 01:34:55
+Last updated 2026-05-05 01:34:58
 
-1528 stars in 56 languages
+1529 stars in 55 languages
 
 ## Table of Contents
 
@@ -51,8 +51,6 @@ Last updated 2026-05-04 01:34:55
 * [Hosts File](./docs%2FHosts%20File.md)
 
 * [INI](./docs%2FINI.md)
-
-* [JSON](./docs%2FJSON.md)
 
 * [Java](./docs%2FJava.md)
 
