@@ -2,5 +2,5 @@
 
 | Repository                                              | Description                                                                           | Stars |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----- |
-| [imputnet/cobalt](https://github.com/imputnet/cobalt)   | best way to save what you love                                                        | 40155 |
-| [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library | 40908 |
+| [imputnet/cobalt](https://github.com/imputnet/cobalt)   | best way to save what you love                                                        | 40187 |
+| [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library | 40918 |
