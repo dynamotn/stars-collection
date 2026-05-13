@@ -2,6 +2,6 @@
 
 | Repository                                                                  | Description                                                                                                       | Stars |
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----- |
-| [nix-community/disko](https://github.com/nix-community/disko)               | Declarative disk partitioning and formatting using nix \[maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] | 3041  |
-| [nix-community/home-manager](https://github.com/nix-community/home-manager) | Manage a user environment using Nix  \[maintainer=@khaneliman, @rycee]                                            | 9766  |
-| [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)                           | Nix Packages collection & NixOS                                                                                   | 24689 |
+| [nix-community/disko](https://github.com/nix-community/disko)               | Declarative disk partitioning and formatting using nix \[maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] | 3043  |
+| [nix-community/home-manager](https://github.com/nix-community/home-manager) | Manage a user environment using Nix  \[maintainer=@khaneliman, @rycee]                                            | 9772  |
+| [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)                           | Nix Packages collection & NixOS                                                                                   | 24705 |
