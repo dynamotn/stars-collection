@@ -2,6 +2,6 @@
 
 | Repository                                                            | Description                                                                               | Stars |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----- |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser)     | Lightpanda: the headless browser designed for AI and automation                           | 30610 |
-| [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | The financial transactions database designed for mission critical safety and performance. | 16006 |
-| [hexops/mach](https://github.com/hexops/mach)                         | zig game engine & graphics toolkit - mirror of <https://code.hexops.com/hexops/mach>      | 4740  |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser)     | Lightpanda: the headless browser designed for AI and automation                           | 30625 |
+| [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | The financial transactions database designed for mission critical safety and performance. | 16021 |
+| [hexops/mach](https://github.com/hexops/mach)                         | zig game engine & graphics toolkit - mirror of <https://code.hexops.com/hexops/mach>      | 4743  |
