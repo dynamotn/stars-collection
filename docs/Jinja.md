@@ -2,5 +2,5 @@
 
 | Repository                                                                                      | Description                                                                           | Stars |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----- |
-| [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)                       | Deploy a Production Ready Kubernetes Cluster                                          | 18554 |
-| [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) | This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL | 5388  |
+| [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)                       | Deploy a Production Ready Kubernetes Cluster                                          | 18556 |
+| [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) | This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL | 5389  |
